@@ -82,7 +82,7 @@ ser&aacute; exclusivamente eletr&ocirc;nica.<br>
 Em breve ser&atilde;o publicadas informa&ccedil;&otilde;es sobre o per&iacute;odo de
 submiss&atilde;o e forma de envio.</p>
 
-
+<?php include 'sugestoes_autores.php';?>
 
 <h3>
 Comit&ecirc; de Programa (em forma&ccedil;&atilde;o)
