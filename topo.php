@@ -7,6 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="Escola Regional de Redes de Computadores – ERRC 2019">
     <meta name="author" content="Sociedade Brasileira de Computação (SBC)">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon" />
 
     <title>ERRC 2019</title>
 
