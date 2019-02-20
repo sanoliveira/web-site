@@ -58,6 +58,16 @@ t&oacute;picos da lista a seguir: <br>
                 Em breve ser&atilde;o publicadas informa&ccedil;&otilde;es sobre o per&iacute;odo de
 submiss&atilde;o e forma de envio.</p>
 
+<?php include 'sugestoes_autores.php';?>
+
+<h3>
+Comit&ecirc; de Programa (em forma&ccedil;&atilde;o)
+</h3>
+   <ul class="lista">
+    <?php include 'tpc_wrseg2019.php';?>
+   </ul>
+
+   </ul>
                 <!--         FIM CONTEUDO WRSEG      -->
 <?php
     require_once('rodape.php');
