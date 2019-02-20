@@ -37,6 +37,7 @@
 <li>Luciano Ignaczak (UNISINOS)</li>
 <li>Luciano Paschoal Gaspary (UFRGS)</li>
 <li>Lucio Prade (UNISINOS)</li>
+<li>Magnum Foletto (Àvato)</li>
 <li>Marcia Pasin (UFSM)</li>
 <li>Marco Trentin (UPF)</li>
 <li>Marinho Barcellos (UFRGS)</li>
@@ -58,4 +59,5 @@
 <li>Rodrigo Ruas Oliveira (UFRGS)</li>
 <li>Roger Immich (IC/UNICAMP)</li>
 <li>Tiago Ferreto (PUC-RS)</li>
+<li>Tiago Sanchotente (Raptor)</li>
 <li>Vinícius Guimarães (IFSUL)</li>
