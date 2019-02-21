@@ -13,7 +13,7 @@ resultados de suas pesquisas cient&iacute;ficas ou
 tecnol&oacute;gicas. Cada artigo ser&aacute; avaliado por
 tr&ecirc;s ou mais especialistas.</p>
 
-<h3>T&oacute;picos de interesse:</h3>
+<h3>T&oacute;picos de interesse (lista n&atilde;o exaustiva):</h3>
 <p><i>
 &bull; Arquitetura de redes<br>
 &bull; Caracteriza&ccedil;&atilde;o de redes e

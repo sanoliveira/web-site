@@ -20,12 +20,9 @@ f&oacute;rum visa promover a reuni&atilde;o de pesquisadores e
 profissionais interessados no desenvolvimento da &aacute;rea,
 fomentando o debate e a troca de experi&ecirc;ncias.</p>
 <h3>
-T&oacute;picos de Interesse
+T&oacute;picos de interesse (lista n&atilde;o exaustiva):
 </h3>
 <p>
-Autores s&atilde;o convidados a submeter trabalhos de pesquisa,
-resultados experimentais e em desenvolvimento que incluam
-t&oacute;picos da lista a seguir: <br>
 <i>
 &bull; Anonimato e privacidade computacional<br>
 &bull; An&aacute;lise de c&oacute;digos maliciosos<br>
@@ -52,7 +49,7 @@ t&oacute;picos da lista a seguir: <br>
 &bull; Software seguro: desenvolvimento, testes e certifica&ccedil;&atilde;o<br>
 &bull; T&eacute;cnicas e sistemas para identifica&ccedil;&atilde;o biom&eacute;trica<br>
 &bull; Vota&ccedil;&atilde;o eletr&ocirc;nica segura
-                </i></p>
+</i></p>
                 <h3>Submiss&atilde;o</h3>
                 <p>
                 Em breve ser&atilde;o publicadas informa&ccedil;&otilde;es sobre o per&iacute;odo de
