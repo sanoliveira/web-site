@@ -15,6 +15,7 @@
 <li>Dalvan Griebler (SETREM)</li>
 <li>Diego Kreutz (UNIPAMPA)</li>
 <li>Djamel Sadok (UFPE)</li>
+<li>Douglas Macedo (UFSC)</li>
 <li>Eduardo Back (IENH)</li>
 <li>Erico Amaral (UNIPAMPA)</li>
 <li>Ewerton Salvador (UFPB)</li>
@@ -23,6 +24,7 @@
 <li>Fábio Rossi (PUC-RS)</li>
 <li>Gerson Batistti (UNIJUI)</li>
 <li>Gerson Soares (UNIMI)</li>
+<li>Giani Petri (UFSM)</li>
 <li>Giovane Moura (SIDN)</li>
 <li>Glederson Santos (IFSul)</li>
 <li>Guilherme Koslowski (UDESC)</li>

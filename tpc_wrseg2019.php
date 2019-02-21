@@ -2,6 +2,7 @@
 <li>Carlos Schaeffer (UPF)</li>
 <li>Diego Kreutz (UNIPAMPA)</li>
 <li>Djamel Sadok (UFPE)</li>
+<li>Douglas Macedo (UFSC)</li>
 <li>Felipe Nunes (AMF)</li>
 <li>Giovane Moura (SIDN)</li>
 <li>João Ceron (Universidade de Twente)</li>
