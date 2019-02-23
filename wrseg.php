@@ -98,7 +98,7 @@
 
 <div class="container-fluid bg-success">
     <div class="container">
-        <?php include 'sugestoes_autores.php';?>
+        <?php include 'sugestoes_autores_new.php';?>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
 
