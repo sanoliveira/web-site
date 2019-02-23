@@ -94,7 +94,7 @@
 
 <div class="container-fluid bg-success">
     <div class="container">
-        <?php include 'sugestoes_autores_new.php';?>
+        <?php include 'sugestoes_autores.php';?>
     </div>
 </div>
  
