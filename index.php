@@ -2,45 +2,40 @@
     require_once('topo.php');
 ?>
 
-                <!--         INICIO CONTEUDO HOME      -->
-                <img src="img/banner_v5.png" width="100%" alt="ERRC">
+<!-- BANNER -->
 
-                <h3>
-                 Apresenta&ccedil;&atilde;o
-                </h3>
-                <p>A 17&ordf; Escola Regional de Redes de Computadores &ndash; ERRC 2019 &ndash;
-                ocorrer&aacute; em Alegrete/RS, entre os dias 16 a 19 de Setembro/2019, sendo
-                organizada pela Universidade Federal do Pampa (Unipampa).</p>
-                <p>O ERRC &eacute; um evento anual promovido pela Sociedade Brasileira
-                de Computa&ccedil;&atilde;o (SBC). Ao longo dos anos, a ERRC tornou-se um dos mais
-                importantes eventos cient&iacute;ficos em redes de computadores no Rio Grande do Sul.</p>
-                <p>O evento segue a mesma filosofia de outras escolas realizadas no Rio
-                Grande do Sul, tais como a ERAD (Escola Regional de Alto Desempenho) e ERBD (Escola
-                Regional de Banco de Dados).</p>
-                <p>A Escola dirige seu foco principalmente aos alunos de gradua&ccedil;&atilde;o e
-                p&oacute;s-gradua&ccedil;&atilde;o, bem como aos profissionais que atuam em
-                redes de computadores dentro do &acirc;mbito do estado. O formato inclui palestras,
-                minicursos e oficinas. Os alunos de programas de gradua&ccedil;&atilde;o e
-                p&oacute;s-gradua&ccedil;&atilde;o com trabalhos relacionados aos temas do
-                evento s&atilde;o convidados a apresentarem artigos e, caso estes sejam aceitos,
-                apresent&aacute;-los no evento. Assim, a Escola de Redes de Computadores firma-se
-                como um f&oacute;rum t&eacute;cnico-cient&iacute;fico para a &aacute;rea,
-                onde alunos e profissionais podem discutir o estado-da-arte e as tend&ecirc;ncias em
-                redes de computadores.</p>
+<div class="banner">
+    <img src="img/banner_v5.png" width="100%" alt="ERRC">
+</div>
+<br><br>
 
-        <div class="destaque">
-                <p>Realiza&ccedil;&atilde;o<br>
-                <a href="http://www.sbc.org.br/"><img style="width: 100px; height: 151px;" alt="SBC" src="img/logo_sbc_transparente.png"></a>
-                </p>
-                <p></p>
-                <p>Organiza&ccedil;&atilde;o<br>
-                <a href="http://www.unipampa.edu.br/"><img style="width: 205px; height: 139px;" alt="Unipampa" src="img/logo_unipampa.png"></a>
-                <a href="http://www.iffarroupilha.edu.br/"><img style="width: 180px;" alt="IFFAR" src="img/logo_iffar.png"></a>
-                <br>
-                </p>
-        </div>
+<!-- INICIO CONTEUDO HOME      -->
 
-                <!--         FIM CONTEUDO HOME      -->
+<div class="container-fluid bg-success">
+    <div class="container">
+        <h3>Bem-vindo à ERRC 2019!</h3>
+        <p>
+        A 17&ordf; edição da Escola Regional de Redes de Computadores (ERRC 2019) ocorrerá em Alegrete, RS, no período de 16 a 19 de setembro de 2019 e será organizada pela Universidade Federal do Pampa (Unipampa) com apoio do recém-criado Programa de Pós-graduação em Engenharia de Software (PPGES) e de diversas outras instituições de ensino, pesquisa e extensão. A ERRC é realizada anualmente pela Sociedade Brasileira de Computação (SBC) e acompanha a filosofia de outras escolas realizadas no Estado, como a Escola Regional de Alto Desempenho (ERAD) e a Escola Regional de Banco de Dados (ERBD). A ERRC tem se tornado um dos eventos mais importantes sobre redes de computadores e sistemas distribuídos, servindo como ponto de encontro para alunos e profissionais, apresentando a área para novos talentos e catalisando potenciais colaborações entre a indústria e instituições de ensino, pesquisa e extensão. A área é estratégica para a inserção do Estado nos mercados de tecnologia de ponta, como a conexão por redes de todos os tipos de dispositivos (a chamada Internet das Coisas - IoT) e as tecnologias de comunicação viabilizadoras para a chamada Agricultura da Informação.
+        </p>       
+    </div>
+</div>   
+
+<div class="container-fluid bg-success">
+    <div class="container">
+        <h3>Prazos</h3>
+        <ul class="lista">
+            <li>Submissão de artigos para ERRC  - Em breve </li>
+            <li>Submissão de artigos para WRSeg  - Em breve </li>
+            <li>Submissão de propostas para Minicursos e Tutoriais - Em breve </li>
+        </ul>
+        <br> 
+        <br>
+    </div>
+</div>  
+   
+
+</div><!--         FIM CONTEUDO HOME      -->
+
 <?php
     require_once('rodape.php');
 ?>

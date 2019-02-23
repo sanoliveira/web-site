@@ -1,13 +1,40 @@
+/* 1.1  - Google fonts
+/* ========================================================================== */
+
+/* font-family: 'Raleway', sans-serif; */
+@import url('http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900');
+/* font-family: 'Roboto', sans-serif; */
+@import url('http://fonts.googleapis.com/css?family=Roboto:400,900italic,900,700italic,700,500italic,500,400italic,300,100,100italic,300italic');
+/* font-family: 'Roboto Slab', serif; */
+@import url('http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700');
+
+/* 1.3  - Global properties (body, common classes, structure etc)
+/* ========================================================================== */
+
 body {
-  min-height: 1000px;
-  padding-top: 20px;
-  background: #EEEEEE;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  line-height: 1.33;
+  background:white;
+  color: #6d7a83;
+
+  -webkit-font-kerning: auto;
+  -webkit-font-smoothing: antialiased;
+  -webkit-backface-visibility: visible !important; /* reset animate.css / if hidden parallax buggy */
+  position:relative;
+
+  /*overflow-x: hidden;*/
 }
+body.boxed {
+  background: #6d7a83;
+}
+
+a { color: #00a650; } /* CSS link color (red) */
 a:hover {
-  color: #3366FF;
+  color: #38db22;
 }
 h3 {
-  font-family: arial, helvetica, sans-serif;
+  font-family: 'Raleway', sans-serif;
   padding-top: 40px;
   margin: 0px 20px 0;
   font-weight: bold;
@@ -15,8 +42,27 @@ h3 {
   margin-bottom:30px;
   line-height: 1.5;
 }
+h4 {
+  font-family: 'Raleway', sans-serif;
+  padding-top: 20px;
+  margin: 0px 20px 0;
+  font-weight: bold;
+  color: #666666;
+  margin-bottom:30px;
+  line-height: 1.0;
+}
+hc {
+  font-family: 'Raleway', sans-serif;
+  padding-top: 20px;
+  margin: 0px 20px 0;
+  font-weight: bold;
+  color: white;
+  margin-bottom:30px;
+  line-height: 1.5;
+  font-size: 20px;
+}
 p {
-  font-family: arial, helvetica, sans-serif;
+  font-family: 'Raleway', sans-serif;
   margin: 0 20px 20px;
   color: #666666;
   font-size: 16px;
@@ -29,9 +75,10 @@ p {
   line-height: 2;
 }
 .tabela {
+  font-family: 'Raleway', sans-serif;
   border: 1px solid #000000;
   background-color: #EEEEEE;
-  width: 80%;
+  width: 100%;
   text-align: center;
   border-collapse: collapse;
 }
@@ -59,7 +106,7 @@ p {
   padding-top:10px;
   margin: 0 auto;
   width: 100%;
-  max-width: 800px;
+  max-width: 992px;
   background: white;
 }
 .destaque {
@@ -107,4 +154,23 @@ p {
     float: right;
     background: #fff;
     margin-bottom: 40px;
+}
+
+/* preloader */
+#preloader {
+  background-color: #ffffff;
+}
+.spinner {
+  background: #ffffff;
+  box-shadow: inset 0 0 0 0.12em rgba(0, 0, 0, 0.2);
+  background: -webkit-linear-gradient(#2e9063 50%, #353535 50%), -webkit-linear-gradient(#353535 50%, #2e9063 50%);
+  background: linear-gradient(#2e9063 50%, #353535 50%), linear-gradient(#353535 50%, #2e9063 50%);
+}
+.spinner:after {
+  border: 0.9em solid #ffffff;
+}
+
+ 
+.navbar  {
+  font-size: 12px;
 }

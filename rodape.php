@@ -1,13 +1,19 @@
-              <!-- INICIO CONTEUDO RODAPE -->
+<!-- INICIO CONTEUDO RODAPE -->
+<?php
+  require_once('apoio.php');
+?> 
+    
+<br><br>
 
-       <br><br>
-       <div class="rodape">
-        <!-- Escola Regional de Redes de Computadores - ERRC 2019<br> 16 a 19 de Setembro, Alegrete/RS -->
-         <img style="width: 150px;" alt="ERRC 2019" src="img/logo_errc2019c.png">
-       </div>
-              <!-- FIM CONTEUDO RODAPE -->
-    <!-- Fecha DIV dos conteudos -->
-    </div>
+<div class="rodape">
+<!-- Escola Regional de Redes de Computadores - ERRC 2019<br> 16 a 19 de Setembro, Alegrete/RS -->
+  <img style="width: 150px;" alt="ERRC 2019" src="img/logo_errc2019c.png">
+</div><!-- FIM CONTEUDO RODAPE -->
+    
+    
+
+    
+
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
