@@ -7,13 +7,13 @@
         <br><br><br>
         <h3>Chamada para Trabalhos</h3>
 
-        <p> Autores s&atilde;o convidados a submeter artigos completos contendo
+        <p>Autores s&atilde;o convidados a submeter artigos completos contendo
         resultados de suas pesquisas cient&iacute;ficas ou
         tecnol&oacute;gicas. Cada artigo ser&aacute; avaliado por
         tr&ecirc;s ou mais especialistas.
         </p>
-    </div>
-</div>
+    </div> <!-- fim container -->
+</div> <!-- fim container fluid-->
 
 <div class="container-fluid bg-success">
     <div class="container">
@@ -40,8 +40,8 @@
                     <li>Redes autonômicas e auto-organizáveis</li>
                     <li>Redes definidas por software (SDN)</li>
                     <li>Redes de sensores</li>
-                </ul>
-            </div><!-- col --> 
+                </ul><!-- fim lista -->
+            </div><!-- fim col 1--> 
             <div class="col-md-6">
                 <br>
                 <ul class="lista">
@@ -63,11 +63,11 @@
                     <li>Virtualização de redes</li>
                     <li>Virtualização de funções de rede (NFV)</li>
                 </ul>
-            </div><!-- col --> 
-        </div><!-- row --> 
-    </div><!-- container --> 
-    <br><br>
-</div><!-- container fluid --> 
+            </div> <!-- fim col 2--> 
+        </div> <!-- row --> 
+        <br><br>
+    </div> <!-- fim container --> 
+</div><!-- fim container fluid --> 
 
 <div class="container-fluid">
     <div class="container">
@@ -84,16 +84,17 @@
         endere&ccedil;o <a href="http://www.sbc.org.br">http://www.sbc.org.br</a> (menu Documentos,
         Publica&ccedil;&otilde;es/Templates para Artigos e
         Cap&iacute;tulos de Livros). A submiss&atilde;o de trabalhos
-        ser&aacute; exclusivamente eletr&ocirc;nica.<br>
+        ser&aacute; exclusivamente eletr&ocirc;nica.
         <br>
         Em breve ser&atilde;o publicadas informa&ccedil;&otilde;es sobre o per&iacute;odo de
-        submiss&atilde;o e forma de envio.</p>
-    </div>
-</div>
+        submiss&atilde;o e forma de envio.
+        </p>
+    </div> <!-- fim container --> 
+</div> <!-- fim container fluid --> 
 
 <div class="container-fluid bg-success">
     <div class="container">
-        <?php include 'sugestoes_autores.php';?>
+        <?php include 'sugestoes_autores_new.php';?>
     </div>
 </div>
  
