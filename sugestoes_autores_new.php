@@ -23,7 +23,7 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       artigo compara o trabalho com outros na literatura; no quesito m&eacute;rito t&eacute;cnico, se o artigo
       diz claramente ao revisor qual a contribui&ccedil;&atilde;o do trabalho.
       </li>
-   </ul><!--fim sublista 1 --> 
+   </ul><!--fim sublista 1 -->  
    
 
    <li>
