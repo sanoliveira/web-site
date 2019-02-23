@@ -16,6 +16,7 @@
 <li>Diego Kreutz (UNIPAMPA)</li>
 <li>Djamel Sadok (UFPE)</li>
 <li>Douglas Macedo (UFSC)</li>
+<li>Edson Padoin (UNIJUI)</li>
 <li>Eduardo Back (IENH)</li>
 <li>Erico Amaral (UNIPAMPA)</li>
 <li>Ewerton Salvador (UFPB)</li>
@@ -42,6 +43,7 @@
 <li>Lucio Prade (UNISINOS)</li>
 <li>Magnum Foletto (Àvato)</li>
 <li>Marcia Pasin (UFSM)</li>
+<li>Marco Aurélio Spohn (UFFS)</li>
 <li>Marco Trentin (UPF)</li>
 <li>Marinho Barcellos (UFRGS)</li>
 <li>Pedro Sá da Costa (Copelabs/PT)</li>
