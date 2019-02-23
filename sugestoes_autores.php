@@ -27,55 +27,55 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
    <br><br>
    <ul class="lista">
       <li>
-      Um dos melhores recursos dispon&iacute;veis em Portugu&ecirc;s &eacute; o "Pequeno Manual da Escrita T&eacute;cnica", escrito
-      por Roberto Hexsel, da UFPR. Esse material &eacute; uma boa leitura para alunos ao escreverem seus
+      Um dos melhores recursos dispon&iacute;veis em Portugu&ecirc;s &eacute; o <a href="http://www.inf.ufpr.br/pos/techreport/RT_DINF004_2004.pdf">"Pequeno Manual da Escrita T&eacute;cnica">, escrito
+      por Roberto Hexsel. Esse material &eacute; uma boa leitura para alunos ao escreverem seus
       trabalhos. Um dos lemas do texto &eacute; "leia o que escreveu";
       </li>
       
-      <li>Outro material é <a href="http://1.49.d5.sl.pt/">Como escrever um Artigo Cient&iacute;fico ou T&eacute;cnico: Alguns Aspectos</a>
+      <li>Outro material similar é o <a href="http://1.49.d5.sl.pt/">"Como escrever um Artigo Cient&iacute;fico ou T&eacute;cnico: Alguns Aspectos"</a>
       </li>
       
-      <li>Também pode ajudar entender <a href="https://www.scribd.com/document/11655966/Como-Nao-Escrever-um-Artigo-Cientifico">Como (n&atilde;o) Escrever um Artigo T&eacute;cnico-Cient&iacute;fico</a>
+<li>&Eacute; importante tamb&eacute;m entender os principais aspectos elencados em <a href="https://www.scribd.com/document/11655966/Como-Nao-Escrever-um-Artigo-Cientifico">"Como (n&atilde;o) Escrever um Artigo T&eacute;cnico-Cient&iacute;fico"</a>
       </li>
 
       <li>
-      "Writing Technical Articles" (<a href="http://www.cs.columbia.edu/~hgs/etc/writing-style.html">http://www.cs.columbia.edu/~hgs/etc/writing-style.html</a>),
-      escrito por Henning Schulzrinne, da Universidade de Columbia em Nova York, descreve em detalhes
+      <a href="http://www.cs.columbia.edu/~hgs/etc/writing-style.html">"Writing Technical Articles"</a>,
+      escrito por Henning Schulzrinne, descreve em detalhes
       o processo de se elaborar um artigo t&eacute;cnico de qualidade na &aacute;rea da computa&ccedil;&atilde;o, tratando tamb&eacute;m
       aspectos de estilo.
       </li> 
 
-      <li> Outro material é <a href="https://www.bartleby.com/141/index.html">https://www.bartleby.com/141/index.html</a>).  
+        <li> <a href="https://www.bartleby.com/141/index.html">"The Elements of Style"</a> &eacute; uma refer&ecirc;ncia interessante para compreender e aplicar elementos de estilo na escrita.
       </li> 
 
       <li> A Introdu&ccedil;&atilde;o
-      (<a href="http://www.cs.columbia.edu/~hgs/etc/intro-style.html">http://www.cs.columbia.edu/~hgs/etc/intro-style.html</a>) é fundamental para ``converter'' um potencial leitor em um leitor de fato.
+      (<a href="http://www.cs.columbia.edu/~hgs/etc/intro-style.html">"Writing a good introduction"</a>) é fundamental para ``converter'' um potencial leitor em um leitor de fato.
       </li>
       
       <li>
-      "Dicas sobre escrita" (<a href="http://www.ic.unicamp.br/~rodolfo/dicas/escrita.html">http://www.ic.unicamp.br/~rodolfo/dicas/escrita.html</a>) e "Dicas sobre
-      apresenta&ccedil;&otilde;es" (<a href="http://www.ic.unicamp.br/~rodolfo/dicas/apresentacoes.html">http://www.ic.unicamp.br/~rodolfo/dicas/apresentacoes.html</a>), p&aacute;gina elabora por
-      Rodolfo de Azevedo (UNICAMP), &eacute; cont&eacute;m  dicas para escrita e apresentação de artigos.
+<a href="http://www.ic.unicamp.br/~rodolfo/dicas/escrita.html">"Dicas sobre escrita"</a> e <a href="http://www.ic.unicamp.br/~rodolfo/dicas/apresentacoes.html">"Dicas sobre
+apresenta&ccedil;&otilde;es"</a>), elaboras por
+Rodolfo de Azevedo, cont&eacute;m  dicas importantes e &uacute;teis para escrita e apresentação de artigos.
       </li>
       
       <!--
       <li>
       H&aacute; uma p&aacute;gina com dicas gramaticais aqui, e recomendo como material de refer&ecirc;ncia em rela&ccedil;&atilde;o ao 
       Portugu&ecirc;s, consulte aqui o manual de escrita t&eacute;cnica, na PUCRS.
-      "On Writing Well", escrito por William Zinsser, &eacute; um dos melhores e mais sucintos livros sobre
-      como escrever bem. Usar palavras simples. Frases curtas e objetivas. Entre tantas outras coisas. 
-      Apesar de ser um livro voltado para escrita em ingl&ecirc;s, boa parte de suas dicas podem ser aplicadas 
-      em outras l&iacute;nguas, como portugu&ecirc;s.
+
       </li>
 --> 
 
+       <li>
+        "On Writing Well", escrito por William Zinsser, &eacute; um dos melhores e mais sucintos livros sobre como escrever bem. Usar palavras simples. Frases curtas e objetivas. Entre tantas outras coisas. Apesar de ser um livro voltado para escrita em ingl&ecirc;s, boa parte de suas dicas podem ser aplicadas em outras l&iacute;nguas, como portugu&ecirc;s.
+      </li>
       <li>
-      O post The Six Best Tips From "On Writing Well" (<a href="https://goo.gl/s9AeLs">https://goo.gl/s9AeLs</a>) sumariza as principais
+      O post <a href="https://goo.gl/s9AeLs">"The Six Best Tips From On Writing Well"</a>) sumariza as principais
       dicas do livro "On Writing Well".
       </li>
       
       <li>
-      As notas de Derek Sivers (<a href="https://sivers.org/book/OnWritingWell">https://sivers.org/book/OnWritingWell</a>), do livro "On Writing Well",
+      <a href="https://sivers.org/book/OnWritingWell">"As notas de Derek Sivers"</a>), do livro "On Writing Well",
       cont&eacute;m v&aacute;rias dicas para melhorar substancialmente a habilidade de escrita de qualquer pessoa.
       Tente seguir as dicas para obter resultados cada vez melhores.
       </li>
@@ -93,7 +93,7 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       pe&ccedil;a para amigos ou profissionais em revis&atilde;o de texto dar um toque de qualidade ao seu texto. 
       </li>
 
-      <li>Trocar a cor da letra ou o meio (digital/papel) pode ajudar melhorar a concentração em trechos previamente revisados.
+      <li>Trocar a cor da fonte ou o meio (digital/papel) pode ajudar melhorar a concentração em trechos previamente revisados.
       </li>
 
       <li>
