@@ -54,7 +54,7 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       
       <li>
 <a href="http://www.ic.unicamp.br/~rodolfo/dicas/escrita.html">"Dicas sobre escrita"</a> e <a href="http://www.ic.unicamp.br/~rodolfo/dicas/apresentacoes.html">"Dicas sobre
-apresenta&ccedil;&otilde;es"</a>), elaboras por
+apresenta&ccedil;&otilde;es"</a>, elaboras por
 Rodolfo de Azevedo, cont&eacute;m  dicas importantes e &uacute;teis para escrita e apresentação de artigos.
       </li>
       
