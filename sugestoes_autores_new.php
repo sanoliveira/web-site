@@ -1,3 +1,4 @@
+<--FIM SUGESTOES AUTORES -->
 <h3>Sugest&otilde;es aos Autores</h3>
 
 <p>
@@ -22,12 +23,13 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       artigo compara o trabalho com outros na literatura; no quesito m&eacute;rito t&eacute;cnico, se o artigo
       diz claramente ao revisor qual a contribui&ccedil;&atilde;o do trabalho.
       </li>
-   </ul> 
+   </ul><!--fim sublista 1 -->  
    
 
    <li>
    A segunda sugestão é estudar o processo de escrita. 
    </li>
+
    <br>
    
    <ul class="lista">
@@ -72,7 +74,7 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       Apesar de ser um livro voltado para escrita em ingl&ecirc;s, boa parte de suas dicas podem ser aplicadas 
       em outras l&iacute;nguas, como portugu&ecirc;s.
       </li>
---> 
+      --> 
 
       <li>
       O post The Six Best Tips From "On Writing Well" (<a href="https://goo.gl/s9AeLs">https://goo.gl/s9AeLs</a>) sumariza as principais
@@ -84,12 +86,12 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       cont&eacute;m v&aacute;rias dicas para melhorar substancialmente a habilidade de escrita de qualquer pessoa.
       Tente seguir as dicas para obter resultados cada vez melhores.
       </li>
-   </ul>
+   </ul><!--fim sublista 2 -->
    
-      
    <li>
    A terceira sugestão é revisar o processo de escrita. 
    </li>
+
    <br>
    
    <ul class="lista">
@@ -117,11 +119,9 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
 
       <li>Faça uma revisão fim a fim de uma versão impressa evitar problemas de impressão.
       </li>
-   </ul>
+   </ul> <!--fim sublista 3 -->
    
-</ul>
+</ul><!--fim lista principal -->
 <br><br>
 
-
-
-
+<--FIM SUGESTOES AUTORES -->
