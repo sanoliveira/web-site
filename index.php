@@ -34,7 +34,7 @@
 </div>  
    
 
-</div><!--         FIM CONTEUDO HOME      -->
+</div><!-- FIM CONTEUDO HOME      -->
 
 <?php
     require_once('rodape.php');
