@@ -8,10 +8,7 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
 <ul class="lista">
    <li>
    A primeira sugestão é planejar o que será escrito antes de começar a escrever. 
-   </li>
-   
-   <br> 
-
+   <br><br>
    <ul class="lista">
       <li>Dicas gerais são apresentadas em <a href="http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/10/ogres2.pdf">``Ogres, Villagers, & the Art of Writing
    ''</a>, escrito por S. Keshav.
@@ -23,13 +20,11 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       diz claramente ao revisor qual a contribui&ccedil;&atilde;o do trabalho.
       </li>
    </ul> 
-   
+   </li>
 
    <li>
    A segunda sugestão é estudar o processo de escrita. 
-   </li>
-   <br>
-   
+   <br><br>
    <ul class="lista">
       <li>
       Um dos melhores recursos dispon&iacute;veis em Portugu&ecirc;s &eacute; o "Pequeno Manual da Escrita T&eacute;cnica", escrito
@@ -85,13 +80,11 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       Tente seguir as dicas para obter resultados cada vez melhores.
       </li>
    </ul>
+   </li>
    
-      
    <li>
    A terceira sugestão é revisar o processo de escrita. 
-   </li>
-   <br>
-   
+   <br><br>
    <ul class="lista">
 
       <li>
@@ -118,10 +111,9 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       <li>Faça uma revisão fim a fim de uma versão impressa evitar problemas de impressão.
       </li>
    </ul>
-   
-</ul>
-<br><br>
-
+   </li>
+   </ul>
+<p>
 
 
 
