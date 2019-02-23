@@ -27,7 +27,7 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
    <br><br>
    <ul class="lista">
       <li>
-      Um dos melhores recursos dispon&iacute;veis em Portugu&ecirc;s &eacute; o <a href="http://www.inf.ufpr.br/pos/techreport/RT_DINF004_2004.pdf">"Pequeno Manual da Escrita T&eacute;cnica">, escrito
+      Um dos melhores recursos dispon&iacute;veis em Portugu&ecirc;s &eacute; o <a href="http://www.inf.ufpr.br/pos/techreport/RT_DINF004_2004.pdf">"Pequeno Manual da Escrita T&eacute;cnica"</a>, escrito
       por Roberto Hexsel. Esse material &eacute; uma boa leitura para alunos ao escreverem seus
       trabalhos. Um dos lemas do texto &eacute; "leia o que escreveu";
       </li>
@@ -70,12 +70,12 @@ Rodolfo de Azevedo, cont&eacute;m  dicas importantes e &uacute;teis para escrita
         "On Writing Well", escrito por William Zinsser, &eacute; um dos melhores e mais sucintos livros sobre como escrever bem. Usar palavras simples. Frases curtas e objetivas. Entre tantas outras coisas. Apesar de ser um livro voltado para escrita em ingl&ecirc;s, boa parte de suas dicas podem ser aplicadas em outras l&iacute;nguas, como portugu&ecirc;s.
       </li>
       <li>
-      O post <a href="https://goo.gl/s9AeLs">"The Six Best Tips From On Writing Well"</a>) sumariza as principais
+      O post <a href="https://goo.gl/s9AeLs">"The Six Best Tips From On Writing Well"</a> sumariza as principais
       dicas do livro "On Writing Well".
       </li>
       
       <li>
-      <a href="https://sivers.org/book/OnWritingWell">"As notas de Derek Sivers"</a>), do livro "On Writing Well",
+      <a href="https://sivers.org/book/OnWritingWell">"As notas de Derek Sivers"</a>, do livro "On Writing Well",
       cont&eacute;m v&aacute;rias dicas para melhorar substancialmente a habilidade de escrita de qualquer pessoa.
       Tente seguir as dicas para obter resultados cada vez melhores.
       </li>
