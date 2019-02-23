@@ -2,7 +2,6 @@
     require_once('topo.php');
 ?>
 
-
 <div class="container-fluid">
     <div class="container">
         <br><br><br>
@@ -11,64 +10,63 @@
         <p> Autores s&atilde;o convidados a submeter artigos completos contendo
         resultados de suas pesquisas cient&iacute;ficas ou
         tecnol&oacute;gicas. Cada artigo ser&aacute; avaliado por
-        tr&ecirc;s ou mais especialistas.</p>
+        tr&ecirc;s ou mais especialistas.
+        </p>
     </div>
 </div>
 
 <div class="container-fluid bg-success">
     <div class="container">
         <h3>T&oacute;picos de interesse (lista n&atilde;o exaustiva)</h3>
-
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6" >
-                    <br>
-                    <ul class="lista">
-                        <li>Arquitetura de redes</li>
-                        <li>Computação na nuvem</li>
-                        <li>Computação orientada a serviços</li>
-                        <li>Computação sensível ao contexto</li>
-                        <li>Computação ubíqua/pervasiva</li>
-                        <li>Desempenho, escalabilidade e confiabilidade</li>
-                        <li>Engenharia e controle de tráfego</li>
-                        <li>Especificação, validação e verificação de redes</li>
-                        <li>Gerenciamento e operação de redes</li>
-                        <li>Futura Internet</li>
-                        <li>Medição e monitoração de redes</li>
-                        <li>Projeto e análise de redes</li>
-                        <li>Protocolos de redes</li>
-                        <li>Qualidade de experiência e de serviços</li>
-                        <li>Redes autonômicas e auto-organizáveis</li>
-                        <li>Redes definidas por software (SDN)</li>
-                        <li>Redes de sensores</li>
-                    </ul>
-                </div><!-- col --> 
-                <div class="col-md-6">
-                    <br>
-                    <ul class="lista">
-                        <li>Redes P2P</li>
-                        <li>Redes móveis</li>
-                        <li>Redes ópticas</li>
-                        <li>Redes sem fio</li>
-                        <li>Redes sociais</li>
-                        <li>Redes tolerantes a atrasos/interrupções</li>
-                        <li>Redes veiculares</li>
-                        <li>Redes centradas em informação</li>
-                        <li>Redes sustentáveis (Green Networking)</li>
-                        <li>Roteamento, comutação e endereçamento</li>
-                        <li>Segurança em redes</li>
-                        <li>Serviços Web</li>
-                        <li>Tecnologia e acesso de banda larga</li>
-                        <li>Tolerância a falhas e resiliência</li>
-                        <li>TV Digital</li>
-                        <li>Virtualização de redes</li>
-                        <li>Virtualização de funções de rede (NFV)</li>
-                    </ul>
-                </div><!-- col --> 
-            </div><!-- row --> 
-        </div><!-- container --> 
-        <br><br>
-    </div><!-- container chamada--> 
+   
+        <div class="row">
+            <div class="col-md-6" >
+                <br>
+                <ul class="lista">
+                    <li>Arquitetura de redes</li>
+                    <li>Computação na nuvem</li>
+                    <li>Computação orientada a serviços</li>
+                    <li>Computação sensível ao contexto</li>
+                    <li>Computação ubíqua/pervasiva</li>
+                    <li>Desempenho, escalabilidade e confiabilidade</li>
+                    <li>Engenharia e controle de tráfego</li>
+                    <li>Especificação, validação e verificação de redes</li>
+                    <li>Gerenciamento e operação de redes</li>
+                    <li>Futura Internet</li>
+                    <li>Medição e monitoração de redes</li>
+                    <li>Projeto e análise de redes</li>
+                    <li>Protocolos de redes</li>
+                    <li>Qualidade de experiência e de serviços</li>
+                    <li>Redes autonômicas e auto-organizáveis</li>
+                    <li>Redes definidas por software (SDN)</li>
+                    <li>Redes de sensores</li>
+                </ul>
+            </div><!-- col --> 
+            <div class="col-md-6">
+                <br>
+                <ul class="lista">
+                    <li>Redes P2P</li>
+                    <li>Redes móveis</li>
+                    <li>Redes ópticas</li>
+                    <li>Redes sem fio</li>
+                    <li>Redes sociais</li>
+                    <li>Redes tolerantes a atrasos/interrupções</li>
+                    <li>Redes veiculares</li>
+                    <li>Redes centradas em informação</li>
+                    <li>Redes sustentáveis (Green Networking)</li>
+                    <li>Roteamento, comutação e endereçamento</li>
+                    <li>Segurança em redes</li>
+                    <li>Serviços Web</li>
+                    <li>Tecnologia e acesso de banda larga</li>
+                    <li>Tolerância a falhas e resiliência</li>
+                    <li>TV Digital</li>
+                    <li>Virtualização de redes</li>
+                    <li>Virtualização de funções de rede (NFV)</li>
+                </ul>
+            </div><!-- col --> 
+        </div><!-- row --> 
+    </div><!-- container --> 
+    <br><br>
 </div><!-- container fluid --> 
 
 <div class="container-fluid">
