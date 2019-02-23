@@ -11,5 +11,5 @@
 <li>Reinaldo Gomes (UFCG)</li>
 <li>Ricardo Schmidt (UPF)</li>
 <li>Roberto Samarone Araújo (UFPA)</li>
-<li>Rodrigo Mansilha(Unipampa)</li>
+<li>Rodrigo Mansilha (Unipampa)</li>
 <li>Vinicius Vielmo Cogo (ULisboa)</li>
