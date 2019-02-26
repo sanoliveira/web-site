@@ -99,8 +99,8 @@
 
     <h4>Acesso</h4>
     <p>
-      O município pode ser alcançado por via terrestre através de diversas rodovias em boas condições (BR 290, RS-377 e RS-566). A Estação Rodoviária de Alegrete oferece viagens diárias com origem e destino à Porto Alegre (tempo de viagem aproximado de 6 horas). O Aeroporto Internacional de Uruguaiana oferece conexão aérea com a Capital e se encontra à 148 km de distância de Alegrete. O campus est&aacute; localizado em regi&atilde;o de
-    f&aacute;cil acesso, em uma das principais vias na cidade, na Av. Tiaraju, 810, bairro Ibirapuit&atilde;.<br>
+      O município pode ser alcançado por via terrestre através de diversas rodovias em boas condições (BR 290, RS-377 e RS-566). A <a class="link" href="http://http://www.rodoviariaalegrete.com.br/">Estação Rodoviária de Alegrete</a> oferece viagens diárias com origem e destino à Porto Alegre (tempo de viagem aproximado de 6 horas). O Aeroporto Internacional de Uruguaiana oferece conexão aérea com a Capital e se encontra à 148 km de distância de Alegrete. O campus est&aacute; localizado em regi&atilde;o de
+    f&aacute;cil acesso, em uma das principais vias na cidade, a Av. Tiaraju, 810, no bairro Ibirapuit&atilde;.<br>
     </p>
 
    
@@ -129,12 +129,12 @@
           <div class="col-md-6" >
             <br>
             <ul class="lista">
-                <li>2011	São Leopoldo	UNISINOS</li>
-                <li>2010	Alegrete	UNIPAMPA</li>
-                <li>2009	Três de Maio	SETREM</li>
-                <li>2008	Porto Alegre	UNIRITTER</li>
-                <li>2007	Santa Maria	UFSM</li>
-                <li>2006	Passo Fundo	UPF</li>
+                <li>2011 -	São Leopoldo -	Unisinos</li>
+                <li>2010 -	Alegrete -	Unipampa</li>
+                <li>2009 -	Três de Maio	- Setrem</li>
+                <li>2008 -	Porto Alegre -	Uniritter</li>
+                <li>2007 -	Santa Maria -	UFSM</li>
+                <li>2006 -	Passo Fundo -	UPF</li>
             </ul>
           </div> <!-- FIM COLUNA -->
       </div><!-- FIM LINHA -->
