@@ -122,8 +122,8 @@
                 <li>2016 - Porto Alegre - SENAC </li>
                 <li><a class="link" href="https://www.imed.edu.br/Comunicacao/Eventos/Hotsite/13--errc/">2015 - Passo Fundo - IMED</a></li>
                 <li> <td><a class="link" href="https://www.unilasalle.edu.br/errc2014/">2014 - Canoas - Unilasalle</a></td>
-                <li>2013	Porto Alegre	PUCRS</li>
-                <li>2012	Pelotas	UFPEL</li>
+                <li>2013 -	Porto Alegre -	PUCRS</li>
+                <li>2012 -	Pelotas -	UFPEL</li>
             </ul>
           </div><!-- FIM COLUNA -->
           <div class="col-md-6" >
