@@ -28,20 +28,20 @@
             </div>
         </div><!-- end col -->
 
-        <div class="col-lg-5 col-md-12 text-left">
+        <div class="col-lg-5 col-md-12 text-center">
             
             <h3>Apoio e Patrocínio</h3>
 
             <h4>Diamante</h4>
-            <p>Em breve!</p>
+            <p class="text-center">Em breve!</p>
         
             
             <h4>Ouro</h4>
-            <p>Apoie a escola!</p>
+            <p class="text-center">Apoie a escola!</p>
             
         
             <h4>Prata</h4>
-            <p>Tenha sua marca reconhecida!</p>
+            <p class="text-center">Tenha sua marca reconhecida!</p>
                 
         </div> <!-- end col -->
     </div><!-- end row -->

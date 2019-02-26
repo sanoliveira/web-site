@@ -10,11 +10,27 @@
       <img style="width: 150px;" alt="ERRC 2019" src="img/logo_errc2019c.png">
     </div><!-- FIM CONTEUDO RODAPE -->
     
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
-    <script src="js/bootstrap.min.js"></script>
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <!-- Bootstrap Js CDN -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+
+    
+    <!-- seleciona item na navbar -->
+    $(function() {
+      var url = window.location;
+      // Will only work if string in href matches with location
+      $('ul.nav a[href="'+ url +'"]').parent().addClass('active');
+
+      // Will also work for relative and absolute hrefs
+      $('ul.nav a').filter(function() {
+          return this.href == url;
+      }).parent().addClass('active');
+
+    });
+    </script>
+
+    
   </body>
 </html>

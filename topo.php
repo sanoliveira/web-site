@@ -11,11 +11,16 @@
 
     <title>ERRC 2019</title>
 
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap core CSS 
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    
-    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">-->
+    -->
 
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    
     <!-- Custom styles for this template -->
     <link href="css/layout.css" rel="stylesheet">
 
@@ -40,11 +45,12 @@
 </div>
 
  <body>
-    <!-- Fixed navbar -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+      
+   <!-- Fixed navbar -->
+   <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
       <div class="container">
         <a class="navbar-brand" href="index.php">
-          <img style="height: 40px;" alt="ERRC 2019" src="img/logo_errc2019c.png">
+          <img style="height: 40px; margin-top: -10px" alt="ERRC 2019" src="img/logo_errc2019c.png">
         </a>
 
         <div class="navbar-header">
@@ -54,7 +60,6 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-         
         </div>
         
         <div id="navbar" class="navbar-collapse collapse">
@@ -70,4 +75,5 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
+    <!-- fim navbar -->
 

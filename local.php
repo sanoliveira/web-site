@@ -25,6 +25,13 @@
       Mec&acirc;nica) e 4 cursos de pós-graduação (Mestrado em Engenharia de Software, Mestrado em Engenharia Elétrica, Mestrado em Engenharias e Especialização em Engenharia Econômica).
     </p>
 
+    <p>Chevron-right icon: <span class="glyphicon glyphicon-chevron-right"></span></p>    
+      <p>Chevron-right icon as a link:
+        <a href="#">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+      </p>
+
     <br>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
@@ -41,23 +48,19 @@
         <div class="item active">
           <img style="width: 100%;" src="img/foto_local_02.jpg" alt="Chicago"><br>
           <div class="carousel-caption">
-            <hc>
               Negrinho Triunfante, de Prado Vaz, no Parque Rui Ramos
               <br>
               Foto: Eroni Alves
-            </hc>
           </div>
         </div>
 
         <div class="item">
           <img style="width: 100%;" src="img/foto_local_01.jpg" alt="Campus Alegrete"><br>
-                
+       
           <div class="carousel-caption">
-            <hc>
             Vista para o Campus Alegrete da Unipampa
-              <br>
-              Foto: Jornal Em Quest&atilde;o
-            </hc>
+            <br>
+            Foto: Jornal Em Quest&atilde;o
           </div>
         </div>
 
@@ -65,11 +68,11 @@
           <img style="width: 100%;" src="img/foto_local_03.jpg" alt="Praça"><br>
 
           <div class="carousel-caption">
-            <hc>
-              Pra&ccedil;a Get&uacute;lio Vargas 
-              <br>
-              Foto: Eroni Alves
-            </hc>
+            
+            Pra&ccedil;a Get&uacute;lio Vargas 
+            <br>
+            Foto: Eroni Alves
+             
           </div>
         </div><!-- fim item -->
 
@@ -77,22 +80,23 @@
           <img style="width: 100%;" src="img/foto_local_04.jpg" alt="Maria Fumaça"><br>
 
           <div class="carousel-caption">
-            <hc>
-              Maria Fuma&ccedil;a exposta na antiga esta&ccedil;&atilde;o ferrovi&aacute;ria
-              <br>
-              Foto: Eroni Alves
-            </hc>
+      
+            Maria Fuma&ccedil;a exposta na antiga esta&ccedil;&atilde;o ferrovi&aacute;ria
+            <br>
+            Foto: Eroni Alves
+             
           </div>
         </div><!-- fim item -->
       </div><!-- fim carrousel-inner -->
 
       <!-- Left and right controls -->
       <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-        <span class="glyphicon-chevron-right"><i class="fas fa-chevron-left"></i></span>
+        <span class="glyphicon glyphicon-chevron-left"></span>
         <span class="sr-only">Anterior</span>
       </a>
+
       <a class="right carousel-control" href="#myCarousel" data-slide="next">
-        <span class="glyphicon-chevron-right"><i class="fas fa-chevron-right"></i></span>
+        <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Próximo</span>
       </a>
     </div><!-- fim myCarousel -->

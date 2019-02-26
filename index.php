@@ -4,7 +4,7 @@
 
 <!-- BANNER -->
 <br><br><br><br>
-<div class="banner">
+<div class="img-responsive">
     <img src="img/banner_v5.png" width="100%" alt="ERRC">
 </div>
 <br><br>
@@ -24,9 +24,9 @@
     <div class="container">
         <h3>Prazos</h3>
         <ul class="lista">
-            <li>Submissão de artigos para ERRC  - Em breve </li>
-            <li>Submissão de artigos para WRSeg  - Em breve </li>
-            <li>Submissão de propostas para Minicursos e Tutoriais - Em breve </li>
+            <li>Submissão de artigos para ERRC - em breve! </li>
+            <li>Submissão de artigos para WRSeg - em breve! </li>
+            <li>Submissão de propostas para Minicursos e Tutoriais - em breve! </li>
         </ul>
         <br> 
         <br>
