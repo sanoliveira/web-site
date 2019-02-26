@@ -25,13 +25,6 @@
       Mec&acirc;nica) e 4 cursos de pós-graduação (Mestrado em Engenharia de Software, Mestrado em Engenharia Elétrica, Mestrado em Engenharias e Especialização em Engenharia Econômica).
     </p>
 
-    <p>Chevron-right icon: <span class="glyphicon glyphicon-chevron-right"></span></p>    
-      <p>Chevron-right icon as a link:
-        <a href="#">
-          <span class="glyphicon glyphicon-chevron-right"></span>
-        </a>
-      </p>
-
     <br>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
