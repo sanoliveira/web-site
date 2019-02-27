@@ -1,15 +1,15 @@
-<h3>Sugest&otilde;es aos Autores</h3>
+<!-- INICIO SUGESTOES --> 
 
-<p>
-A seguir são apresentadas sugest&otilde;es endereçadas aos autores que desejam submeter seus
-artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg 2019. Cada sugestão é acompanhada de referências que podem ajudar na sua concretização.
-</p>
+   <h3>Sugest&otilde;es aos Autores</h3>
 
-<ul class="lista">
-   <br>
-   <li>
+   <p>
+   A seguir são apresentadas sugest&otilde;es endereçadas aos autores que desejam submeter seus
+   artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg 2019. Cada sugestão é acompanhada de referências que podem ajudar na sua concretização.
+   </p>
+
+   <p>
    A primeira sugestão é <b>planejar</b> o que será escrito antes de começar a escrever. 
-   <br><br>
+   </p>
    <ul class="lista">
       <li class="text-justify">Dicas gerais são apresentadas em <a href="http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/10/ogres2.pdf">&ldquo;Ogres, Villagers, & the Art of Writing&rdquo;</a>, escrito por S. Keshav.
       </li>
@@ -25,12 +25,12 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       Na prepara&ccedil;&atilde;o do seu artigo, use o formato exigido. O ERRC/WRSeg 2019 exige o <a href="http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros">modelo da SBC</a>. Atente para o espaço disponível.
       </li>   
    </ul> 
-   </li>
+   
 
-   <br>
-   <li>
+    
+   <p>
    A segunda sugestão é <b>estudar</b> o processo de escrita. 
-   <br><br>
+   </p>
    <ul class="lista">
       <li class="text-justify">
       Um dos melhores recursos dispon&iacute;veis em portugu&ecirc;s &eacute; o <a href="http://www.inf.ufpr.br/pos/techreport/RT_DINF004_2004.pdf">&ldquo;Pequeno Manual da Escrita T&eacute;cnica&rdquo;</a>, escrito
@@ -85,14 +85,11 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       Tente seguir as dicas para obter resultados cada vez melhores.
       </li>
    </ul>
-   </li>
-   
-   <br>
-   <li>
-   A terceira sugestão é <b>revisar</b> o artigo. 
-   <br><br>
-   <ul class="lista">
 
+   <p>
+   A terceira sugestão é <b>revisar</b> o artigo. 
+   </p>
+   <ul class="lista">
       <li class="text-justify">
       Fa&ccedil;a uma revis&atilde;o adequada do conteúdo do artigo antes de submeter. Pe&ccedil;a para seus 
       co-autores mais experientes em escrita revisar cuidadosamente a vers&atilde;o final. Alternativamente, 
@@ -100,20 +97,20 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       </li>
 
       <li class="text-justify">
-      Trocar a cor da fonte ou o meio (eletrônico/impresso) pode ajudar recobrar a concentração em trechos que já tenham sido revisados múltiplas vezes anteriormente.
+      Trocar a cor da fonte ou o meio (eletrônico/impresso) pode ajudar a recobrar a concentração em trechos que já tenham sido revisados múltiplas vezes anteriormente.
       </li>
 
       <li class="text-justify">
-      Faça um checklist sobre a formatação do artigo. Nesta estapa, use um corretor ortográfico para evitar erros básicos, como uso da v&iacute;rgula, crase e concord&acirc;ncia nominal. Em seguida, verifique se todos elementos auxiliares, como figuras, tabelas, equações, são referenciados no texto e de maneira adequada. Para cada citação, verifique: se (i) ela é pertinente para trabalho, (ii) se ela é coerente com o artigo referenciado e não é uma referência indireta, e (iii) aponta para o artigo correto. Verifique se todas as referências seguem mesmo padrão, por exemplo, quanto ao grau de detalhes. 
+      Faça um checklist sobre a formatação do artigo. Use um corretor ortográfico para evitar erros básicos, como uso da v&iacute;rgula, crase e concord&acirc;ncia nominal. Em seguida, verifique se todos elementos auxiliares, como figuras, tabelas, equações, são referenciados no texto e de maneira adequada. Para cada citação, verifique: se (i) ela é pertinente para trabalho, (ii) se ela é coerente com o artigo referenciado e não é uma referência indireta, e (iii) aponta para o artigo correto. Verifique se todas as referências seguem mesmo padrão, por exemplo, quanto ao grau de detalhes. 
       </li>
 
       <li class="text-justify">
       Por fim, imprima duas vias do artigo, uma colorida e outra preto e branco, e procure detectar possíveis problemas de impressão.
       </li>
    </ul>
-   </li>
-   </ul>
-<p>
+   <br><br>
+<!-- FIM SUGESTOES --> 
+
 
 
 
