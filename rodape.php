@@ -3,8 +3,6 @@
       require_once('apoio.php');
     ?> 
   
-    <br><br>
-
     <div class="rodape">
       <!-- Escola Regional de Redes de Computadores - ERRC 2019<br> 16 a 19 de Setembro, Alegrete/RS -->
       <div class="container">
