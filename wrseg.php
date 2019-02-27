@@ -1,5 +1,5 @@
 <?php
-    require_once('../topo.php');
+    require_once('topo.php');
 ?>
 
 <div class="container-fluid bg-success">
@@ -90,7 +90,7 @@
     <div class="container">
         <h3>Comit&ecirc; de Programa (em forma&ccedil;&atilde;o)</h3>
         <ul class="lista">
-            <?php include '../tpc_wrseg2019.php';?>
+            <?php include 'tpc_wrseg2019.php';?>
         </ul>
         <br><br>
     </div> <!-- fim container --> 
@@ -98,10 +98,10 @@
 
 <div class="container-fluid bg-success">
     <div class="container">
-        <?php include '../sugestoes_autores.php';?>
+        <?php include 'sugestoes_autores.php';?>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
 
 <?php
-    require_once('../rodape.php');
+    require_once('rodape.php');
 ?>
