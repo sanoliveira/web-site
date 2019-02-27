@@ -1,6 +1,7 @@
 <li>Adriano Fiorese (UDESC)</li>
 <li>Carlos Schaeffer (UPF)</li>
 <li>Diego Kreutz (UNIPAMPA)</li>
+<li>Diogo Menezes Ferrazani Mattos (UFF)</li>
 <li>Djamel Sadok (UFPE)</li>
 <li>Douglas Macedo (UFSC)</li>
 <li>Felipe Nunes (AMF)</li>
