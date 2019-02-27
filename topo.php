@@ -69,7 +69,7 @@
             <li><a href="chamadas.php"><b>Chamadas</b></a></li>
             <li><a href="inscricoes.php"><b>Inscri&ccedil;&otilde;es</b></a></li>
             <li><a href="programacao.php"><b>Programa&ccedil;&atilde;o</b></a></li>
-            <li><a href="wrseg.php"><b>WRSeg</b></a></li>
+            <li><a href="wrseg/index.php"><b>WRSeg</b></a></li>
             <li><a href="organizacao.php"><b>Organiza&ccedil;&atilde;o</b></a></li>
           </ul>
         </div><!--/.nav-collapse -->
