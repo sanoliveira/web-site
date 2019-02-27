@@ -50,7 +50,7 @@
    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
       <div class="container">
         <a class="navbar-brand" href="index.php">
-          <img style="height: 40px; margin-top: -10px" alt="ERRC 2019" src="img/logo_errc2019c.png">
+          <img style="height: 40px; margin-top: -10px" alt="ERRC 2019" src="/wwwsbc/errc/2019/img/logo_errc2019c.png">
         </a>
 
         <div class="navbar-header">
