@@ -32,15 +32,24 @@ body.boxed {
 a { color: #00a650; } 
 a:hover { color: #38db22; }
 
-h3 {
-  font-family: Raleway, sans-serif;
+h2 {
   padding-top: 40px;
   margin: 0px 20px 0;
   font-weight: bold;
   color: #666666;
-  margin-bottom:30px;
+  margin-bottom:20px;
   line-height: 2;
   font-size: 3.0rem;
+}
+
+h3 {
+  padding-top: 30px;
+  margin: 0px 20px 0;
+  font-weight: bold;
+  color: #666666;
+  margin-bottom:15px;
+  line-height: 2;
+  font-size: 2.0rem;
 }
 
 h4 {
@@ -48,9 +57,9 @@ h4 {
   margin: 0px 20px 0;
   font-weight: bold;
   color: #666666;
-  margin-bottom:30px;
+  margin-bottom:10px;
   line-height: 1.5;
-  font-size: 2.0rem;
+  font-size: 1.5rem;
 }
 
 hc {
@@ -94,8 +103,12 @@ p {
   text-align: center;
   margin: 0;
   font-size: small;
-  color: #ccc;
+  color: whitesmoke;
   background: #343a40;
+}
+
+.rodape p {
+  color: whitesmoke;
 }
 
 /* preloader */
@@ -109,18 +122,27 @@ p {
   background: linear-gradient(#2e9063 50%, #353535 50%), linear-gradient(#353535 50%, #2e9063 50%);
 }
 .spinner:after {
-  border: 0.9em solid #ffffff;
-  
+  border: 0.9em solid #ffffff; 
 }
+
 
 .navbar {
   font-size: 1.5rem;
-  color: chartreuse;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  
   background: #343a40;
 }
-
-.navbar.active {
-  font-size: 1rem;
-  color: chartreuse;
-}
  
+ 
+.navbar.grande {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+  z-index: 100;
+}
+
+#logo {
+  transition: 0.7s;
+}
+

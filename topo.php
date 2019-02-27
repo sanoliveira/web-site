@@ -47,10 +47,10 @@
  <body>
       
    <!-- Fixed navbar -->
-   <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
+   <nav class="navbar navbar-default navbar-fixed-top navbar-inverse grande">
       <div class="container">
         <a class="navbar-brand" href="index.php">
-          <img style="height: 40px; margin-top: -10px" alt="ERRC 2019" src="img/logo_errc2019c.png">
+          <img id="logo" style="height: 80px; margin-top: -30px" alt="ERRC 2019" src="img/errc-2019_menu_transparente.png">
         </a>
 
         <div class="navbar-header">
@@ -75,5 +75,8 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
+    
     <!-- fim navbar -->
-
+    <br>
+   
+<!-- fim topo -->

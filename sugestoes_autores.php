@@ -104,7 +104,7 @@ artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg
       </li>
 
       <li class="text-justify">
-      Faça um checklist sobre a formatação do artigo. Nesta estapa, use um corretor ortográfico para evitar erros básicos, como uso da v&iacute;rgula, crase e concord&acirc;ncia nominal. Em seguida, verifique se todos elementos auxiliares, como figuras, tabelas, equações, são referenciados no texto e de maneira adequada. Para cada citação, verifique: se (i) ela é pertinente para trabalho, (ii) se ela é coerente com o artigo referenciado e não é uma referência indireta, e (iii) aponta para o artigo correto. Verifique se todas as referência seguem mesmo padrão, por exemplo, quanto ao grau de detalhes. 
+      Faça um checklist sobre a formatação do artigo. Nesta estapa, use um corretor ortográfico para evitar erros básicos, como uso da v&iacute;rgula, crase e concord&acirc;ncia nominal. Em seguida, verifique se todos elementos auxiliares, como figuras, tabelas, equações, são referenciados no texto e de maneira adequada. Para cada citação, verifique: se (i) ela é pertinente para trabalho, (ii) se ela é coerente com o artigo referenciado e não é uma referência indireta, e (iii) aponta para o artigo correto. Verifique se todas as referências seguem mesmo padrão, por exemplo, quanto ao grau de detalhes. 
       </li>
 
       <li class="text-justify">
