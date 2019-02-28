@@ -11,7 +11,7 @@ tr&ecirc;s ou mais especialistas.
 <li><b>Regular</b>: trabalhos cient&iacute;ficos tradicionais, oriundos de pesquisa formal.</li>
 
 
-<li><b>Experi&ecirc;ncias</b>: trabalhos que descrevem experi&ecirc;ncias pr&aacute;ticas com t&eacute;cnicas ou tecnologias atuais e de interesse do p&uacute;blico alvo do evento. Exemplo ERRC: implanta&ccedil;&atilde;o de uma rede definida por software (SDN) em uma rede corporativa. Exemplo WRSeg: implanta&ccedil;&atilde;o da tecnologia Intel SGX para autentica&ccedil;&atilde;o de usu&aacute;rios.</li>
+<li><b>Experi&ecirc;ncias</b>: trabalhos que descrevem experi&ecirc;ncias pr&aacute;ticas com t&eacute;cnicas ou tecnologias atuais e de interesse do p&uacute;blico alvo do evento. Exemplo de redes: implanta&ccedil;&atilde;o de uma rede definida por software (SDN) em uma rede corporativa. Exemplo de seguran&ccedil;a: implanta&ccedil;&atilde;o da tecnologia Intel SGX para autentica&ccedil;&atilde;o de usu&aacute;rios.</li>
 </ul>
 <br>
 
