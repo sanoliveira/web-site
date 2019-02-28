@@ -104,6 +104,14 @@
     </div>
 </div>
  
+<div class="container-fluid ">
+    <div class="container">
+        <h3>Comit&ecirc; de Programa</h3>
+        <p><a href="https://errc.sbc.org.br/2019/organizacao.php">https://errc.sbc.org.br/2019/organizacao/</a></p>
+        <br><br>
+    </div> <!-- fim container --> 
+</div> <!-- fim container fluid --> 
+
 <?php
     require_once('rodape.php');
 ?>
