@@ -1,33 +1,75 @@
 <br>
 <div class="container">
     <div class="row">
+
+        <!-- INICIO col ORGANIZACAO -->
         <div class="col-lg-7 col-md-12" style="border-right: 1px solid;">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 text-center">          
+    
+            <div class="row"> <!-- row ORGANIZACAO PRINCIPAL -->
+                <div class="col-lg-6 col-md-6 text-center"> <!-- col ORGANIZACAO -->         
                     <h3>Organização</h3>
                     <a href="http://www.unipampa.edu.br/" target="_blank" title="Universidade Federal do Pampa (Unipampa)">
-                        <img style="height: 100px;" alt="Unipampa" src="img/logo_unipampa.png">
+                        <img class="organizadora" alt="Unipampa" src="img/logo_inst_organizadora/Unipampa.png">
                     </a>        
-                </div>
+                </div> <!-- fim col ORGANIZACAO --> 
 
-                <div class="col-lg-6 col-md-6 text-center">  
+                <div class="col-lg-6 col-md-6 text-center"> <!-- col REALIZCAO -->        
                     <h3>Realização</h3>
                     <a href="http://www.sbc.org.br/" target="_blank" title="Sociedade Brasileira de Computação (SBC)">
-                        <img style=" height: 100px;" alt="SBC" src="img/logo_sbc_transparente.png">
+                        <img class="realizadora" alt="SBC" src="img/logo_inst_realizadora/SBC_transparente.png">
                     </a>
-                </div>
-            </div>
+                </div> <!-- fim col REALIZACAO --> 
+            </div> <!-- fim col ORGANIZACAO PRINCIPAL --> 
 
             <div class="row">
-                <div class="col-lg-12 col-md-12  text-center"> 
+                <div class="col-md-12 text-center">
                     <h3>Instituições colaboradoras</h5>
-                        <a href="http://www.iffarroupilha.edu.br/" target="_blank" title="Instituto Federal Farroupilha (IFFar)">
-                            <img style="width: 100px;" alt="Instituto Federal Farroupilha (IFFar)" src="img/logo_iffar.png">
-                        </a>                 
+                </div>
+
+                <div class="col-md-12 text-center">
+                    <a href="https://www.iffarroupilha.edu.br/" target="_blank" title="Instituto Federal Farroupilha (IFFar)">
+                        <img class="colaboradora" alt="Instituto Federal Farroupilha (IFFar)" src="img/logo_inst_colaboradora/IFFAR.png">
+                    </a>
+                 
+                    <a href="https://www.unijui.edu.br/" target="_blank" title="Universidade Regional do Noroeste do Estado do Rio Grande do Sul">
+                        <img class="colaboradora" alt="Universidade Regional do Noroeste do Estado do Rio Grande do Sul" src="img/logo_inst_colaboradora/Unijui.png">
+                    </a>
+                
+                    <a href="https://www.setrem.com.br/" target="_blank" title="Sociedade Educacional Três de Maio">
+                        <img class="colaboradora" alt="Sociedade Educacional Três de Maio" src="img/logo_inst_colaboradora/Setrem.png">
+                    </a>
+
+                    <a href="https://www.ufsm.br/" target="_blank" title="Universidade Federal de Santa Maria">
+                        <img class="colaboradora" alt="Universidade Federal de Santa Maria" src="img/logo_inst_colaboradora/UFSM.png">
+                    </a>
+
+                    <a href="https://www.upf.br/" target="_blank" title="Universidade de Passo Fundo">
+                        <img class="colaboradora" alt="Universidade de Passo Fundo" src="img/logo_inst_colaboradora/UPF.png">
+                    </a>
+             
+                 
+                    <a href="https://www.ifrs.edu.br/" target="_blank" title="Instituto Federal do Rio Grande do Sul (IFRS)">
+                        <img class="colaboradora" alt="Instituto Federal do Rio Grande do Sul (IFRS)" src="img/logo_inst_colaboradora/IFRS.png">
+                    </a>
+                
+                    <a href="https://www.unisinos.br/" target="_blank" title="Universidade do Vale do Rio dos Sinos">
+                        <img class="colaboradora" alt="Universidade do Vale do Rio dos Sinos" src="img/logo_inst_colaboradora/Unisinos.jpg">
+                    </a>
+                
+                    <a href="https://www.udesc.br/" target="_blank" title="Universidade do Estado de Santa Catarina">
+                        <img class="colaboradora" alt="Universidade do Estado de Santa Catarina" src="img/logo_inst_colaboradora/UDESC.png">
+                    </a>
+
+                    <a href="http://www.unicamp.br/" target="_blank" title="Universidade Estadual de Campinas">
+                        <img class="colaboradora" alt="Universidade Estadual de Campinas" src="img/logo_inst_colaboradora/Unicamp.png">
+                    </a>
+
                 </div>
             </div>
-        </div><!-- end col -->
+             
+        </div><!-- end col ORGANIZACAO -->
 
+        <!-- INICIO col PATROCINIO -->
         <div class="col-lg-5 col-md-12 text-center">
             
             <h3>Apoio e Patrocínio</h3>

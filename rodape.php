@@ -31,18 +31,17 @@
     <script type="text/javascript">
 
     
-    <!-- altera navbar -->
+    <!-- altera tamanho da navbar -->
     $(document).ready(function () {
       
       $(window).on('scroll', function () {
           if ($(window).scrollTop() < 100) {
             $('.navbar-fixed-top').addClass('grande'); 
-            
             document.getElementById("logo").style.height = "80px";
             document.getElementById("logo").style.marginTop = "-30px";
+
           } else {
             $('.navbar-fixed-top').removeClass('grande'); 
-            
             document.getElementById("logo").style.height = "40px"; 
             document.getElementById("logo").style.marginTop = "-10px";  
           }
@@ -56,7 +55,6 @@
       // Will only work if string in href matches with location
       
       $('ul.nav a[href="'+ url +'"]').parent().addClass('active');
-
        
       $('ul.nav a').filter(function() {
           return this.href == url;
