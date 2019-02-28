@@ -45,7 +45,7 @@
     require_once('datas_importantes.php');
 ?>
 
-       <p>Abaixo, na seção de submiss&atilde;o de trabalhos, os autores ir&atilde;o encontrar mais informa&ccedil;&otilde;es sobre as modalidades de trabalhos e a forma de envio.</p>
+       <p>Na seção de submiss&atilde;o de trabalhos (a seguir), os autores ir&atilde;o encontrar mais informa&ccedil;&atilde;o sobre as modalidades de trabalhos e a forma de envio.</p>
         
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
