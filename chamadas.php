@@ -4,20 +4,10 @@
 
 <div class="container-fluid">
     <div class="container">
-        <br><br><br>
-        <h3>Chamada para Trabalhos</h3>
-
-        <p>Autores s&atilde;o convidados a submeter artigos completos contendo
-        resultados de suas pesquisas cient&iacute;ficas ou
-        tecnol&oacute;gicas. Cada artigo ser&aacute; avaliado por
-        tr&ecirc;s ou mais especialistas.
-        </p>
 
 <?php
-    require_once('datas_importantes.php');
+    require_once('chamada_de_trabalhos.php');
 ?>
-
-       <p>Na seção de submiss&atilde;o de trabalhos (a seguir), os autores ir&atilde;o encontrar mais informa&ccedil;&atilde;o sobre as modalidades de trabalhos e a forma de envio.</p>
         
     </div> <!-- fim container -->
 </div> <!-- fim container fluid-->
@@ -82,7 +72,7 @@
         <p>
         Ser&atilde;o aceitos trabalhos em duas modalidades: artigos
         completos de no m&aacute;ximo 8 (oito) p&aacute;ginas e resumos
-        estendidos de no m&aacute;ximo 4 (quatro) p&aacute;ginas. O
+        estendidos de no m&aacute;ximo 2 (duas) p&aacute;ginas. O
         n&uacute;mero m&aacute;ximo de p&aacute;ginas para ambas as
         modalidades inclui resumo, abstract, figuras, refer&ecirc;ncias e
         anexos. O texto pode ser escrito nos idiomas portugu&ecirc;s,
