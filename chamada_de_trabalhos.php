@@ -1,6 +1,3 @@
-<br>
-<br>
-<br>
 
 <h3>Chamada para Trabalhos</h3>
 
@@ -8,15 +5,13 @@
 resultados de suas pesquisas cient&iacute;ficas ou
 tecnol&oacute;gicas. Cada trabalho ser&aacute; avaliado por
 tr&ecirc;s ou mais especialistas.
-<br>
-<br>
-<p>A edi&ccedil;&atilde;o de 2019 contemplará duas trilhas de trabalhos:</p>
+<p>A edi&ccedil;&atilde;o de 2019 contemplará duas <b>trilhas</b> de trabalhos:</p>
 
 <ul class="lista">
-    <ol>Regular: trabalhos cient&iacute;ficos tradicionais, oriundos de pesquisa formal.</ol>
+<li><b>Regular</b>: trabalhos cient&iacute;ficos tradicionais, oriundos de pesquisa formal.</li>
 
 
-    <ol>Experi&ecirc;ncias: trabalhos que descrevem experi&ecirc;ncias pr&aacute;ticas com t&eacute;cnicas ou tecnologias atuais e de interesse do p&uacute;blico alvo do evento. Exemplo: implanta&ccedil;&atilde;o de uma rede definida por software (SDN) em uma rede corporativa.</ol>
+<li><b>Experi&ecirc;ncias</b>: trabalhos que descrevem experi&ecirc;ncias pr&aacute;ticas com t&eacute;cnicas ou tecnologias atuais e de interesse do p&uacute;blico alvo do evento. Exemplo: implanta&ccedil;&atilde;o de uma rede definida por software (SDN) em uma rede corporativa.</li>
 </ul>
 <br>
 
