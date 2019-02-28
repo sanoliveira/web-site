@@ -1,4 +1,4 @@
-
+<br>
 <div class="container">
     <div class="row">
         <div class="col-lg-7 col-md-12" style="border-right: 1px solid;">
@@ -46,3 +46,4 @@
         </div> <!-- end col -->
     </div><!-- end row -->
 </div><!-- end container -->
+<br>
