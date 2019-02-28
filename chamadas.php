@@ -12,6 +12,13 @@
         tecnol&oacute;gicas. Cada artigo ser&aacute; avaliado por
         tr&ecirc;s ou mais especialistas.
         </p>
+
+<?php
+    require_once('datas_importantes.php');
+?>
+
+       Abaixo, na seção de submiss&atilde;o de trabalhos, os autores ir&atilde;o encontrar mais informa&ccedil;&otilde;es sobre as modalidades de trabalhos e forma de envio.
+        
     </div> <!-- fim container -->
 </div> <!-- fim container fluid-->
 
@@ -86,8 +93,7 @@
         Cap&iacute;tulos de Livros). A submiss&atilde;o de trabalhos
         ser&aacute; exclusivamente eletr&ocirc;nica.
         <br>
-        Em breve ser&atilde;o publicadas informa&ccedil;&otilde;es sobre o per&iacute;odo de
-        submiss&atilde;o e forma de envio.
+        As submissões serão exclusivamente online através do link <a href="https://errc.sbc.org.br/2019/submissoes/">https://errc.sbc.org.br/2019/submissoes/</a>.
         </p>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 

@@ -30,7 +30,27 @@
     </div>
 </div>
 
-<div class="container-fluid ">
+<div class="container-fluid">
+    <div class="container">
+        
+        <h3>Chamada para Trabalhos</h3>
+
+        <p>Autores s&atilde;o convidados a submeter artigos completos contendo
+        resultados de suas pesquisas cient&iacute;ficas ou
+        tecnol&oacute;gicas. Cada artigo ser&aacute; avaliado por
+        tr&ecirc;s ou mais especialistas.
+        </p>
+
+<?php
+    require_once('datas_importantes.php');
+?>
+
+       Abaixo, na seção de submiss&atilde;o de trabalhos, os autores ir&atilde;o encontrar mais informa&ccedil;&otilde;es sobre as modalidades de trabalhos e a forma de envio.
+        
+    </div> <!-- fim container --> 
+</div> <!-- fim container fluid --> 
+
+<div class="container-fluid bg-success">
     <div class="container">
         <h3>Tópicos de interesse (lista não exaustiva)</h3>
         
@@ -76,13 +96,31 @@
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
 
+<div class="container-fluid">
+    <div class="container">
+        <h3>Submiss&atilde;o de Trabalhos</h3>
+        <p>
+        Ser&atilde;o aceitos trabalhos em duas modalidades: artigos
+        completos de no m&aacute;ximo 6 (seis) p&aacute;ginas e resumos
+        de no m&aacute;ximo 1 (uma) p&aacute;gina. O
+        n&uacute;mero m&aacute;ximo de p&aacute;ginas para ambas as
+        modalidades inclui resumo, abstract, figuras, refer&ecirc;ncias e
+        anexos. O texto pode ser escrito nos idiomas portugu&ecirc;s,
+        espanhol ou ingl&ecirc;s, seguindo os formatos (LaTeX e Word)
+        dispon&iacute;veis no site da SBC, atrav&eacute;s do
+        endere&ccedil;o <a href="http://www.sbc.org.br">http://www.sbc.org.br</a> (menu Documentos,
+        Publica&ccedil;&otilde;es/Templates para Artigos e
+        Cap&iacute;tulos de Livros). A submiss&atilde;o de trabalhos
+        ser&aacute; exclusivamente eletr&ocirc;nica.
+        <br>
+        As submissões serão exclusivamente online através do link <a href="https://errc.sbc.org.br/2019/wrseg/submissoes/">https://errc.sbc.org.br/2019/wrseg/submissoes/</a>.
+        </p>
+    </div> <!-- fim container --> 
+</div> <!-- fim container fluid --> 
+
 <div class="container-fluid bg-success">
     <div class="container">
-        <h3>Submiss&atilde;o</h3>
-        <p>
-        Em breve ser&atilde;o publicadas informa&ccedil;&otilde;es sobre o per&iacute;odo de
-        submiss&atilde;o e forma de envio.
-        </p>
+        <?php include 'sugestoes_autores.php';?>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
 
@@ -93,12 +131,6 @@
             <?php include 'tpc_wrseg2019.php';?>
         </ul>
         <br><br>
-    </div> <!-- fim container --> 
-</div> <!-- fim container fluid --> 
-
-<div class="container-fluid bg-success">
-    <div class="container">
-        <?php include 'sugestoes_autores.php';?>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
 
