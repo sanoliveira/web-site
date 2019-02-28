@@ -6,7 +6,7 @@
    A seguir são apresentadas sugest&otilde;es endereçadas aos autores que desejam submeter seus
    artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg 2019. Cada sugestão é acompanhada de referências que podem ajudar na sua concretização.
    </p>
-
+<br>
    <p>
    A primeira sugestão é <b>planejar</b> o que será escrito antes de começar a escrever. 
    </p>
@@ -27,6 +27,7 @@
    </ul> 
    
 
+<br>
     
    <p>
    A segunda sugestão é <b>estudar</b> o processo de escrita. 
@@ -86,6 +87,7 @@
       </li>
    </ul>
 
+<br>
    <p>
    A terceira sugestão é <b>revisar</b> o artigo. 
    </p>
