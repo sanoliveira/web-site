@@ -86,6 +86,7 @@
         Cap&iacute;tulos de Livros). A submiss&atilde;o de trabalhos
         ser&aacute; exclusivamente eletr&ocirc;nica.
         <br>
+        <br>
         As submissões serão exclusivamente online através do link <a href="https://errc.sbc.org.br/2019/submissoes/">https://errc.sbc.org.br/2019/submissoes/</a>.
         </p>
     </div> <!-- fim container --> 
