@@ -1,4 +1,5 @@
-<b>Datas Importantes</b>
+<p><b>Datas Importantes</b></p>
+<br>
 <br>
 <ul class="lista">
 <li><b>10/julho/2019</b>: data <b>limite</b> para registro de trabalho</li>
