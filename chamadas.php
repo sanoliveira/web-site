@@ -101,7 +101,7 @@
 <div class="container-fluid ">
     <div class="container">
         <h3>Comit&ecirc; de Programa</h3>
-        <p>A lista dos membros do comit&ecirc; de programa est&aacute; dispon&iacute;vel em <a href="https://errc.sbc.org.br/2019/organizacao.php">https://errc.sbc.org.br/2019/organizacao</a></p>
+        <p>A lista dos membros do comit&ecirc; de programa est&aacute; dispon&iacute;vel em <a href="https://errc.sbc.org.br/2019/comite.php">https://errc.sbc.org.br/2019/comite/</a></p>
         <br><br>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
