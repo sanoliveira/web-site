@@ -12,7 +12,7 @@
 <li>Djamel Sadok (UFPE)</li>
 <li>Douglas Macedo (UFSC)</li>
 <li>Eduardo Monks (SENAC-RS)</li>
-<li>Érico Hoff do Amaral (UNIPAMPA)</li>
+<li>Erico Hoff do Amaral (UNIPAMPA)</li>
 <li>Felipe Nunes (AMF)</li>
 <li>Giovane Moura (SIDN)</li>
 <li>João Ceron (Universidade de Twente)</li>
@@ -22,7 +22,6 @@
 <li>Luis Augusto Dias Knob (IFRS-Sertão)</li>
 <li>Marco Antônio Sandini Trentin (UPF)</li>
 <li>Márcia Henke (UFSM)</li>
-<li>Pedro Marcos (FURG)</li>
 <li>Rafael Aschoff (IFPE)</li>
 <li>Raul Ceretta Nunes (UFSM)</li>
 <li>Reinaldo Gomes (UFCG)</li>

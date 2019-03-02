@@ -48,6 +48,7 @@
 <li>Marco Aurélio Spohn (UFFS)</li>
 <li>Marco Trentin (UPF)</li>
 <li>Marinho Barcellos (UFRGS)</li>
+<li>Pedro Marcos (FURG)</li>
 <li>Pedro Sá da Costa (Copelabs/PT)</li>
 <li>Rafael Aschoff (IFPE)</li>
 <li>Rafael Bastos (UFPEL)</li>
