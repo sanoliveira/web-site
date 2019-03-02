@@ -53,7 +53,7 @@
 <li>Rafael Aschoff (IFPE)</li>
 <li>Rafael Bastos (UFPEL)</li>
 <li>Rafael Esteves (IFRS)</li>
-<li>Rafael Kunst (UFRGS)</li>
+<li>Rafael Kunst (UNISINOS)</li>
 <li>Raul Ceretta Nunes (UFSM)</li>
 <li>Regio Michelin (IFRS)</li>
 <li>Reinaldo Gomes (UFCG)</li>
