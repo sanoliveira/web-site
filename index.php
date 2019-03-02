@@ -23,13 +23,13 @@
 <div class="container-fluid bg-success">
     <div class="container">
         <div class="row">
-            <div class="col-md-8 text-left">    
+            <div class="col-md-6 text-left">    
                 <?php
                     require_once('datas_importantes.php');
                 ?>
             </div>
                   
-            <div class="col-md-4 text-left">   
+            <div class="col-md-6 text-left">   
                 <h4>Calendário</h4> 
                 <!-- 1:1 aspect ratio -->
                 <div class="embed-responsive embed-responsive-16by9">
