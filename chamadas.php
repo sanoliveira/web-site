@@ -87,7 +87,7 @@
         ser&aacute; exclusivamente eletr&ocirc;nica.
         <br>
         <br>
-        As submissões serão exclusivamente online através do link <a href="https://errc.sbc.org.br/2019/submissoes/">https://errc.sbc.org.br/2019/submissoes/</a>.
+        As submissões serão exclusivamente online através do link <a href="https://errc.sbc.org.br/2019/submissoes">https://errc.sbc.org.br/2019/submissoes</a>.
         </p>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
@@ -101,7 +101,7 @@
 <div class="container-fluid ">
     <div class="container">
         <h3>Comit&ecirc; de Programa</h3>
-        <p>A lista dos membros do comit&ecirc; de programa est&aacute; dispon&iacute;vel em <a href="https://errc.sbc.org.br/2019/comite.php">https://errc.sbc.org.br/2019/comite/</a></p>
+        <p>A lista dos membros do comit&ecirc; de programa est&aacute; dispon&iacute;vel em <a href="https://errc.sbc.org.br/2019/comite">https://errc.sbc.org.br/2019/comite</a></p>
         <br><br>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 

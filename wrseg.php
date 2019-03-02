@@ -104,7 +104,7 @@
         ser&aacute; exclusivamente eletr&ocirc;nica.
         <br>
         <br>
-        As submissões serão exclusivamente online através do link <a href="https://errc.sbc.org.br/2019/wrseg/submissoes/">https://errc.sbc.org.br/2019/wrseg/submissoes/</a>.
+        As submissões serão exclusivamente online através do link <a href="https://errc.sbc.org.br/2019/wrseg/submissoes">https://errc.sbc.org.br/2019/wrseg/submissoes</a>.
         </p>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
