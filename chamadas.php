@@ -17,6 +17,29 @@
 
 <div class="container-fluid bg-success">
     <div class="container">
+        <h3>Submiss&atilde;o de Trabalhos</h3>
+        <p>
+        Ser&atilde;o aceitos trabalhos em duas modalidades: artigos
+        completos de no m&aacute;ximo 8 (oito) p&aacute;ginas e resumos
+        estendidos de no m&aacute;ximo 2 (duas) p&aacute;ginas. O
+        n&uacute;mero m&aacute;ximo de p&aacute;ginas para ambas as
+        modalidades inclui resumo, abstract, figuras, refer&ecirc;ncias e
+        anexos. O texto pode ser escrito nos idiomas portugu&ecirc;s,
+        espanhol ou ingl&ecirc;s, seguindo os formatos (LaTeX e Word)
+        dispon&iacute;veis no site da SBC, atrav&eacute;s do
+        endere&ccedil;o <a href="http://www.sbc.org.br">http://www.sbc.org.br</a> (menu Documentos,
+        Publica&ccedil;&otilde;es/Templates para Artigos e
+        Cap&iacute;tulos de Livros). A submiss&atilde;o de trabalhos
+        ser&aacute; exclusivamente eletr&ocirc;nica.
+        <br>
+        <br>
+        As submissões serão exclusivamente online através do link <a href="https://errc.sbc.org.br/2019/submissoes">https://errc.sbc.org.br/2019/submissoes</a>.
+        </p>
+    </div> <!-- fim container --> 
+</div> <!-- fim container fluid --> 
+
+<div class="container-fluid ">
+    <div class="container">
         <h3>T&oacute;picos de interesse (lista n&atilde;o exaustiva)</h3>
    
         <div class="row">
@@ -69,28 +92,7 @@
     </div> <!-- fim container --> 
 </div><!-- fim container fluid --> 
 
-<div class="container-fluid">
-    <div class="container">
-        <h3>Submiss&atilde;o de Trabalhos</h3>
-        <p>
-        Ser&atilde;o aceitos trabalhos em duas modalidades: artigos
-        completos de no m&aacute;ximo 8 (oito) p&aacute;ginas e resumos
-        estendidos de no m&aacute;ximo 2 (duas) p&aacute;ginas. O
-        n&uacute;mero m&aacute;ximo de p&aacute;ginas para ambas as
-        modalidades inclui resumo, abstract, figuras, refer&ecirc;ncias e
-        anexos. O texto pode ser escrito nos idiomas portugu&ecirc;s,
-        espanhol ou ingl&ecirc;s, seguindo os formatos (LaTeX e Word)
-        dispon&iacute;veis no site da SBC, atrav&eacute;s do
-        endere&ccedil;o <a href="http://www.sbc.org.br">http://www.sbc.org.br</a> (menu Documentos,
-        Publica&ccedil;&otilde;es/Templates para Artigos e
-        Cap&iacute;tulos de Livros). A submiss&atilde;o de trabalhos
-        ser&aacute; exclusivamente eletr&ocirc;nica.
-        <br>
-        <br>
-        As submissões serão exclusivamente online através do link <a href="https://errc.sbc.org.br/2019/submissoes">https://errc.sbc.org.br/2019/submissoes</a>.
-        </p>
-    </div> <!-- fim container --> 
-</div> <!-- fim container fluid --> 
+
 
 <div class="container-fluid bg-success">
     <div class="container">
