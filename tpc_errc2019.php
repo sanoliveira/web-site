@@ -1,6 +1,7 @@
 <li>Adenauer Yamin (UFPEL)</li>
 <li>Adriano Fiorese (UDESC)</li>
 <li>Alberto Schaeffer-Filho (UFRGS)</li>
+<li>Anderson Monteiro da Rocha (IFFarroupilha)</li>
 <li>Andrea Charao (UFSM)</li>
 <li>André Riker (UFPA)</li>
 <li>Arthur Lorenzon (UNIPAMPA)</li>
