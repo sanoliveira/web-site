@@ -92,7 +92,7 @@
         <p>
         Ser&atilde;o aceitos trabalhos em duas modalidades: artigos
         completos de no m&aacute;ximo 6 (seis) p&aacute;ginas e resumos
-        de no m&aacute;ximo 1 (uma) p&aacute;gina. O
+        de no m&aacute;ximo 2 (duas) p&aacute;ginas. O
         n&uacute;mero m&aacute;ximo de p&aacute;ginas para ambas as
         modalidades inclui resumo, abstract, figuras, refer&ecirc;ncias e
         anexos. O texto pode ser escrito nos idiomas portugu&ecirc;s,
