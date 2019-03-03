@@ -1,15 +1,26 @@
 <!DOCTYPE html>
 <html lang="pt_br">
   <head>
+    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="17&ordf; Escola Regional de Redes de Computadores (ERRC 2019)">
+    <meta name="keywords" content="Escola Regional de Redes de Computadores 2019" />
     <meta name="author" content="Sociedade Brasileira de Computação (SBC)">
     <link rel="icon" href="img/favicon.ico" type="image/x-icon" />
-
     <title>ERRC 2019</title>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135465542-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-135465542-1');
+    </script>
 
     <!-- Bootstrap core CSS 
     <link href="css/bootstrap.min.css" rel="stylesheet">

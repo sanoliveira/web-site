@@ -22,15 +22,23 @@
 
 <div class="container-fluid bg-success">
     <div class="container">
-        <h3>Prazos</h3>
-        <ul class="lista">
-            <li>Submissão de artigos para ERRC - em breve! </li>
-            <li>Submissão de artigos para WRSeg - em breve! </li>
-            <li>Submissão de propostas para Minicursos e Tutoriais - em breve! </li>
-        </ul>
-        <br> 
-        <br>
-    </div>
+        <div class="row">
+            <div class="col-md-6 text-left">    
+                <?php
+                    require_once('datas_importantes.php');
+                ?>
+            </div>
+                  
+            <div class="col-md-6 text-left">   
+                <h4>Calendário</h4> 
+                <!-- 1:1 aspect ratio -->
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=600&amp;wkst=1&amp;hl=pt_BR&amp;bgcolor=%23FFFFFF&amp;src=2019errc%40gmail.com&amp;color=%23125A12&amp;ctz=America%2FSao_Paulo" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+            </div>
+        </div> <!-- fim row -->
+    </div> <!-- fim container -->
+    <br> 
+    <br>
 </div>  
    
 
