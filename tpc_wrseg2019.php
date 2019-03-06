@@ -6,6 +6,7 @@
 <li>Bruno Mozzaquatro (UFSM)</li>
 <li>Carlos Schaeffer (UPF)</li>
 <li>Carlos Vinicius Rasch Alves (SENAC-RS)</li>
+<li>Charles Christian Miers (UDESC)</li>
 <li>Cristiano Bonato Both (UFCSPA)</li>
 <li>Diego Kreutz (UNIPAMPA)</li>
 <li>Diogo Menezes Ferrazani Mattos (UFF)</li>

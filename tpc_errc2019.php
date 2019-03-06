@@ -9,6 +9,7 @@
 <li>Carlos Raniery Paula dos Santos (UFSM)</li>
 <li>Carlos Schaeffer (UPF)</li>
 <li>Carlos Vinícius Rasch Alves (SENAC-RS)</li>
+<li>Charles Christian Miers (UDESC)</li>
 <li>Clarissa Marquezan (Huawei)</li>
 <li>Claudio Schepke (UNIPAMPA)</li>
 <li>Cristiano Both (UFRGS)</li>
