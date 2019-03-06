@@ -12,7 +12,7 @@
 <li>Charles Christian Miers (UDESC)</li>
 <li>Clarissa Marquezan (Huawei)</li>
 <li>Claudio Schepke (UNIPAMPA)</li>
-<li>Cristiano Both (UFRGS)</li>
+<li>Cristiano Both (UNISINOS)</li>
 <li>Cristina Nunes (PUC-RS)</li>
 <li>Dalvan Griebler (SETREM)</li>
 <li>Diego Kreutz (UNIPAMPA)</li>
@@ -56,6 +56,7 @@
 <li>Rafael Bastos (UFPEL)</li>
 <li>Rafael Esteves (IFRS)</li>
 <li>Rafael Kunst (UNISINOS)</li>
+<li>Rafael Teodósio Pereira (CTISM/UFSM)</li>
 <li>Raul Ceretta Nunes (UFSM)</li>
 <li>Regio Michelin (IFRS)</li>
 <li>Reinaldo Gomes (UFCG)</li>
