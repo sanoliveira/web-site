@@ -60,6 +60,7 @@
 <li>Raul Ceretta Nunes (UFSM)</li>
 <li>Regio Michelin (IFRS)</li>
 <li>Reinaldo Gomes (UFCG)</li>
+<li>Ricardo José Pfitscher (UFRGS)</li>
 <li>Ricardo Luis dos Santos (UFRGS)</li>
 <li>Ricardo Schmidt (UPF)</li>
 <li>Roben Lunardi (IFRS)</li>
@@ -72,5 +73,6 @@
 <li>Rogério Turchetti (UFSM)</li>
 <li>Tiago Ferreto (PUC-RS)</li>
 <li>Tiago Sanchotente (Raptor)</li>
+<li>Valter Roesler (UFRGS)</li>
 <li>Vinicius Vielmo Cogo (ULisboa)</li>
 <li>Vinícius Guimarães (IFSUL)</li>
