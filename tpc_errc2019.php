@@ -56,7 +56,6 @@
 <li>Rafael Bastos (UFPEL)</li>
 <li>Rafael Esteves (IFRS)</li>
 <li>Rafael Kunst (UNISINOS)</li>
-<li>Rafael Teodósio Pereira (CTISM/UFSM)</li>
 <li>Raul Ceretta Nunes (UFSM)</li>
 <li>Regio Michelin (IFRS)</li>
 <li>Reinaldo Gomes (UFCG)</li>
