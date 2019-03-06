@@ -21,6 +21,7 @@
 <li>Douglas Macedo (UFSC)</li>
 <li>Edson Padoin (UNIJUI)</li>
 <li>Eduardo Back (IENH)</li>
+<li>Eduardo Moroñas Monks (SENAC-RS/UFPEL)</li>
 <li>Erico Amaral (UNIPAMPA)</li>
 <li>Ewerton Salvador (UFPB)</li>
 <li>Fauzi Shubeita (SETREM)</li>
