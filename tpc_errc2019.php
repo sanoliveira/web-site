@@ -56,6 +56,7 @@
 <li>Rafael Bastos (UFPEL)</li>
 <li>Rafael Esteves (IFRS)</li>
 <li>Rafael Kunst (UNISINOS)</li>
+<li>Rafael Teodósio Pereira (CTISM/UFSM)</li>
 <li>Raul Ceretta Nunes (UFSM)</li>
 <li>Regio Michelin (IFRS)</li>
 <li>Reinaldo Gomes (UFCG)</li>
@@ -68,6 +69,7 @@
 <li>Rodrigo Righi (UNISINOS)</li>
 <li>Rodrigo Ruas Oliveira (UFRGS)</li>
 <li>Roger Immich (IC/UNICAMP)</li>
+<li>Rogério Turchetti (UFSM)</li>
 <li>Tiago Ferreto (PUC-RS)</li>
 <li>Tiago Sanchotente (Raptor)</li>
 <li>Vinicius Vielmo Cogo (ULisboa)</li>
