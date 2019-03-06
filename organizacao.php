@@ -24,6 +24,7 @@
         <h3>Coordena&ccedil;&atilde;o (colabora&ccedil;&atilde;o)</h3>
         <ul class="lista">
             <li>Fauzi Shubeita (Setrem)</li>
+            <li>Charles Christian Miers (UDESC)</li>
         </ul>
 
         <h3>Organiza&ccedil;&atilde;o do Comit&ecirc; de Programa ERRC</h3>
