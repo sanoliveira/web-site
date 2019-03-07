@@ -19,6 +19,7 @@
 <li>Diogo Menezes Ferrazani Mattos (UFF)</li>
 <li>Djamel Sadok (UFPE)</li>
 <li>Douglas Macedo (UFSC)</li>
+<li>Edison Pignaton De Freitas (UFRGS)</li>
 <li>Edson Padoin (UNIJUI)</li>
 <li>Eduardo Back (IENH)</li>
 <li>Eduardo Moroñas Monks (SENAC-RS/UFPEL)</li>
@@ -50,6 +51,7 @@
 <li>Marco Aurélio Spohn (UFFS)</li>
 <li>Marco Trentin (UPF)</li>
 <li>Marinho Barcellos (UFRGS)</li>
+<li>Matias Schimuneck (UFRGS)</li>
 <li>Pedro Marcos (FURG)</li>
 <li>Pedro Sá da Costa (Copelabs/PT)</li>
 <li>Rafael Aschoff (IFPE)</li>
