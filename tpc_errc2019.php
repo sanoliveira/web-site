@@ -43,6 +43,7 @@
 <li>Leonardo Pinho (UNIPAMPA)</li>
 <li>Lisandro Zambenedetti Granville (UFRGS)</li>
 <li>Lucas Bondan (UFRGS)</li>
+<li>Lucas F. Müller (UFRGS)</li>
 <li>Luciano Ignaczak (UNISINOS)</li>
 <li>Luciano Paschoal Gaspary (UFRGS)</li>
 <li>Lucio Prade (UNISINOS)</li>
