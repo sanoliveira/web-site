@@ -35,7 +35,7 @@
         
         <h3>Organiza&ccedil;&atilde;o do Comit&ecirc; de Programa WRSeg</h3>
         <ul class="lista">
-            <li>&Eacute;rico Amaral (Unipampa)</li>
+            <li>Em breve!</li>
         </ul>
         
         <h3>Organiza&ccedil;&atilde;o de Caravanas</h3>
