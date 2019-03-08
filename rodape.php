@@ -8,15 +8,17 @@
       <div class="container">
         <div class="row">
         
-          <div class="col-lg-6 text-left">          
+          <div class="col-lg-4 text-left">          
               <br>17&ordf Escola Regional de Redes de Computadores
               <br>16 a 19 de setembro de 2019, Alegrete/RS   
+              
               <br> 
-                <font size="4">
-                  <a href="https://www.facebook.com/events/402757403816054/?ti=cl" ><i class="fab fa-facebook-square">  </i></a> 
-                  &nbsp;
-                  <a href="mailto:errc2019@unipampa.edu.br"><i class="far fa-envelope"></i></a>
-                </font>
+              <a class="rodape" href="https://www.facebook.com/events/402757403816054/?ti=cl"><i class="fab fa-facebook-square">  </i></a> 
+              &nbsp;
+              <a class="rodape" href="mailto:errc2019@unipampa.edu.br"><i class="far fa-envelope"></i></a>
+              &nbsp;
+              <a class="rodape" href="https://goo.gl/maps/a53udsYx2E32"><i class="fas fa-directions"></i></a>
+            
           </div>
 
           <div class="col-lg-6 text-center">  
