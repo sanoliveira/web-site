@@ -2,5 +2,5 @@
 
 Web Site ERRC-WRSeg 2019
 
-under construction ...
+Check it online at https://errc.sbc.org.br
 
