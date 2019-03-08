@@ -40,7 +40,7 @@
         
         <h3>Organiza&ccedil;&atilde;o de Caravanas</h3>
         <ul class="lista">
-            <li>Sandro Lemes Oliveira (Unipampa)</li>
+            <li>Sandro Lemos Oliveira (Unipampa)</li>
         </ul>
         
         <h3>Organiza&ccedil;&atilde;o de Minicursos e Oficinas</h3>
