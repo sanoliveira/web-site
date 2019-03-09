@@ -12,11 +12,11 @@
 
         <p>
         Autores s&atilde;o convidados a submeter <b>artigos completos</b> e <b>resumos extendidos</b> contendo
-        resultados de suas pesquisas. Neste ano, para além dos trabalhos tracionalmente aceitos, também encorajamos a submissão de trabalhos com teor predominante prático. Assim, a edição de 2019 contemplará duas <b>trilhas</b> de trabalhos:</p>
+        resultados de suas pesquisas. Neste ano, para além dos trabalhos tracionalmente publicados, também encorajamos a submissão de trabalhos com teor predominante prático. Assim, a edição de 2019 contemplará duas <b>trilhas</b> de trabalhos:</p>
         <ul class="lista">
-            <li><b>Regular</b>: trabalhos científicos tradicionais, como aqueles que são predominamente realizados em ambiente acadêmico. Podemos citar como exemplo trabalhos que apresentam um apanhado de determinada área, propostas para avançar o estado-da-arte e avaliações de desempenho baseados em modelagem analíticas ou simulacional.
+            <li><b>Regular</b>: trabalhos científicos tradicionais, como aqueles que são predominamente realizados em ambiente acadêmico. Podemos citar como exemplo trabalhos que apresentam um apanhado sobre determinada área, propostas para avançar o estado-da-arte e avaliações de desempenho baseadas em modelagem analíticas ou simulacional.
             </li>
-
+  
             <li><b>Experi&ecirc;ncias</b>: trabalhos que reportam experiências práticas com técnicas ou tecnologias emergentes, que tendem a ser realizados em ambientes extra-academicos. Podemos citar como exemplo na área de redes um trabalho que descreve a implantação de uma rede definida por software (SDN) em uma rede corporativa, e, na área de segurança, um trabalho que avalia os impactos da implantação da tecnologia Intel SGX para autenticação de usuários em um ambiente específico.
             </li>
         </ul>
@@ -39,7 +39,7 @@
 
 <div class="container-fluid bg-success">
     <div class="container">
-        <h3>T&oacute;picos de interesse (lista n&atilde;o exaustiva)</h3>
+        <h3>T&oacute;picos de Interesse (lista n&atilde;o exaustiva)</h3>
    
         <div class="row">
             <div class="col-md-6" >
@@ -94,7 +94,7 @@
 
 <div class="container-fluid ">
     <div class="container">
-        <h3>Instruções aos autores</h3>
+        <h3>Instruções aos Autores</h3>
         <p>
         Os trabalhos devem obrigatoriamente respeitar as seguintes regras. O texto pode ser escrito nos idiomas portugu&ecirc;s,
         espanhol ou inglês. O documento deve estar no formato PDF, seguir o <a href="http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros">modelo de artigos definido pela SBC</a> e respeitar um tamanho máximo (incluindo resumo, <em>abstract</em>, figuras, referências e anexos):
