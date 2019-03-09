@@ -41,6 +41,9 @@
     <!-----FONT------->
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
+    <!-- Loader source: https://github.com/raphaelfabeni/css-loader -->
+    <link rel="stylesheet" href="css/css-loader.css">
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -48,15 +51,12 @@
     <![endif]-->
   </head>
 
-<!-- Preloader -->
-<div id="preloader">
-    <div id="status">
-        <div class="spinner"></div>
-    </div>
-</div>
+ 
 
  <body>
-      
+  <!-- Loader -->
+  <div class="loader loader-default is-active"></div>
+
    <!-- Fixed navbar -->
    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse grande">
       <div class="container">

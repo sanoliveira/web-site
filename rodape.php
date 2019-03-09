@@ -38,10 +38,14 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script type="text/javascript">
 
-    
+    <!-- preloader -->
+    $(window).load(function() {
+      $('.loader').removeClass('is-active');
+    });
+
     <!-- altera tamanho da navbar -->
     $(document).ready(function () {
-      
+     
       $(window).on('scroll', function () {
           if ($(window).scrollTop() < 100) {
             $('.navbar-fixed-top').addClass('grande'); 
@@ -60,10 +64,9 @@
     <!-- seleciona item na navbar -->
     $(function() {
       var url = window.location;
-      // Will only work if string in href matches with location
-      
+      // Will only work if string in href matches with location      
       $('ul.nav a[href="'+ url +'"]').parent().addClass('active');
-       
+
       $('ul.nav a').filter(function() {
           return this.href == url;
       }).parent().addClass('active');
