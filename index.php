@@ -3,11 +3,19 @@
 ?>
 
 <!-- BANNER -->
-<br><br><br><br>
-<div class="img-responsive">
-    <img src="img/banner_v5.png" width="100%" alt="ERRC">
-</div>
 <br><br>
+<div class="img-responsive">
+   <!-- <img src="img/banner_v5.png" width="100%" alt="ERRC"> -->
+    <picture>
+        <source srcset="img/errc-2019_banner_margem_fundo_360.png"  media="(max-width: 360px)">
+        <source srcset="img/errc-2019_banner_margem_fundo_720.png"  media="(max-width: 720px)">
+        <source srcset="img/errc-2019_banner_margem_fundo_1440.png" media="(max-width: 1440px)">
+        <source srcset="img/errc-2019_banner_margem_fundo_2880.png" media="(max-width: 2880px)">
+        <source srcset="img/errc-2019_banner_margem_fundo_6300.png" media="(min-width: 6300px)">
+        <img src="img/2019_banner_margem_fundo_720.png" width="100%" alt="ERRC">
+    </picture>
+</div>
+<br>
 
 <!-- INICIO CONTEUDO HOME      -->
 
