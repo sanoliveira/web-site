@@ -4,41 +4,40 @@
 
 <div class="container-fluid">
     <div class="container">
-<br>
-<br>
-<br>
-<br>
-<?php
-    require_once('chamada_de_trabalhos.php');
-?>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h3>Chamada para Trabalhos</h3>
+
+        <p>
+        Autores s&atilde;o convidados a submeter <b>artigos completos</b> e <b>resumos extendidos</b> contendo
+        resultados de suas pesquisas. Neste ano, para além dos trabalhos tracionalmente aceitos, também encorajamos a submissão de trabalhos com teor predominante prático. Assim, a edição de 2019 contemplará duas <b>trilhas</b> de trabalhos:</p>
+        <ul class="lista">
+            <li><b>Regular</b>: trabalhos científicos tradicionais, como aqueles que são predominamente realizados em ambiente acadêmico. Podemos citar como exemplo trabalhos que apresentam um apanhado de determinada área, propostas para avançar o estado-da-arte e avaliações de desempenho baseados em modelagem analíticas ou simulacional.
+            </li>
+
+            <li><b>Experi&ecirc;ncias</b>: trabalhos que reportam experiências práticas com técnicas ou tecnologias emergentes, que tendem a ser realizados em ambientes extra-academicos. Podemos citar como exemplo na área de redes um trabalho que descreve a implantação de uma rede definida por software (SDN) em uma rede corporativa, e, na área de segurança, um trabalho que avalia os impactos da implantação da tecnologia Intel SGX para autenticação de usuários em um ambiente específico.
+            </li>
+        </ul>
+        </p>
         
+        <h4>Comit&ecirc; de Programa</h4>
+        <p>
+        Cada trabalho ser&aacute; avaliado por tr&ecirc;s ou mais especialistas.
+        A lista dos membros do comit&ecirc; de programa est&aacute; dispon&iacute;vel <a href="organizacao.php#comite-de-programa">aqui</a>.
+        </p>
+
+        <?php
+            require_once('datas_importantes.php');
+        ?>
+
+        <br><br>
     </div> <!-- fim container -->
 </div> <!-- fim container fluid-->
 
-<div class="container-fluid bg-success">
-    <div class="container">
-        <h3>Submiss&atilde;o de Trabalhos</h3>
-        <p>
-        Ser&atilde;o aceitos trabalhos em duas modalidades: artigos
-        completos de no m&aacute;ximo 8 (oito) p&aacute;ginas e resumos
-        estendidos de no m&aacute;ximo 2 (duas) p&aacute;ginas. O
-        n&uacute;mero m&aacute;ximo de p&aacute;ginas para ambas as
-        modalidades inclui resumo, abstract, figuras, refer&ecirc;ncias e
-        anexos. O texto pode ser escrito nos idiomas portugu&ecirc;s,
-        espanhol ou ingl&ecirc;s, seguindo os formatos (LaTeX e Word)
-        dispon&iacute;veis no site da SBC, atrav&eacute;s do
-        endere&ccedil;o <a href="http://www.sbc.org.br">http://www.sbc.org.br</a> (menu Documentos,
-        Publica&ccedil;&otilde;es/Templates para Artigos e
-        Cap&iacute;tulos de Livros). A submiss&atilde;o de trabalhos
-        ser&aacute; exclusivamente eletr&ocirc;nica.
-        <br>
-        <br>
-        As submissões serão exclusivamente online através do link <a href="https://errc.sbc.org.br/2019/submissoes">https://errc.sbc.org.br/2019/submissoes</a>.
-        </p>
-    </div> <!-- fim container --> 
-</div> <!-- fim container fluid --> 
 
-<div class="container-fluid ">
+<div class="container-fluid bg-success">
     <div class="container">
         <h3>T&oacute;picos de interesse (lista n&atilde;o exaustiva)</h3>
    
@@ -93,6 +92,25 @@
 </div><!-- fim container fluid --> 
 
 
+<div class="container-fluid ">
+    <div class="container">
+        <h3>Instruções aos autores</h3>
+        <p>
+        Os trabalhos devem obrigatoriamente respeitar as seguintes regras. O texto pode ser escrito nos idiomas portugu&ecirc;s,
+        espanhol ou inglês. O documento deve estar no formato PDF, seguir o <a href="http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros">modelo de artigos definido pela SBC</a> e respeitar um tamanho máximo (incluindo resumo, <em>abstract</em>, figuras, referências e anexos):
+        </p>
+        <ul class="lista">
+            <li> 8 (oito) páginas, em caso de artigo completo, ou
+            <li> 2 (duas) páginas, em caso de resumo estendido. 
+        </ul>
+        
+        <br>
+        <p>
+        As submissões serão exclusivamente eletrônicas através do <a href="https://submissoes.sbc.org.br/errc2019">sistema JEMS</a>.
+        </p>
+    </div> <!-- fim container --> 
+</div> <!-- fim container fluid --> 
+
 
 <div class="container-fluid bg-success">
     <div class="container">
@@ -100,13 +118,7 @@
     </div>
 </div>
  
-<div class="container-fluid ">
-    <div class="container">
-        <h3>Comit&ecirc; de Programa</h3>
-        <p>A lista dos membros do comit&ecirc; de programa est&aacute; dispon&iacute;vel em <a href="https://errc.sbc.org.br/2019/comite">https://errc.sbc.org.br/2019/comite</a></p>
-        <br><br>
-    </div> <!-- fim container --> 
-</div> <!-- fim container fluid --> 
+
 
 <?php
     require_once('rodape.php');

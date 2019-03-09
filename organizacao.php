@@ -67,7 +67,8 @@
         <br><br>
     </div> <!-- fim container -->
 </div> <!--fim organizacao> -->
-   
+
+<div id="comite-de-programa"></div>   
 <div class="container-fluid bg-success">
     <div class="container">
         <h3>Comit&ecirc; de Programa (em forma&ccedil;&atilde;o)</h3>
