@@ -22,15 +22,16 @@
         </ul>
         </p>
         
+        <?php
+            require_once('datas_importantes.php');
+?>
+
         <h4>Comit&ecirc; de Programa</h4>
         <p>
         Cada trabalho ser&aacute; avaliado por tr&ecirc;s ou mais especialistas.
         A lista dos membros do comit&ecirc; de programa est&aacute; dispon&iacute;vel <a href="organizacao.php#comite-de-programa">aqui</a>.
         </p>
 
-        <?php
-            require_once('datas_importantes.php');
-        ?>
 
         <br><br>
     </div> <!-- fim container -->
