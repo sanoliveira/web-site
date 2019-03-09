@@ -14,10 +14,10 @@
         Autores s&atilde;o convidados a submeter <b>artigos completos</b> e <b>resumos extendidos</b> contendo
         resultados de suas pesquisas. Neste ano, para além dos trabalhos tracionalmente publicados, também encorajamos a submissão de trabalhos com teor predominante prático. Assim, a edição de 2019 contemplará duas <b>trilhas</b> de trabalhos:</p>
         <ul class="lista">
-            <li><b>Regular</b>: trabalhos científicos tradicionais, como aqueles que são predominamente realizados em ambiente acadêmico. Podemos citar como exemplo trabalhos que apresentam um apanhado sobre determinada área, propostas para avançar o estado-da-arte e avaliações de desempenho baseadas em modelagem analítica ou simulação.
+            <li><b>Regular</b>: trabalhos científicos tradicionais, como aqueles que são predominamente realizados em ambientes acadêmicos. Podemos citar como exemplo trabalhos que apresentam um apanhado sobre determinada área, propostas para avançar o estado-da-arte e avaliações de desempenho baseadas em modelagem analítica ou simulação.
             </li>
   
-            <li><b>Experi&ecirc;ncias</b>: trabalhos que reportam experiências práticas com técnicas ou tecnologias emergentes, que tendem a ser realizados em ambientes extra-academicos. Podemos citar como exemplo na área de redes um trabalho que descreve a implantação de uma rede definida por software (SDN) em uma rede corporativa, e, na área de segurança, um trabalho que avalia os impactos da implantação da tecnologia Intel SGX para autenticação de usuários em um ambiente específico.
+            <li><b>Experi&ecirc;ncias</b>: trabalhos que reportam experiências práticas com técnicas ou tecnologias emergentes, que tendem a ser realizados em ambientes extra-acadêmicos. Podemos citar como exemplo na área de redes um trabalho que descreve a implantação de uma rede definida por software (SDN) em uma rede corporativa, e, na área de segurança, um trabalho que avalia os impactos da implantação da tecnologia Intel SGX para autenticação de usuários em um ambiente específico.
             </li>
         </ul>
         </p>
