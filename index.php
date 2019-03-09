@@ -3,7 +3,7 @@
 ?>
 
 <!-- BANNER -->
-<br><br>
+<br><br><br><br>
 <div class="img-responsive">
    <!-- <img src="img/banner_v5.png" width="100%" alt="ERRC"> -->
     <picture>
