@@ -79,8 +79,8 @@
         $(function($) {
             var 
                 container = $('.lista-em-colunas'),
-                num_cols = 3,
-                colClass = 'col-md-4',
+                num_cols = 2,
+                colClass = 'col-sm-6',
                 listClass = 'lista',
                 rowClass = 'row',
                 listItem = 'li';
@@ -106,16 +106,17 @@
                 }
                 
                 // cria linha na div
-                $(this).append($('<div >').addClass(rowClass));
+                $(this).append($('<div ></div>').addClass(rowClass));
                 var pointer = 0;
                 
                 // organiza html para cada coluna 
                 for (var i = 0; i < num_cols; i++) {
                     
                     // adiciona coluna na ultima linha
-                    $(this).find('.' + rowClass).last().append($('<div >').addClass(colClass));
+                    
+                    $(this).find('.' + rowClass).last().append($('<br><div ></div>').addClass(colClass));
                     // adiciona lista na ultima coluna
-                    $(this).find('.' + colClass).last().append($('<ul >').addClass(listClass));
+                    $(this).find('.' + colClass).last().append($('<ul ></ul>').addClass(listClass));
                     
                     // para item da cada coluna
                     for (var j = 0; j < items_per_col[i]; j++) {
