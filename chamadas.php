@@ -20,17 +20,17 @@
             <li><b>Experi&ecirc;ncias</b>: trabalhos que reportam experiências práticas com técnicas ou tecnologias emergentes, que tendem a ser realizados em ambientes extra-acadêmicos. Podemos citar como exemplo na área de redes um trabalho que descreve a implantação de uma rede definida por software (SDN) em uma rede corporativa, e, na área de segurança, um trabalho que avalia os impactos da implantação da tecnologia Intel SGX para autenticação de usuários em um ambiente específico.
             </li>
         </ul>
-        </p>
         
+        <?php
+            require_once('datas_importantes.php');
+        ?>
+
         <h4>Comit&ecirc; de Programa</h4>
         <p>
         Cada trabalho ser&aacute; avaliado por tr&ecirc;s ou mais especialistas.
         A lista dos membros do comit&ecirc; de programa est&aacute; dispon&iacute;vel <a href="organizacao.php#comite-de-programa">aqui</a>.
         </p>
 
-        <?php
-            require_once('datas_importantes.php');
-        ?>
 
         <br><br>
     </div> <!-- fim container -->

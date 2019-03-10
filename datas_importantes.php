@@ -1,7 +1,6 @@
 <!-- INICIO DATAS IMPORTANTES -->
     <h4>Datas Importantes</h4>
     <br>
-
     <ul class="lista">
         <li><b>10/julho/2019</b>: data <b>limite</b> para registro de trabalho</li>
 
