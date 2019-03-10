@@ -4,7 +4,6 @@
     ?> 
   
     <div class="rodape">
-      <!-- Escola Regional de Redes de Computadores - ERRC 2019<br> 16 a 19 de Setembro, Alegrete/RS -->
       <div class="container">
         <div class="row">
         
@@ -36,42 +35,98 @@
     <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <!-- Bootstrap Js CDN -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+    <!-- scripts locais -->
     <script type="text/javascript">
 
-    <!-- preloader -->
-    $(window).load(function() {
-      $('.loader').removeClass('is-active');
-    });
+        // preloader
+        $(window).load(function() {
+          $('.loader').removeClass('is-active');
+        });
 
-    <!-- altera tamanho da navbar -->
-    $(document).ready(function () {
-     
-      $(window).on('scroll', function () {
-          if ($(window).scrollTop() < 100) {
-            $('.navbar-fixed-top').addClass('grande'); 
-            document.getElementById("logo").style.height = "80px";
-            document.getElementById("logo").style.marginTop = "-30px";
+        // altera tamanho da navbar 
+        $(document).ready(function () {
+          $(window).on('scroll', function () {
+              if ($(window).scrollTop() < 80) {
+                $('.navbar-fixed-top').addClass('grande'); 
+                document.getElementById("logo").style.height = "80px";
+                document.getElementById("logo").style.marginTop = "-30px";
 
-          } else {
-            $('.navbar-fixed-top').removeClass('grande'); 
-            document.getElementById("logo").style.height = "40px"; 
-            document.getElementById("logo").style.marginTop = "-10px";  
-          }
-      });
+              } else {
+                $('.navbar-fixed-top').removeClass('grande'); 
+                document.getElementById("logo").style.height = "40px"; 
+                document.getElementById("logo").style.marginTop = "-10px";  
+              }
+          });
+        }); 
 
-    }); 
-
-    <!-- seleciona item na navbar -->
-    $(function() {
-      var url = window.location;
-      // Will only work if string in href matches with location      
-      $('ul.nav a[href="'+ url +'"]').parent().addClass('active');
-
-      $('ul.nav a').filter(function() {
-          return this.href == url;
-      }).parent().addClass('active');
-
-    });
+        // seleciona item na navbar 
+        // fonte: https://stackoverflow.com/questions/12051961/addclass-to-a-href-link-acccoring-to-the-location-href-using-jquery
+        $(function() {
+          var url = window.location;
+          // Will only work if string in href matches with location      
+          $('ul.nav a[href="'+ url +'"]').parent().addClass('active');
+        
+          // Will also work for relative and absolute hrefs
+          $('ul.nav a').filter(function() {
+              return this.href == url;
+          }).parent().addClass('active');
+        });
+            
+         
+        // divide listas em duas colunas 
+        // adaptado de https://codepen.io/jawittdesigns/pen/zhCrv
+        $(function($) {
+            var 
+                container = $('.lista-em-colunas'),
+                num_cols = 3,
+                colClass = 'col-md-4',
+                listClass = 'lista',
+                rowClass = 'row',
+                listItem = 'li';
+            
+           
+            container.each(function() {
+                var 
+                    items_per_col = new Array(),
+                    items = $(this).find(listItem),
+                    min_items_per_col = Math.floor(items.length / num_cols),
+                    difference = items.length - (min_items_per_col * num_cols);
+                 
+                //coloca em ordem alfabetica
+                items.sort();
+                
+                // define tamanho para cada coluna 
+                for (var i = 0; i < num_cols; i++) {
+                    if (i < difference) {
+                        items_per_col[i] = min_items_per_col + 1;
+                    } else {
+                        items_per_col[i] = min_items_per_col;
+                    }
+                }
+                
+                // cria linha na div
+                $(this).append($('<div >').addClass(rowClass));
+                var pointer = 0;
+                
+                // organiza html para cada coluna 
+                for (var i = 0; i < num_cols; i++) {
+                    
+                    // adiciona coluna na ultima linha
+                    $(this).find('.' + rowClass).last().append($('<div >').addClass(colClass));
+                    // adiciona lista na ultima coluna
+                    $(this).find('.' + colClass).last().append($('<ul >').addClass(listClass));
+                    
+                    // para item da cada coluna
+                    for (var j = 0; j < items_per_col[i]; j++) {
+                        // adiciona item na ultima lista
+                        $(this).find('.' + listClass).last().append(items[j + pointer]);
+                    }
+                    pointer += items_per_col[i];
+                }
+                
+            }); // fim container.each 
+        }); // fim function
     </script>
 
     

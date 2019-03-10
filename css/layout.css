@@ -90,6 +90,10 @@ p {
   color: #666666;
 }
 
+.lista-em-colunas li {
+    font-size: 13px;
+}
+
 .conteudo {
   margin-top:0px;
   padding-top:10px;

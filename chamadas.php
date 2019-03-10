@@ -41,52 +41,42 @@
     <div class="container">
         <h3>T&oacute;picos de Interesse (lista n&atilde;o exaustiva)</h3>
    
-        <div class="row">
-            <div class="col-md-6" >
-                <br>
-                <ul class="lista">
-                    <li>Arquitetura de redes</li>
-                    <li>Computação na nuvem</li>
-                    <li>Computação orientada a serviços</li>
-                    <li>Computação sensível ao contexto</li>
-                    <li>Computação ubíqua/pervasiva</li>
-                    <li>Desempenho, escalabilidade e confiabilidade</li>
-                    <li>Engenharia e controle de tráfego</li>
-                    <li>Especificação, validação e verificação de redes</li>
-                    <li>Gerenciamento e operação de redes</li>
-                    <li>Futura Internet</li>
-                    <li>Medição e monitoração de redes</li>
-                    <li>Projeto e análise de redes</li>
-                    <li>Protocolos de redes</li>
-                    <li>Qualidade de experiência e de serviços</li>
-                    <li>Redes autonômicas e auto-organizáveis</li>
-                    <li>Redes definidas por software (SDN)</li>
-                    <li>Redes de sensores</li>
-                </ul><!-- fim lista -->
-            </div><!-- fim col 1--> 
-            <div class="col-md-6">
-                <br>
-                <ul class="lista">
-                    <li>Redes P2P</li>
-                    <li>Redes móveis</li>
-                    <li>Redes ópticas</li>
-                    <li>Redes sem fio</li>
-                    <li>Redes sociais</li>
-                    <li>Redes tolerantes a atrasos/interrupções</li>
-                    <li>Redes veiculares</li>
-                    <li>Redes centradas em informação</li>
-                    <li>Redes sustentáveis (Green Networking)</li>
-                    <li>Roteamento, comutação e endereçamento</li>
-                    <li>Segurança em redes</li>
-                    <li>Serviços Web</li>
-                    <li>Tecnologia e acesso de banda larga</li>
-                    <li>Tolerância a falhas e resiliência</li>
-                    <li>TV Digital</li>
-                    <li>Virtualização de redes</li>
-                    <li>Virtualização de funções de rede (NFV)</li>
-                </ul>
-            </div> <!-- fim col 2--> 
-        </div> <!-- row --> 
+        <div class="lista-em-colunas">
+            <li>Arquitetura de redes</li>
+            <li>Computação na nuvem</li>
+            <li>Computação orientada a serviços</li>
+            <li>Computação sensível ao contexto</li>
+            <li>Computação ubíqua/pervasiva</li>
+            <li>Desempenho, escalabilidade e confiabilidade</li>
+            <li>Engenharia e controle de tráfego</li>
+            <li>Especificação, validação e verificação</li>
+            <li>Futura Internet</li>
+            <li>Gerenciamento e operação de redes</li>
+            <li>Medição e monitoração de redes</li>
+            <li>Projeto e análise de redes</li>
+            <li>Protocolos de redes</li>
+            <li>Qualidade de experiência e de serviços</li>
+            <li>Redes autonômicas e auto-organizáveis</li>
+            <li>Redes centradas em informação (ICN)</li>
+            <li>Redes definidas por software (SDN)</li>
+            <li>Redes de sensores</li>
+            <li>Redes P2P</li>
+            <li>Redes móveis</li>
+            <li>Redes ópticas</li>
+            <li>Redes sem fio</li>
+            <li>Redes sociais</li>
+            <li>Redes sustentáveis (Green Networking)</li>
+            <li>Redes tolerantes a atrasos/interrupções</li>
+            <li>Redes veiculares</li>
+            <li>Roteamento, comutação e endereçamento</li>
+            <li>Segurança em redes</li>
+            <li>Serviços Web</li>
+            <li>Tecnologia e acesso de banda larga</li>
+            <li>Tolerância a falhas e resiliência</li>
+            <li>TV Digital</li>
+            <li>Virtualização de funções de rede (NFV)</li>
+            <li>Virtualização de redes</li>
+        </div>
         <br><br>
     </div> <!-- fim container --> 
 </div><!-- fim container fluid --> 
