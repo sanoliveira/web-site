@@ -79,8 +79,8 @@
         $(function($) {
             var 
                 container = $('.lista-em-colunas'),
-                num_cols = 2,
-                colClass = 'col-sm-6',
+                num_cols = 3,
+                colClass = 'col-sm-4',
                 listClass = 'lista',
                 rowClass = 'row',
                 listItem = 'li';
