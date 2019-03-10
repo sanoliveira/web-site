@@ -21,7 +21,7 @@
       </li>
 
       <li class="text-justify">
-      Na prepara&ccedil;&atilde;o do seu artigo, use o formato exigido. O ERRC/WRSeg 2019 exige o <a href="http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros">modelo da SBC</a>. Atente para o espaço disponível.
+      Na prepara&ccedil;&atilde;o do seu artigo, use o formato exigido. O ERRC/WRSeg 2019 exige o <a href="http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros">modelo da SBC</a>. Atente para o limite de espaço.
       </li>   
    </ul> 
    
@@ -60,7 +60,7 @@
       </li> 
 
       <li class="text-justify">
-      A Introdu&ccedil;&atilde;o (<a href="http://www.cs.columbia.edu/~hgs/etc/intro-style.html">&ldquo;Writing a good introduction&rdquo;</a>) é fundamental para ``converter'' um potencial leitor, que se interessou pela introdução, em um leitor do trabalho completo.
+      A Introdu&ccedil;&atilde;o (<a href="http://www.cs.columbia.edu/~hgs/etc/intro-style.html">&ldquo;Writing a good introduction&rdquo;</a>) é fundamental para &ldquo;converter&rdquo; um potencial leitor, que se interessou pela introdução, em um leitor do trabalho completo.
       </li>
       
       <!--
