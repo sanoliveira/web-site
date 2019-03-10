@@ -14,10 +14,11 @@
               <br> 
               <a class="rodape" href="https://www.facebook.com/events/402757403816054/?ti=cl"><i class="fab fa-facebook-square">  </i></a> 
               &nbsp;
-              <a class="rodape" href="mailto:errc2019@unipampa.edu.br"><i class="far fa-envelope"></i></a>
+              <a class="rodape" href="mailto:errc2019@unipampa.edu.br"><i class="fas fa-envelope"></i></a>
               &nbsp;
               <a class="rodape" href="https://goo.gl/maps/a53udsYx2E32"><i class="fas fa-directions"></i></a>
-            
+              &nbsp;
+              <a class="rodape" href="https://calendar.google.com/calendar/embed?src=2019errc%40gmail.com&ctz=America%2FSao_Paulo"><i class="far fa-calendar-alt"></i></a>
           </div>
 
           <div class="col-lg-6 text-center">  
