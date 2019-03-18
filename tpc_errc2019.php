@@ -49,6 +49,7 @@
 <li>Lucio Prade (UNISINOS)</li>
 <li>Magnum Foletto (Àvato)</li>
 <li>Marcia Pasin (UFSM)</li>
+<li>Marco Antonio Torrez Rojas (IFSC)</li>
 <li>Marco Aurélio Spohn (UFFS)</li>
 <li>Marco Trentin (UPF)</li>
 <li>Marinho Barcellos (UFRGS)</li>
