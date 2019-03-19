@@ -48,6 +48,7 @@
 <li>Luciano Paschoal Gaspary (UFRGS)</li>
 <li>Lucio Prade (UNISINOS)</li>
 <li>Magnum Foletto (Àvato)</li>
+<li>Marcelo da Silva Conterato (PUCRS)</li>
 <li>Marcia Pasin (UFSM)</li>
 <li>Marco Antonio Torrez Rojas (IFSC)</li>
 <li>Marco Aurélio Spohn (UFFS)</li>
