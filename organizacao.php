@@ -50,7 +50,7 @@
             <div class="col-sm-6">
                 <h3>Organiza&ccedil;&atilde;o do Comit&ecirc; de Programa WRSeg</h3>
                 <ul class="lista">
-                    <li>Em breve!</li>
+                    <li>Tiago Rizzetti (CTISM/UFSM)</li>
                 </ul>
             </div>
         </div> <!-- fim linha 2 -->
