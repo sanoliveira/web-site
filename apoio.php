@@ -9,7 +9,7 @@
                 <div class="col-lg-6 col-md-6 text-center"> <!-- col ORGANIZACAO -->         
                     <h3>Organização</h3>
                     <a href="http://www.unipampa.edu.br/" target="_blank" title="Universidade Federal do Pampa (Unipampa)">
-                        <img class="organizadora" alt="Unipampa" src="img/logo_inst_organizadora/Unipampa.png">
+                        <img class="organizadora" alt="Unipampa" src="img/logo_inst_organizadora/Unipampa_vertical.png">
                     </a>        
                 </div> <!-- fim col ORGANIZACAO --> 
 
