@@ -13,7 +13,7 @@
 
         <ul class="lista">
             <li><a href="http://sites.unipampa.edu.br/marceloluizelli/">Marcelo Caggiani Luizelli (Unipampa)</a></li>
-            <li><a href="http://sites.unipampa.edu.br/rodrigomansilha">Rodrigo Brand&atilde;o Mansilha (Unipampa)</a></li>
+            <li><a href="http://sites.unipampa.edu.br/rodrigomansilha">Rodrigo Mansilha (Unipampa)</a></li>
         </ul>
             
         
@@ -60,7 +60,7 @@
                 <h3>Organiza&ccedil;&atilde;o de Minicursos e Oficinas</h3>
                 <ul class="lista">
                     <li>Leonardo Pinho (Unipampa)</li>
-                    <li>Jeferson Nobre (Unisinos)</li>
+                    <li>Jéferson Nobre (UFRGS)</li>
                     <li>Guilherme Koslovski (UDESC)</li>
                     <li>Ricardo Luis dos Santos (IFRS)</li>
                 </ul>
