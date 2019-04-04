@@ -10,7 +10,11 @@
                     <h3>Organização</h3>
                     <a href="http://www.unipampa.edu.br/" target="_blank" title="Universidade Federal do Pampa (Unipampa)">
                         <img class="organizadora" alt="Unipampa" src="img/logo_inst_organizadora/Unipampa_vertical.png">
-                    </a>        
+                    </a>    
+                    
+                    <a href="https://www.iffarroupilha.edu.br/" target="_blank" title="Instituto Federal Farroupilha (IFFar)">
+                        <img class="colaboradora" alt="Instituto Federal Farroupilha (IFFar)" src="img/logo_inst_colaboradora/IFFAR.png">
+                    </a>
                 </div> <!-- fim col ORGANIZACAO --> 
 
                 <div class="col-lg-6 col-md-6 text-center"> <!-- col REALIZCAO -->        
@@ -27,10 +31,7 @@
                 </div>
 
                 <div class="col-md-12 text-center">
-                    <a href="https://www.iffarroupilha.edu.br/" target="_blank" title="Instituto Federal Farroupilha (IFFar)">
-                        <img class="colaboradora" alt="Instituto Federal Farroupilha (IFFar)" src="img/logo_inst_colaboradora/IFFAR.png">
-                    </a>
-                 
+                    
                     <a href="https://www.unijui.edu.br/" target="_blank" title="Universidade Regional do Noroeste do Estado do Rio Grande do Sul">
                         <img class="colaboradora" alt="Universidade Regional do Noroeste do Estado do Rio Grande do Sul" src="img/logo_inst_colaboradora/Unijui.png">
                     </a>
