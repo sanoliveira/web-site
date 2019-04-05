@@ -23,16 +23,10 @@
     <div class="container">
         <h3>Bem-vindo à ERRC 2019!</h3>
         <p>
-            A XVII Escola Regional de Redes de Computadores (<b>ERRC 2019</b>) ocorrerá em Alegrete, RS, no período de 16 a 19 de setembro de 2019, durante a <b>Semana Farroupilha</b>. O evento está sendo organizado pelo Programa de Pós-graduação em Engenharia de Software (<b>PPGES</b>) da Universidade Federal do Pampa (<b>Unipampa</b>), pelo Instituto Federal Farroupilha (<b>IFFar</b>) e pelo Parque Científico e Tecnológico do Pampa (<b>PampaTec</b>), com a colaboração de diversas outras instituições de ensino, pesquisa e extensão. A ERRC é realizada anualmente pela Sociedade Brasileira de Computação (<b>SBC</b>) e acompanha a filosofia de outras escolas realizadas no Estado, como a Escola Regional de Alto Desempenho (<a href="https://www.setrem.com.br/erad2019/" target="_blank" title="Escola Regional de Alto Desempenho"><b>ERAD</b></a>) e a Escola Regional de Banco de Dados (<a href="http://www.sbc.org.br/erbd2019/" target="_blank" title="Escola Regional de Banco de Dados"><b>ERBD</b></a>).
-        </p>
-        <p>
-            A ERRC é o principal evento regional sobre redes de computadores e sistemas distribuídos. O evento serve como ponto de encontro para alunos e profissionais, apresentando a área para novos talentos e catalisando potenciais colaborações entre a indústria e instituições de ensino, pesquisa e extensão. A área é estratégica para a inserção do Estado nos mercados de tecnologia de ponta, como a Internet das Coisas (<b>IoT</b>) e as tecnologias de comunicação viabilizadoras para a chamada <b>Agricultura da Informação</b>.
+        A 17&ordf; edição da Escola Regional de Redes de Computadores (ERRC 2019) ocorrerá em Alegrete, RS, no período de 16 a 19 de setembro de 2019 e será organizada pela Universidade Federal do Pampa (Unipampa) com apoio do recém-criado Programa de Pós-graduação em Engenharia de Software (PPGES) e de diversas outras instituições de ensino, pesquisa e extensão. A ERRC é realizada anualmente pela Sociedade Brasileira de Computação (SBC) e acompanha a filosofia de outras escolas realizadas no Estado, como a Escola Regional de Alto Desempenho (ERAD) e a Escola Regional de Banco de Dados (ERBD). A ERRC tem se tornado um dos eventos mais importantes sobre redes de computadores e sistemas distribuídos, servindo como ponto de encontro para alunos e profissionais, apresentando a área para novos talentos e catalisando potenciais colaborações entre a indústria e instituições de ensino, pesquisa e extensão. A área é estratégica para a inserção do Estado nos mercados de tecnologia de ponta, como a conexão por redes de todos os tipos de dispositivos (a chamada Internet das Coisas - IoT) e as tecnologias de comunicação viabilizadoras para a chamada Agricultura da Informação.
         </p>       
     </div>
 </div>   
-
-
-
 
 <div class="container-fluid bg-success">
     <div class="container">
