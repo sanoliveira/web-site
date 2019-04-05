@@ -6,6 +6,7 @@
 <li>André Riker (UFPA)</li>
 <li>Arthur Lorenzon (UNIPAMPA)</li>
 <li>Bruno Dalmazo (UFRGS)</li>
+<li>Bruno Vizzotto (UNIPAMPA)</li>
 <li>Carlos Raniery Paula dos Santos (UFSM)</li>
 <li>Carlos Schaeffer (UPF)</li>
 <li>Carlos Vinícius Rasch Alves (SENAC-RS)</li>
