@@ -3,7 +3,7 @@
     <div class="row">
 
         <!-- INICIO col ORGANIZACAO -->
-        <div class="col-lg-6 col-md-6" style="border-right: 1px solid;">
+        <div class="col-lg-8 col-md-8" style="border-right: 1px solid;">
     
             <div class="row"> <!-- row ORGANIZACAO PRINCIPAL -->
                 <div class="col-lg-4 col-md-4 text-center"> <!-- col REALIZCAO -->        
@@ -20,7 +20,11 @@
                     </a>    
                     
                     <a href="https://www.iffarroupilha.edu.br/" target="_blank" title="Instituto Federal Farroupilha (IFFar)">
-                        <img class="organizadora" alt="Instituto Federal Farroupilha (IFFar)" src="img/logo_inst_colaboradora/IFFAR.png">
+                        <img class="organizadora" alt="Instituto Federal Farroupilha (IFFar)" src="img/logo_inst_organizadora/IFFAR.png">
+                    </a>
+                    
+                    <a href="https://sites.unipampa.edu.br/pampatec/" target="_blank" title="Parque Científico e Tecnológico do Pampa (PampaTec)">
+                        <img class="organizadora" alt="PampaTec" src="img/logo_inst_organizadora/pampatec.png">
                     </a>
                 </div> <!-- fim col ORGANIZACAO --> 
 
@@ -73,7 +77,7 @@
         </div><!-- end col ORGANIZACAO -->
 
         <!-- INICIO col PATROCINIO -->
-        <div class="col-lg-6 col-md-6 text-center">
+        <div class="col-lg-4 col-md-4 text-center">
             
             <h3>Patrocínio Diamante</h3>
         
