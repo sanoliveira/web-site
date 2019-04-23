@@ -77,6 +77,7 @@
 <li>Rodrigo Ruas Oliveira (UFRGS)</li>
 <li>Roger Immich (IC/UNICAMP)</li>
 <li>Rogério Turchetti (UFSM)</li>
+<li>Simone Ceolin (UFSM)</li>
 <li>Tiago Ferreto (PUC-RS)</li>
 <li>Tiago Sanchotente (Raptor)</li>
 <li>Valter Roesler (UFRGS)</li>
