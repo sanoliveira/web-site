@@ -83,3 +83,4 @@
 <li>Valter Roesler (UFRGS)</li>
 <li>Vinicius Vielmo Cogo (ULisboa)</li>
 <li>Vinícius Guimarães (IFSUL)</li>
+<li>Walter Priesnitz Filho (CTISM)</li>
