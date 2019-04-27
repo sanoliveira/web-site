@@ -41,7 +41,7 @@
         <div class="item active">
           <img style="width: 100%;" src="img/foto_local_02.jpg" alt="Chicago"><br>
           <div class="carousel-caption">
-              Negrinho Triunfante, de Prado Vaz, no Parque Rui Ramos
+              Negrinho Triunfante, de Vasco Prado, no Parque Rui Ramos
               <br>
               Foto: Eroni Alves
           </div>

@@ -12,7 +12,7 @@
               <br>16 a 19 de setembro de 2019, Alegrete/RS   
               
               <br> 
-              <a class="rodape" href="https://www.facebook.com/events/402757403816054/?ti=cl"><i class="fab fa-facebook-square">  </i></a> 
+              <a class="rodape" href="https://www.facebook.com/errc2019"><i class="fab fa-facebook-square">  </i></a> 
               &nbsp;
               <a class="rodape" href="mailto:errc2019@unipampa.edu.br"><i class="fas fa-envelope"></i></a>
               &nbsp;
