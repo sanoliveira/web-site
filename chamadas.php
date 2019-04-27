@@ -25,6 +25,11 @@
             require_once('datas_importantes.php');
         ?>
 
+        <h4>Trabalhos Destaque</h4>
+        <p>
+        Os <b>melhores trabalhos</b> da ERRC 2019 receber&atilde;o certificado de trabalhos destaque. Al&eacute;m disso, os melhores trabalhos ser&atilde;o recomendados para publica&ccedil;&atilde;o na  <a href="http://seer.upf.br/index.php/rbca">RBCA (Revista Brasileira de Computa&ccedil;&atilde;o Aplicada)</a>.
+        </p>
+
         <h4>Comit&ecirc; de Programa</h4>
         <p>
         Cada trabalho ser&aacute; avaliado por tr&ecirc;s ou mais especialistas.
