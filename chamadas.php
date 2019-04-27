@@ -27,7 +27,7 @@
 
         <h4>Trabalhos Destaque</h4>
         <p>
-        Os <b>melhores trabalhos</b> da ERRC 2019 receber&atilde;o certificado de trabalhos destaque. Al&eacute;m disso, os melhores trabalhos ser&atilde;o recomendados para publica&ccedil;&atilde;o na  <a href="http://seer.upf.br/index.php/rbca">RBCA (Revista Brasileira de Computa&ccedil;&atilde;o Aplicada)</a>.
+        Os <b>melhores trabalhos</b> da ERRC 2019 receber&atilde;o <b>certificado de trabalhos destaque</b>. Al&eacute;m disso, os trabalhos ser&atilde;o recomendados para publica&ccedil;&atilde;o na  <a href="http://seer.upf.br/index.php/rbca">RBCA (Revista Brasileira de Computa&ccedil;&atilde;o Aplicada)</a>.
         </p>
 
         <h4>Comit&ecirc; de Programa</h4>
@@ -37,7 +37,7 @@
         </p>
 
 
-        <br><br>
+        <br>
     </div> <!-- fim container -->
 </div> <!-- fim container fluid-->
 
