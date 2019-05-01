@@ -2,9 +2,9 @@
     require_once('topo.php');
 ?>
 
-<span class="anchor" id="trabalhos"></span>
 
-<div class="container-fluid">
+<a class="anchor" id="trabalhos"></a>
+<div class="container-fluid" >
     <div class="container">
         <br>
         <br>
@@ -107,18 +107,11 @@
     
 </div><!-- fim container fluid --> 
  
-<span class="anchorMinicurso" id="minicursos"></span> 
-
-<div class="container-fluid bg-success">
+<a class="anchor" id="minicursos"></a>
+<div class="container-fluid bg-success" >
     <div class="container">
         <h3>Chamada para Oficinas e Minicursos</h3>
         <p>Em breve!</p>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
         <br>
         <br>
         <br>

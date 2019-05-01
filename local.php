@@ -3,16 +3,12 @@
 ?>
 
 <!--         INICIO CONTEUDO LOCAL      -->
-
-<span class="anchor" id="edicao2019"></span>
-
+<a class="anchor" id="edicao2019"></a>
 <div class="container-fluid">
   <div class="container">
-
     <br><br><br>
-    
-    <h3>Edição 2019</h3>
 
+    <h3>Edição 2019</h3>
     <h4>Alegrete</h4>
     <p>
     O município de Alegrete é situado na fronteira oeste do estado, a cerca de 500 Km de Porto Alegre, e possui uma população de aproximadamente 80.000 habitantes. A cidade apresenta uma variedade de belezas naturais (por exemplo, o Balneário Caverá e a Ponte de Pedra) e históricas (como a Ponte do Ibirapuitã, a Igreja Matriz, a Estação Ferroviária e o Museu do Gaúcho). A cidade é importante para a cultura gaúcha, sendo considerada uma das mais icônicas do RS. Em Alegrete ocorre anualmente no dia 20 de setembro, como parte das festividades comemorativas da semana Farroupilha, o maior desfile do Gaúcho do Estado.  Acesse uma matéria  produzida pela RBS TV sobre a região <a href="https://globoplay.globo.com/v/6361455/" alt="#PartiuRS Alegrete">aqui</a>.</p>
@@ -29,6 +25,8 @@
     </p>
 
     <br>
+    </div >
+
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
@@ -97,30 +95,34 @@
       </a>
     </div><!-- fim myCarousel -->
 
-    <h4>Acesso</h4>
-    <p>
-      O município pode ser alcançado por via terrestre através de diversas rodovias em boas condições (BR 290, RS-377 e RS-566). A <a class="link" href="http://http://www.rodoviariaalegrete.com.br/">Estação Rodoviária de Alegrete</a> oferece viagens diárias com origem e destino à Porto Alegre (tempo de viagem aproximado de 6 horas). O Aeroporto Internacional de Uruguaiana oferece conexão aérea com a Capital e se encontra à 148 km de distância de Alegrete. O campus est&aacute; localizado em regi&atilde;o de
-    f&aacute;cil acesso, em uma das principais vias na cidade, a Av. Tiaraju, 810, no bairro Ibirapuit&atilde;.<br>
-    </p>
+    <div class="container" >
+      <h4>Acesso</h4>
+      <p>
+        O município pode ser alcançado por via terrestre através de diversas rodovias em boas condições (BR 290, RS-377 e RS-566). A <a class="link" href="http://http://www.rodoviariaalegrete.com.br/">Estação Rodoviária de Alegrete</a> oferece viagens diárias com origem e destino à Porto Alegre (tempo de viagem aproximado de 6 horas). O Aeroporto Internacional de Uruguaiana oferece conexão aérea com a Capital e se encontra à 148 km de distância de Alegrete. O campus est&aacute; localizado em regi&atilde;o de
+      f&aacute;cil acesso, em uma das principais vias na cidade, a Av. Tiaraju, 810, no bairro Ibirapuit&atilde;.<br>
+      </p>
+    </div> <!--FIM-CONTAINER ACESSO -->
 
-   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3462.587342665628!2d-55.77078578492336!3d-29.78957158197562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95aab98a8f097415%3A0xba478dd53e4e9407!2sUniversidade+Federal+do+Pampa+-+Campus+Alegrete!5e0!3m2!1spt-BR!2sbr!4v1548173740800" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen>
-    </iframe>
-    <br><br><br><br>
- 
-    <span class="anchor" id="caravanas"></span>
-    <h4>Caravanas</h4>
-    <p>
-      Em breve! 
-    </p>
-  </div> <!--FIM-ALEGRETE -->
+    
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3462.587342665628!2d-55.77078578492336!3d-29.78957158197562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95aab98a8f097415%3A0xba478dd53e4e9407!2sUniversidade+Federal+do+Pampa+-+Campus+Alegrete!5e0!3m2!1spt-BR!2sbr!4v1548173740800" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen>
+      </iframe>
+      <br><br><br><br>
+      <div class="container" >
+    </div> <!--FIM-CONTAINER GMAPS -->
+    
+    <a class="anchor" id="caravanas"></a>
+    <div class="container" >
+      <h3>Caravanas</h3>
+      <p>
+        Em breve! 
+      </p>
+    </div> <!--FIM-CONTAINER CARAVANA -->
+
 </div><!--FIM-LOCAL 2019 container-fluid -->
 
-
-
-<span class="anchor" id="edicoesAnteriores"></span>
+<a class="anchor" id="edicoesAnteriores"></a>
 <div class="container-fluid bg-success">
-    <div class="container">
+  <div class="container">
       <h3>Edições anteriores</h3>
       <p></p>
       <div class="row">
@@ -149,8 +151,8 @@
           </div> <!-- FIM COLUNA -->
       </div><!-- FIM LINHA -->
       <br>
-    </div><!-- FIM CONTAINER -->
-</div><!-- FIM EDICOES ANTERIORES      -->
+  </div><!-- FIM CONTAINER -->
+</div><!-- FIM CONTAINER-FLUID EDICOES ANTERIORES      -->
 
 
 <?php

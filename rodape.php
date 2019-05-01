@@ -40,25 +40,20 @@
     <!-- scripts locais -->
     <script type="text/javascript">
 
-$(window).scroll(alteraTamanhoNavbar);
-
-function example() {
-  var tempScrollTop = $(window).scrollTop();
-  console.log("Scroll from Top: " + tempScrollTop.toString());
-};
-
+  
         // preloader
         $(window).load(function() {
           $('.loader').removeClass('is-active');
         });
 
         // altera tamanho da navbar 
-        $(document).ready(); 
-        
+        $(document).ready(alteraTamanhoNavbar); 
+        $(window).scroll(alteraTamanhoNavbar);
+
         function alteraTamanhoNavbar() {
          // $(window).on('scroll', function () {
-              var tempScrollTop = $(window).scrollTop();
-              console.log("Scroll from Top: " + tempScrollTop.toString());
+              //var tempScrollTop = $(window).scrollTop();
+              //console.log("Scroll from Top: " + tempScrollTop.toString());
 
               if ($(window).scrollTop() < 60) {
                 $('.navbar-fixed-top').addClass('grande'); 
@@ -72,6 +67,33 @@ function example() {
               }
          // });
         }
+
+        // via http://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header
+        $(function() {
+          $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+              var target = $(this.hash);
+              target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+              if (target.length) {
+                $('html,body').animate({
+                  scrollTop: target.offset().top - 5000 //offsets for fixed header
+                }, 1000);
+                return false;
+              }
+            }
+          });
+          //Executed on page load with URL containing an anchor tag.
+          if($(location.href.split("#")[1])) {
+              var target = $('#'+location.href.split("#")[1]);
+              if (target.length) {
+                $('html,body').animate({
+                  scrollTop: target.offset().top - 5000 //offset height of header here too.
+                }, 1000);
+                return false;
+              }
+            }
+        });
 
         // seleciona item na navbar 
         // fonte: https://stackoverflow.com/questions/12051961/addclass-to-a-href-link-acccoring-to-the-location-href-using-jquery
