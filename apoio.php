@@ -3,20 +3,20 @@
     <div class="row">
 
         <!-- INICIO col ORGANIZACAO -->
-        <div class="col-lg-8 col-md-8" style="border-right: 1px solid;">
+        <div class="col-lg-7 col-md-7" style="border-right: 1px solid;">
     
             <div class="row"> <!-- row ORGANIZACAO PRINCIPAL -->
-                <div class="col-lg-4 col-md-4 text-center"> <!-- col REALIZCAO -->        
-                    <h3>Realização</h3>
+                <div class="col-lg-2 col-md-2 text-center"> <!-- col REALIZCAO -->        
+                    <h4>Realização</h4>
                     <a href="http://www.sbc.org.br/" target="_blank" title="Sociedade Brasileira de Computação (SBC)">
                         <img class="realizadora" alt="SBC" src="img/logo_inst_realizadora/SBC_transparente.png">
                     </a>
                 </div> <!-- fim col REALIZACAO --> 
                 
-                <div class="col-lg-8 col-md-8 text-center"> <!-- col ORGANIZACAO -->         
-                    <h3>Organização</h3>
+                <div class="col-lg-10 col-md-10 text-center"> <!-- col ORGANIZACAO -->         
+                    <h4>Organização</h4>
                     <a href="http://www.unipampa.edu.br/" target="_blank" title="Universidade Federal do Pampa (Unipampa)">
-                        <img class="organizadora" alt="Unipampa" src="img/logo_inst_organizadora/Unipampa_vertical.png">
+                        <img class="organizadora" alt="Unipampa" src="img/logo_inst_organizadora/Unipampa_PPGES.png">
                     </a>    
                     
                     <a href="https://www.iffarroupilha.edu.br/" target="_blank" title="Instituto Federal Farroupilha (IFFar)">
@@ -33,7 +33,7 @@
 
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h3>Instituições colaboradoras</h5>
+                    <h4>Instituições colaboradoras</h4>
                 </div>
 
                 <div class="col-md-12 text-center">
@@ -77,19 +77,22 @@
         </div><!-- end col ORGANIZACAO -->
 
         <!-- INICIO col PATROCINIO -->
-        <div class="col-lg-4 col-md-4 text-center">
+        <div class="col-lg-5 col-md-5 text-center">
             
-            <h3>Patrocínio Diamante</h3>
+            <h4>Patrocínio Diamante</h4>
         
                 <a href="https://www.sicredi.com.br" target="_blank" title="Sicredi">
-                    <img class="patrocinadora-diamante" alt="Sicredi" src="img/logo_inst_patrocinadora/sicredi.png">
+                    <img class="patrocinadora-diamante" alt="Sicredi" src="img/logo_inst_patrocinadora/sicredi_horizontal.png">
                 </a>
         
-            <h3>Patrocínio Ouro</h3>
+            <h4>Patrocínio Ouro</h4>
             <p class="text-center">Patrocine a escola!</p>
             
             <h4>Patrocínio Prata</h4>
             <p class="text-center">Tenha sua marca reconhecida!</p>
+            
+            <h4>Patrocínio Bronze</h4>
+            <p class="text-center">Público alvo especializado!</p>
             
             <h4>Apoio</h4>
             <p class="text-center">Apoie o evento!</p>
