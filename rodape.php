@@ -40,15 +40,27 @@
     <!-- scripts locais -->
     <script type="text/javascript">
 
+$(window).scroll(alteraTamanhoNavbar);
+
+function example() {
+  var tempScrollTop = $(window).scrollTop();
+  console.log("Scroll from Top: " + tempScrollTop.toString());
+};
+
         // preloader
         $(window).load(function() {
           $('.loader').removeClass('is-active');
         });
 
         // altera tamanho da navbar 
-        $(document).ready(function () {
-          $(window).on('scroll', function () {
-              if ($(window).scrollTop() < 80) {
+        $(document).ready(); 
+        
+        function alteraTamanhoNavbar() {
+         // $(window).on('scroll', function () {
+              var tempScrollTop = $(window).scrollTop();
+              console.log("Scroll from Top: " + tempScrollTop.toString());
+
+              if ($(window).scrollTop() < 60) {
                 $('.navbar-fixed-top').addClass('grande'); 
                 document.getElementById("logo").style.height = "80px";
                 document.getElementById("logo").style.marginTop = "-30px";
@@ -58,8 +70,8 @@
                 document.getElementById("logo").style.height = "40px"; 
                 document.getElementById("logo").style.marginTop = "-10px";  
               }
-          });
-        }); 
+         // });
+        }
 
         // seleciona item na navbar 
         // fonte: https://stackoverflow.com/questions/12051961/addclass-to-a-href-link-acccoring-to-the-location-href-using-jquery

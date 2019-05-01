@@ -39,6 +39,21 @@ a.rodape:hover { color: #38db22; }
 a.rodape:visited {color: whitesmoke; }
 a.rodape:visited:hover  { color: #38db22; }
 
+ 
+.anchor{
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
+}
+
+.anchorMinicurso{
+  display: block;
+  position: relative;
+  top: -110px;
+  visibility: hidden;
+}
+
 h2 {
   padding-top: 40px;
   margin: 0px 20px 0;

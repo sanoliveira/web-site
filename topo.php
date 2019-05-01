@@ -75,11 +75,27 @@
         
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="index.php"><b>In&iacute;cio</b></a></li>
-            <li><a href="local.php"><b>Local</b></a></li>
-            <li><a href="chamadas.php"><b>Chamadas</b></a></li>
-            <li><a href="inscricoes.php"><b>Inscri&ccedil;&otilde;es</b></a></li>
-            <li><a href="programacao.php"><b>Programa&ccedil;&atilde;o</b></a></li>
+            <li><a href="index.php"><b>Início</b></a></li>
+                        
+            <li class="dropdown">
+              <a href="local.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>Local</b><span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="local.php?#edicao2019">Edição 2019</a></li>
+                <li><a href="local.php?#caravanas">Caravanas</a></li>
+                <li><a href="local.php?#edicoesAnteriores">Edições anteriores</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="local.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>Chamadas</b><span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="chamadas.php?#trabalhos">Trabalhos</a></li>
+                <li><a href="chamadas.php?#minicursos">Oficinas & Minicursos</a></li>
+              </ul>
+            </li>
+
+            <li><a href="inscricoes.php"><b>Inscrição</b></a></li>
+            <li><a href="programacao.php"><b>Programação</b></a></li>
             <li><a href="wrseg.php"><b>WRSeg</b></a></li>
             <li><a href="organizacao.php"><b>Organiza&ccedil;&atilde;o</b></a></li>
           </ul>

@@ -2,9 +2,10 @@
     require_once('topo.php');
 ?>
 
+<span class="anchor" id="trabalhos"></span>
+
 <div class="container-fluid">
     <div class="container">
-        <br>
         <br>
         <br>
         <br>
@@ -35,17 +36,9 @@
         Cada trabalho ser&aacute; avaliado por tr&ecirc;s ou mais especialistas.
         A lista dos membros do comit&ecirc; de programa est&aacute; dispon&iacute;vel <a href="organizacao.php#comite-de-programa">aqui</a>.
         </p>
-
-
-        <br>
-    </div> <!-- fim container -->
-</div> <!-- fim container fluid-->
-
-
-<div class="container-fluid bg-success">
-    <div class="container">
-        <h3>T&oacute;picos de Interesse (lista n&atilde;o exaustiva)</h3>
-   
+ 
+        <h4>T&oacute;picos de Interesse (lista n&atilde;o exaustiva)</h4>
+        <p></p>        
         <div class="lista-em-colunas">
             <li>Arquitetura de redes</li>
             <li>Computação na nuvem</li>
@@ -87,7 +80,7 @@
 </div><!-- fim container fluid --> 
 
 
-<div class="container-fluid ">
+<div class="container-fluid bg-success">
     <div class="container">
         <h3>Instruções aos Autores</h3>
         <p>
@@ -107,13 +100,30 @@
 </div> <!-- fim container fluid --> 
 
 
-<div class="container-fluid bg-success">
+<div class="container-fluid ">
     <div class="container">
         <?php include 'sugestoes_autores.php';?>
-    </div>
-</div>
+    </div> <!-- fim container --> 
+    
+</div><!-- fim container fluid --> 
  
+<span class="anchorMinicurso" id="minicursos"></span> 
 
+<div class="container-fluid bg-success">
+    <div class="container">
+        <h3>Chamada para Oficinas e Minicursos</h3>
+        <p>Em breve!</p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+    </div> <!-- fim container --> 
+</div> <!-- fim container fluid --> 
 
 <?php
     require_once('rodape.php');
