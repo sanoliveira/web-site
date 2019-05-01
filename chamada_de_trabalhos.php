@@ -21,4 +21,11 @@ tr&ecirc;s ou mais especialistas.
 
 <br>
 
+<h4>Trabalhos Destaque</h4>
+<p>
+Os <b>melhores trabalhos</b> do WRSeg 2019 receber&atilde;o <b>certificado de trabalhos destaque</b>. Al&eacute;m disso, os trabalhos ser&atilde;o recomendados para publica&ccedil;&atilde;o na  <a href="https://revistas.setrem.com.br/index.php/reabtic">ReABTIC (Revista Eletr&ocirc;nica Argentina-Brasil Tecnologias de Informa&ccedil;&atilde;o e Comunica&ccedil;&atilde;o)</a>.
+</p>
+
+<br>
+
         
