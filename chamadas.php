@@ -111,9 +111,74 @@
 <div class="container-fluid bg-success" >
     <div class="container">
         <h3>Chamada para Oficinas e Minicursos</h3>
-        <p>Em breve!</p>
+        <p>
+        Está aberta a chamada para propostas de <b>Minicursos</b> e <b>Oficinas</b>, as quais devem apresentar temas atuais e relevantes na área de <b>Redes</b> de Computadores e <b>Segurança</b> da Informação para <b>profissionais, alunos de Pós-Graduação e alunos de Iniciação Científica</b>. Enquanto os <b>minicursos</b> podem ter caráter <b>majoritariamente conceitual</b>, as <b>oficinas</b> devem ser <b>100% práticas</b>, realizadas em laboratório (utilizando a infraestrutura da Unipampa). A duração poderá ser ajustada conforme a programação final do evento respeitando os interesses dos realizadores, mas sugere-se uma duração de <b>aproximadamente 3 horas</b>.
+        </p>
         <br>
+        
+        <!-- INICIO DATAS IMPORTANTES -->
+        <h4>Datas Importantes</h4>
         <br>
+        <ul class="lista">
+            <li>08/julho/2019: data limite para submiss&atilde;o de propostas</li>
+            <li>22/julho/2019: notificação aos autores</li>
+            <li>16-19/setembro/2019: realização do evento</li>
+        </ul><!-- fim lista datas -->
+        <!-- FIM DATAS IMPORTANTES -->
+        <br>
+
+
+        <h4> Proposta</h4>
+        <p>
+        Cada proposta deve ter até quatro páginas, seguindo o modelo de artigo da Sociedade Brasileira de Computação (SBC), contemplando:
+        </p>
+        <ol>
+            <li>Identificação
+            <ol>
+                <li>Título</li>
+                <li>Resumo</li>
+                <li>Nível (básico, intermediário, avançado)</li>
+                <li>Tipo (minicurso, oficina)</li>
+            </ol><!-- fim lista identificação -->
+            </li>
+            <li>Conceitualização:
+            <ol>
+                <li>Justificativa - relevância para a Escola Regional de Redes de Computadores e/ou Workshop de Segurança da Informação e Sistemas Computacionais</li>
+                <li>Detalhamento dos tópicos abordados </li>
+                <li>Referências</li>
+            </ol><!-- fim lista Conceitualização -->
+            </li>
+            <li>Organização:
+            <ol>
+                <li>Biografia breve dos proponentes e apresentadores</li>
+                <li>Público-alvo (profissionais, pós-graduação e/ou IC) e conhecimentos prévios necessários para participar</li>
+                <li>Recursos necessários (por parte da organização do evento e dos participantes) </li>
+                <li>Tempo de duração estimado (aproximadamente 3 horas)</li>
+            </ol><!-- fim lista Organização -->
+            
+            </li>
+        </ol><!-- fim lista datas -->
+        
+        <br>
+        <h4>Submissão</h4>
+        <p>
+        Cada proposta deve ser submetida em formato PDF através de e-mail, com assunto ``Proposta para Minicursos e Oficinas ERRC 2019'', enviado para <a href="mailto:errc2019@unipampa.edu.br">errc2019@unipampa.edu.br</a> até a data limite de submissão.
+        </p>
+
+        <h4>Minicursos e Oficinas Selecionados</h4>
+        <p>
+        Os minicursos e oficinas selecionados deverão ser apresentados durante a ERRC 2019 de acordo com a programação (a ser definida). Os apresentadores receberão isenção de inscrição na Escola.
+        </p>
+
+        <p>
+        Os minicursos deverão ser acompanhados de um texto entre 15 e 20 páginas. Esse texto deve seguir o <a href="http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros">modelo de capítulo de livro da SBC</a>, e fará parte dos anais do evento. As oficinas devem ser acompanhadas de material didático apropriado, como um link para algum site contendo instruções. Esse material será referenciado no site do evento.
+        </p>
+
+        <h4>Dúvidas</h4>
+        <p>
+        Em caso de dúvidas, entre em contato com o <a href="https://errc.sbc.org.br/2019/organizacao.php?minicursos">comitê organizador</a>.
+        </p>
+        
         <br>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 

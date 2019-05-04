@@ -18,7 +18,7 @@
     <p>
       Desde 2006, Alegrete abriga um campus da Unipampa. Atualmente, o campus oferece 7 cursos de
       gradua&ccedil;&atilde;o (Ci&ecirc;ncia da
-      Computa&ccedil;&atilde;o, Engenharia de Sofware, Engenharia de
+      Computa&ccedil;&atilde;o, Engenharia de Software, Engenharia de
       Telecomunica&ccedil;&otilde;es, Engenharia Civil, Engenharia
       Agr&iacute;cola, Engenharia El&eacute;trica e Engenharia
       Mec&acirc;nica) e 4 cursos de pós-graduação (Mestrado em Engenharia de Software, Mestrado em Engenharia Elétrica, Mestrado em Engenharias e Especialização em Engenharia Econômica).
