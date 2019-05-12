@@ -27,8 +27,10 @@
         </p>
         
         <p>
-            A ERRC é o principal evento regional sobre redes de computadores e sistemas distribuídos. O evento serve como ponto de encontro para alunos e profissionais, apresentando a área para novos talentos e catalisando potenciais colaborações entre a indústria e instituições de ensino, pesquisa e extensão. A área é estratégica para a inserção do Estado nos mercados de tecnologia de ponta, como a Internet das Coisas (<b>IoT</b>) e as tecnologias de comunicação viabilizadoras para a chamada <b>Agricultura da Informação</b>.
+            A ERRC é o principal evento regional sobre redes de computadores e sistemas distribuídos. O evento serve como ponto de encontro para alunos e profissionais, apresentando a área para novos talentos e catalisando potenciais colaborações entre a indústria e instituições de ensino, pesquisa e extensão. A área é estratégica para a inserção do Estado nos mercados de tecnologia de ponta, como a Internet das Coisas (<b>IoT</b>) e as tecnologias de comunicação viabilizadoras para a <a href="https://www.embrapa.br/informatica-agropecuaria/busca-de-noticias/-/noticia/33239671/tecnologias-da-informacao-aplicadas-a-agricultura-estao-na-tecnoshow-comigo" target="_blank" title="Agricultura da Informação"><b>Agricultura da Informação</b></a>  e a <a href="http://www.industria40.gov.br/" target="_blank" title="Indústria 4.0"><b>Indústria 4.0</b></a>.
         </p>       
+
+        
 
         <p>
             Imprima o <a href="img/Cartaz_A4_v4.pdf" target="_blank" title="cartaz"><b>cartaz</b></a> e ajude a divulgar a escola!
