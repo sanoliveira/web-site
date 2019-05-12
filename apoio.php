@@ -1,9 +1,9 @@
 <br>
-<div class="container">
+<div class="container-fluid">
     <div class="row">
 
         <!-- INICIO col ORGANIZACAO -->
-        <div class="col-lg-8 col-md-8" style="border-right: 1px solid;">
+        <div class="col-lg-7 col-md-7" style="border-right: 1px solid;">
     
             <div class="row"> <!-- row ORGANIZACAO PRINCIPAL -->
                 <div class="col-lg-2 col-md-2 text-center"> <!-- col REALIZCAO -->        
@@ -15,7 +15,7 @@
                 
                 <div class="col-lg-10 col-md-10 text-center"> <!-- col ORGANIZACAO -->         
                     <h4>Organização</h4>
-                    <a href="http://www.unipampa.edu.br/" target="_blank" title="Universidade Federal do Pampa (Unipampa)">
+                    <a href="http://cursos.unipampa.edu.br/cursos/ppges/" target="_blank" title="Universidade Federal do Pampa (Unipampa)">
                         <img class="organizadora" alt="Unipampa" src="img/logo_inst_organizadora/Unipampa_PPGES.png">
                     </a>    
                     
@@ -77,7 +77,7 @@
         </div><!-- end col ORGANIZACAO -->
 
         <!-- INICIO col PATROCINIO -->
-        <div class="col-lg-4 col-md-4 text-center">
+        <div class="col-lg-5 col-md-5 text-center">
             
             <h4>Patrocínio Diamante</h4>
         
