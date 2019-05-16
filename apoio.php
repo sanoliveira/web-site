@@ -71,6 +71,10 @@
                         <img class="colaboradora" alt="Universidade Estadual de Campinas" src="img/logo_inst_colaboradora/Unicamp.png">
                     </a>
 
+                    <a href="https://www.ifsul.edu.br/" target="_blank" title="Instituto Federal Sul-rio-grandense (IFSul)">
+                        <img class="colaboradora" alt="Instituto Federal Sul-rio-grandense (IFSul)" src="img/logo_inst_colaboradora/IFSUL.png">
+                    </a>
+
                 </div>
             </div>
              
