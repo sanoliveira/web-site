@@ -54,7 +54,6 @@
                         <img class="colaboradora" alt="Universidade de Passo Fundo" src="img/logo_inst_colaboradora/UPF.png">
                     </a>
              
-                 
                     <a href="https://www.ifrs.edu.br/" target="_blank" title="Instituto Federal do Rio Grande do Sul (IFRS)">
                         <img class="colaboradora" alt="Instituto Federal do Rio Grande do Sul (IFRS)" src="img/logo_inst_colaboradora/IFRS.png">
                     </a>
@@ -99,8 +98,24 @@
             <p class="text-center">Público alvo especializado!</p>
             
             <h4>Apoio</h4>
-            <p class="text-center">Apoie o evento!</p>
-                
+            
+            <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">
+                    <img class="apoiadora" alt="Trend Micro" src="img/logo_inst_patrocinadora/TrendMicro-logo.png">
+            </a>
+
+            <a href="https://www.facebook.com/acessoalegrete/" target="_blank" title="Acesso Informática">
+                    <img class="apoiadora" alt="Acesso" src="img/logo_inst_patrocinadora/Acesso-logo.jpg">
+            </a>
+
+            <img class="apoiadora" alt="Raptor" src="img/logo_inst_patrocinadora/Raptor-logo.jpeg">
+            
+
+            <a href="https://www.parceriaarmas.com.br/clube-de-tiro/" target="_blank" title="Parceria Clube de Tiro">
+                    <img class="apoiadora" alt="Parceria" src="img/logo_inst_patrocinadora/ParceriaIndoor-logo.jpg">
+            </a>
+            
+           
+
         </div> <!-- end col -->
     </div><!-- end row -->
 </div><!-- end container -->
