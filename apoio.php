@@ -92,27 +92,27 @@
             <p class="text-center">Patrocine a escola!</p>
             
             <h4>Patrocínio Prata</h4>
-            <p class="text-center">Tenha sua marca reconhecida!</p>
-            
+            <a href="https://www.facebook.com/acessoalegrete/" target="_blank" title="Acesso Informática">
+                    <img class="patrocinadora-prata" alt="Acesso" src="img/logo_inst_patrocinadora/Acesso-logo.jpg">
+            </a>
+
             <h4>Patrocínio Bronze</h4>
-            <p class="text-center">Público alvo especializado!</p>
-            
+            <a href="https://www.parceriaarmas.com.br/clube-de-tiro/" target="_blank" title="Parceria Clube de Tiro">
+                    <img class="patrocinadora-bronze" alt="Parceria" src="img/logo_inst_patrocinadora/ParceriaIndoor-logo.jpg">
+            </a>
+
             <h4>Apoio</h4>
             
             <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">
                     <img class="apoiadora" alt="Trend Micro" src="img/logo_inst_patrocinadora/TrendMicro-logo.png">
             </a>
 
-            <a href="https://www.facebook.com/acessoalegrete/" target="_blank" title="Acesso Informática">
-                    <img class="apoiadora" alt="Acesso" src="img/logo_inst_patrocinadora/Acesso-logo.jpg">
-            </a>
+           
 
             <img class="apoiadora" alt="Raptor" src="img/logo_inst_patrocinadora/Raptor-logo.jpeg">
             
 
-            <a href="https://www.parceriaarmas.com.br/clube-de-tiro/" target="_blank" title="Parceria Clube de Tiro">
-                    <img class="apoiadora" alt="Parceria" src="img/logo_inst_patrocinadora/ParceriaIndoor-logo.jpg">
-            </a>
+            
             
            
 

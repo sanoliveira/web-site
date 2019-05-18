@@ -156,32 +156,32 @@ img.colaboradora{
 }
 
 img.patrocinadora-diamante{
-  max-width: 200px;
-  max-height: 80px;
+  max-width: 180px;
+  max-height: 110px;
   margin: 15px;
 }
 
 img.patrocinadora-ouro{
-  max-width: 130px;
-  max-height: 90px;
+  max-width: 160px;
+  max-height: 100px;
   margin: 15px;
 }
 
 img.patrocinadora-prata{
-  max-width: 120px;
-  max-height: 80px;
+  max-width: 140px;
+  max-height: 90px;
   margin: 15px;
 }
 
 img.patrocinadora-bronze{
-  max-width: 110px;
-  max-height: 70px;
+  max-width: 120px;
+  max-height: 80px;
   margin: 15px;
 }
 
 img.apoiadora{
-  max-width: 120px;
-  max-height: 80px;
+  max-width: 100px;
+  max-height: 70px;
   margin: 15px;
 }
 
