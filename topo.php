@@ -89,8 +89,9 @@
             <li class="dropdown">
               <a href="local.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>Chamadas</b><span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="chamadas.php?#trabalhos">Trabalhos</a></li>
-                <li><a href="chamadas.php?#minicursos">Oficinas & Minicursos</a></li>
+                <li><a href="chamadas.php?#trabalhos">ERRC - Trabalhos</a></li>
+                <li><a href="chamadas.php?#minicursos">ERRC - Oficinas & Minicursos</a></li>
+                <li><a href="wrseg.php?#trabalhos">WRSeg - Trabalhos</a></li>
               </ul>
             </li>
 
