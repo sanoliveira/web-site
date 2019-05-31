@@ -95,7 +95,15 @@
             </li>
 
             <li><a href="inscricoes.php"><b>Inscrição</b></a></li>
-            <li><a href="programacao.php"><b>Programação</b></a></li>
+
+            <li class="dropdown">
+              <a href="programacao.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>Programação</b><span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="programacao.php?#sessoesTecnicas">Sessões Técnicas</a></li>
+                <li><a href="programacao.php?#minicursos">Minicursos</a></li>
+              </ul>
+            </li>
+
             <li><a href="wrseg.php"><b>WRSeg</b></a></li>
             <li><a href="organizacao.php"><b>Organiza&ccedil;&atilde;o</b></a></li>
           </ul>

@@ -104,7 +104,7 @@
             <h4>Apoio</h4>
             
             <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">
-                    <img class="apoiadora" alt="Trend Micro" src="img/logo_inst_patrocinadora/TrendMicro-logo.png">
+                    <img class="apoiadora" alt="Trend Micro" src="img/logo_inst_patrocinadora/TM_logo_tagline_2018_horiz_2c.png">
             </a>
 
            
