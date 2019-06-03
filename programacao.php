@@ -44,6 +44,8 @@
            <li>Conhecimento básico sobre ameaças</li>
         </ul><!-- fim lista -->
        
+        <br>
+        <br>
     </div>
 </div><!--         FIM CONTEUDO PROGRAMACAO      -->
 
@@ -65,6 +67,8 @@
            <li>Fusão óptica e medição de potência.</li>
         </ul><!-- fim lista -->
        
+        <br>
+        <br>
     </div>
 </div>
  
