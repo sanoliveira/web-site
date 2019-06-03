@@ -47,6 +47,26 @@
     </div>
 </div><!--         FIM CONTEUDO PROGRAMACAO      -->
 
+<div class="container-fluid">
+    <div class="container">
+        <h3>Oficinas confirmadas</h3>
+
+        <a class="anchor" id="minicursos_trend"></a>
+        <h4> Fusão de Fibra Óptica (oferecido por <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">Interneith</a>)</h4>
+
+        <br>
+        <p>Tópicos previstos: </p>
+
+        <ul >
+           <li>Conceitos de cabo drop e cabo AS.</li>
+           <li>Limpeza.</li>
+           <li>Clivagem.</li>
+           <li>Roletagem e montagem de conector mecânico.</li>
+           <li>Fusão óptica e medição de potência.</li>
+        </ul><!-- fim lista -->
+       
+    </div>
+</div>
  
 
 <?php
