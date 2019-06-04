@@ -101,7 +101,9 @@
               <a href="programacao.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>Programação</b><span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="programacao.php?#sessoesTecnicas">Sessões Técnicas</a></li>
+                <li><a href="programacao.php?#palestras">Palestras</a></li>
                 <li><a href="programacao.php?#minicursos">Minicursos</a></li>
+                <li><a href="programacao.php?#oficinas">Oficinas</a></li>
               </ul>
             </li>
 
