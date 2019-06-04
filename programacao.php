@@ -71,7 +71,7 @@
 <a class="anchor" id="oficinas"></a>
 <div class="container-fluid">
     <div class="container">
-        <h3> <u> <b>Oficinas confirmadas</u></h3>
+        <h3> <u> Oficinas confirmadas</u></h3>
         <a class="anchor" id="oficinas_interneith"></a>
         <h3> Fusão de Fibra Óptica (oferecido por <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">Interneith</a>)</h3>
 
