@@ -89,7 +89,7 @@
         </p>
         <ul class="lista">
             <li> 8 (oito) páginas, em caso de artigo completo, ou
-            <li> 2 (duas) páginas, em caso de resumo estendido. 
+            <li> 2 (duas) páginas, em caso de resumo extendido. 
         </ul>
         
         <br>
