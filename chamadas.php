@@ -12,7 +12,7 @@
         <h3>Chamada para Trabalhos</h3>
 
         <p>
-        Autores s&atilde;o convidados a submeter <b>artigos completos</b> e <b>resumos extendidos</b> contendo
+        Autores s&atilde;o convidados a submeter <b>artigos completos</b> e <b>resumos estendidos</b> contendo
         resultados de suas pesquisas. Neste ano, além dos trabalhos tradicionalmente publicados, também encorajamos a submissão de trabalhos com teor predominante prático. Assim, a edição de 2019 contemplará duas <b>trilhas</b> de trabalhos:</p>
         <ul class="lista">
             <li><b>Regular</b>: trabalhos científicos tradicionais, como aqueles que são predominamente realizados em ambientes acadêmicos. Podemos citar como exemplo trabalhos que apresentam um apanhado sobre determinada área, propostas para avançar o estado-da-arte e avaliações de desempenho baseadas em modelagem analítica ou simulação.
@@ -89,7 +89,7 @@
         </p>
         <ul class="lista">
             <li> 8 (oito) páginas, em caso de artigo completo, ou
-            <li> 2 (duas) páginas, em caso de resumo extendido. 
+            <li> 2 (duas) páginas, em caso de resumo estendido. 
         </ul>
         
         <br>
