@@ -22,7 +22,7 @@
     <div class="container">
         <h3>Palestras confirmadas</h3>
         <a class="anchor" id="palestras_renato"></a>
-        <h4> Threat Hunting - A evolução do SOC (por Renato Fontana)</h4>
+        <h3> Threat Hunting - A evolução do SOC (por Renato Fontana)</h3>
         <p>
         <b>Descrição:</b> As técnicas e métodos para análise de incidentes evoluíram rapidamente nos últimos anos, porém algumas organizações ainda seguem um modelo antiquado e passivo de resposta a incidentes. Em tais cenários analistas ainda dependem de alertas de segurança baseados em IOCs, porém este é somente o primeiro pilar investigativo para detecção de ameaças.
         <br>
@@ -46,7 +46,7 @@
         <h3>Minicursos confirmados</h3>
 
         <a class="anchor" id="minicursos_trend"></a>
-        <h4> Threat Defense Workshop (oferecido por <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">Trend Micro</a>)</h4>
+        <h3> Threat Defense Workshop (oferecido por <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">Trend Micro</a>)</h3>
 
         <p>
         O Threat Defense Workshop é uma simulação de ataques cibernéticos do mundo real, em que os participantes desempenham o papel de um analista de segurança recém-contratado em uma empresa fictícia sob ataque. Os participantes devem assumir riscos e resolver diferentes desafios para entender como o ataque começa, a complexidade dele e como proteger proativamente seus ativos de valor no data center com a orientação de um especialista.
@@ -73,7 +73,7 @@
     <div class="container">
         <h3>Oficinas confirmadas</h3>
         <a class="anchor" id="oficinas_interneith"></a>
-        <h4> Fusão de Fibra Óptica (oferecido por <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">Interneith</a>)</h4>
+        <h3> Fusão de Fibra Óptica (oferecido por <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">Interneith</a>)</h3>
 
         <p>Tópicos previstos: </p>
 
