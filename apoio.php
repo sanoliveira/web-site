@@ -89,7 +89,9 @@
                 </a>
         
             <h4>Patrocínio Ouro</h4>
-            <p class="text-center">Patrocine a escola!</p>
+                <a href="http://www.conesul.net" target="_blank" title="RedeConesul Telecom">
+                    <img class="patrocinadora-ouro" alt="RedeConesul Telecom" src="img/logo_inst_patrocinadora/conesul-marca-errc-01.png">
+                </a>
             
             <h4>Patrocínio Prata</h4>
             <a href="https://www.facebook.com/acessoalegrete/" target="_blank" title="Acesso Informática">
