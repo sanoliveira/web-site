@@ -43,7 +43,7 @@
 <div class="container-fluid bg-success">
     <div class="container">
         <!-- INICIO CONTEUDO PROGRAMACAO      -->
-        <h3> <u><b>Minicursos confirmados</u></h3>
+        <h3> <u>Minicursos confirmados</u></h3>
 
         <a class="anchor" id="minicursos_trend"></a>
         <h3> Threat Defense Workshop (oferecido por <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">Trend Micro</a>)</h3>
