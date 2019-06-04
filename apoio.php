@@ -97,6 +97,12 @@
             <a href="https://www.facebook.com/acessoalegrete/" target="_blank" title="Acesso Informática">
                     <img class="patrocinadora-prata" alt="Acesso" src="img/logo_inst_patrocinadora/Acesso-logo.jpg">
             </a>
+            <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">
+                    <img class="patrocinadora-prata" alt="Trend Micro" src="img/logo_inst_patrocinadora/TM_logo_tagline_2018_horiz_2c.png">
+            </a>
+
+           
+
 
             <h4>Patrocínio Bronze</h4>
             <a href="https://www.parceriaarmas.com.br/clube-de-tiro/" target="_blank" title="Parceria Clube de Tiro">
@@ -105,12 +111,6 @@
 
             <h4>Apoio</h4>
             
-            <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">
-                    <img class="apoiadora" alt="Trend Micro" src="img/logo_inst_patrocinadora/TM_logo_tagline_2018_horiz_2c.png">
-            </a>
-
-           
-
             <img class="apoiadora" alt="Raptor" src="img/logo_inst_patrocinadora/Raptor-logo.jpeg">
             
 
