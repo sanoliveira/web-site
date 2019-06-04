@@ -20,7 +20,7 @@
 <a class="anchor" id="palestras"></a>
 <div class="container-fluid">
     <div class="container">
-        <h3>Palestras confirmadas</h3>
+        <h3>** <b>Palestras confirmadas<b> **</h3>
         <a class="anchor" id="palestras_renato"></a>
         <h3> Threat Hunting - A evolução do SOC (por Renato Fontana)</h3>
         <p>
