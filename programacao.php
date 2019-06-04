@@ -3,7 +3,7 @@
 ?>
 
 <a class="anchor" id="sessoesTecnicas"></a>
-<div class="container-fluid">
+<div class="container-fluid bg-success">
     <div class="container">
         <!-- INICIO CONTEUDO PROGRAMACAO      -->
         <br><br><br>
@@ -17,6 +17,31 @@
 </div><!--         FIM CONTEUDO PROGRAMACAO      -->
 
 
+<a class="anchor" id="palestras"></a>
+<div class="container-fluid">
+    <div class="container">
+        <h3>Oficinas confirmadas</h3>
+
+        <a class="anchor" id="palestras_renato"></a>
+        <h4> Threat Hunting - A evolução do SOC (por <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">Interneith</a>)</h4>
+        <br>
+        <p>
+        As técnicas e métodos para análise de incidentes evoluíram rapidamente nos últimos anos, porém algumas organizações ainda seguem um modelo antiquado e passivo de resposta a incidentes. Em tais cenários analistas ainda dependem de alertas de segurança baseados em IOCs, porém este é somente o primeiro pilar investigativo para detecção de ameaças.
+
+        Threat Hunting é considerado como o próximo passo da evolução de um Security Operations Center e tem como principal abordagem a busca iterativa, compreensão e identificação de perfís adversário que possam ter obtido algum tipo de acesso à rede.
+
+        Nessa palestra discutiremos os mais recentes métodos para análise exploratória de dados, caça de ameaças e identificação de perfis atacantes.
+        </p>
+        <br>
+
+        <p>
+        <b>Minibio</b>: Analista de Segurança de Redes, Resposta a Incidentes e Threat Hunter. MSc System and Network Engineering - Forensics, University of Amsterdam. 
+        </p>
+
+        <br>
+    </div>
+</div>
+ 
 
 <a class="anchor" id="minicursos"></a>
 <div class="container-fluid bg-success">
@@ -49,11 +74,12 @@
     </div>
 </div><!--         FIM CONTEUDO PROGRAMACAO      -->
 
+<a class="anchor" id="oficinas"></a>
 <div class="container-fluid">
     <div class="container">
         <h3>Oficinas confirmadas</h3>
 
-        <a class="anchor" id="minicursos_trend"></a>
+        <a class="anchor" id="oficinas_interneith"></a>
         <h4> Fusão de Fibra Óptica (oferecido por <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">Interneith</a>)</h4>
 
         <br>
