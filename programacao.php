@@ -20,7 +20,7 @@
 <a class="anchor" id="palestras"></a>
 <div class="container-fluid">
     <div class="container">
-        <h3>** <b>Palestras confirmadas<b> **</h3>
+        <h3>** <b>Palestras confirmadas</b> **</h3>
         <a class="anchor" id="palestras_renato"></a>
         <h3> Threat Hunting - A evolução do SOC (por Renato Fontana)</h3>
         <p>
@@ -43,7 +43,7 @@
 <div class="container-fluid bg-success">
     <div class="container">
         <!-- INICIO CONTEUDO PROGRAMACAO      -->
-        <h3>Minicursos confirmados</h3>
+        <h3> ** <b>Minicursos confirmados</b> **</h3>
 
         <a class="anchor" id="minicursos_trend"></a>
         <h3> Threat Defense Workshop (oferecido por <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">Trend Micro</a>)</h3>
@@ -71,7 +71,7 @@
 <a class="anchor" id="oficinas"></a>
 <div class="container-fluid">
     <div class="container">
-        <h3>Oficinas confirmadas</h3>
+        <h3> ** <b>Oficinas confirmadas</b> **</h3>
         <a class="anchor" id="oficinas_interneith"></a>
         <h3> Fusão de Fibra Óptica (oferecido por <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">Interneith</a>)</h3>
 
