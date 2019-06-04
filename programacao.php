@@ -20,20 +20,18 @@
 <a class="anchor" id="palestras"></a>
 <div class="container-fluid">
     <div class="container">
-        <h3>Oficinas confirmadas</h3>
+        <h3>Palestras confirmadas</h3>
 
         <a class="anchor" id="palestras_renato"></a>
-        <h4> Threat Hunting - A evolução do SOC (por <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">Interneith</a>)</h4>
+        <h4> Threat Hunting - A evolução do SOC (por Renato Fontana)</h4>
         <br>
         <p>
         As técnicas e métodos para análise de incidentes evoluíram rapidamente nos últimos anos, porém algumas organizações ainda seguem um modelo antiquado e passivo de resposta a incidentes. Em tais cenários analistas ainda dependem de alertas de segurança baseados em IOCs, porém este é somente o primeiro pilar investigativo para detecção de ameaças.
-
+        <br>
         Threat Hunting é considerado como o próximo passo da evolução de um Security Operations Center e tem como principal abordagem a busca iterativa, compreensão e identificação de perfís adversário que possam ter obtido algum tipo de acesso à rede.
-
+        <br>
         Nessa palestra discutiremos os mais recentes métodos para análise exploratória de dados, caça de ameaças e identificação de perfis atacantes.
         </p>
-        <br>
-
         <p>
         <b>Minibio</b>: Analista de Segurança de Redes, Resposta a Incidentes e Threat Hunter. MSc System and Network Engineering - Forensics, University of Amsterdam. 
         </p>
