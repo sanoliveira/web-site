@@ -74,9 +74,9 @@
         <h3> <u> Oficinas confirmadas</u></h3>
         <a class="anchor" id="oficinas_interneith"></a>
         <h3> Fusão de Fibra Óptica (oferecido por <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">Interneith</a>)</h3>
-        <p><b>Data:</b> 16a18/09/2019</p>
+        <p><b>Data:</b> 16 a 18/09/2019</p>
 
-        <p>Tópicos previstos: </p>
+        <p><b>Tópicos previstos: </b></p>
 
         <ul >
            <li>Conceitos de cabo drop e cabo AS.</li>
