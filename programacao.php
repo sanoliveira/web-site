@@ -47,16 +47,16 @@
 
         <a class="anchor" id="minicursos_trend"></a>
         <h3> Threat Defense Workshop (oferecido por <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">Trend Micro</a>)</h3>
-
+        <b>Data:</b> 17/09/2019
         <p>
-        O Threat Defense Workshop é uma simulação de ataques cibernéticos do mundo real, em que os participantes desempenham o papel de um analista de segurança recém-contratado em uma empresa fictícia sob ataque. Os participantes devem assumir riscos e resolver diferentes desafios para entender como o ataque começa, a complexidade dele e como proteger proativamente seus ativos de valor no data center com a orientação de um especialista.
+        <b>Descrição:</b> O Threat Defense Workshop é uma simulação de ataques cibernéticos do mundo real, em que os participantes desempenham o papel de um analista de segurança recém-contratado em uma empresa fictícia sob ataque. Os participantes devem assumir riscos e resolver diferentes desafios para entender como o ataque começa, a complexidade dele e como proteger proativamente seus ativos de valor no data center com a orientação de um especialista.
         </p>
-        <p>Requisitos técnicos: </p>
+        <p><b>Requisitos técnicos:</b> </p>
 
         <ul>
             <li>Apenas que as máquinas tenham algum browser e cliente RDP</li>
         </ul><!-- fim lista -->
-        <p>Conhecimentos básicos: </p>
+        <p><b>Conhecimentos básicos: </b></p>
         <ul >
            <li>Comandos básicos de Windows e Linux</li>
            <li>Conhecimento de Redes</li>
