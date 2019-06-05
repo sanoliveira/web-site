@@ -110,6 +110,9 @@
             </a>
 
             <h4>Apoio</h4>
+            <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">
+                    <img class="apoiadora" alt="Interneith" src="img/logo_inst_patrocinadora/interneith.png">
+            </a>
             
             <img class="apoiadora" alt="Raptor" src="img/logo_inst_patrocinadora/Raptor-logo.jpeg">
             
