@@ -47,7 +47,7 @@
 
         <a class="anchor" id="minicursos_trend"></a>
         <h3> Threat Defense Workshop (oferecido por <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">Trend Micro</a>)</h3>
-        <b>Data:</b> 17/09/2019
+        <p><b>Data:</b> 17/09/2019</p>
         <p>
         <b>Descrição:</b> O Threat Defense Workshop é uma simulação de ataques cibernéticos do mundo real, em que os participantes desempenham o papel de um analista de segurança recém-contratado em uma empresa fictícia sob ataque. Os participantes devem assumir riscos e resolver diferentes desafios para entender como o ataque começa, a complexidade dele e como proteger proativamente seus ativos de valor no data center com a orientação de um especialista.
         </p>
@@ -74,6 +74,7 @@
         <h3> <u> Oficinas confirmadas</u></h3>
         <a class="anchor" id="oficinas_interneith"></a>
         <h3> Fusão de Fibra Óptica (oferecido por <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">Interneith</a>)</h3>
+        <p><b>Data:</b> 16a18/09/2019</p>
 
         <p>Tópicos previstos: </p>
 
