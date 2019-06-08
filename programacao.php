@@ -3,7 +3,7 @@
 ?>
 
 <a class="anchor" id="sessoesTecnicas"></a>
-<div class="container-fluid bg-success">
+<div class="container-fluid">
     <div class="container">
         <!-- INICIO CONTEUDO PROGRAMACAO      -->
         <br><br><br>
@@ -18,7 +18,7 @@
 
 
 <a class="anchor" id="palestras"></a>
-<div class="container-fluid">
+<div class="container-fluid bg-success">
     <div class="container">
         <h3><u>Palestras confirmadas</u></h3>
         <a class="anchor" id="palestras_renato"></a>
@@ -40,7 +40,7 @@
  
 
 <a class="anchor" id="minicursos"></a>
-<div class="container-fluid bg-success">
+<div class="container-fluid ">
     <div class="container">
         <!-- INICIO CONTEUDO PROGRAMACAO      -->
         <h3> <u>Minicursos confirmados</u></h3>
@@ -69,7 +69,7 @@
 </div><!--         FIM CONTEUDO PROGRAMACAO      -->
 
 <a class="anchor" id="oficinas"></a>
-<div class="container-fluid">
+<div class="container-fluid bg-success">
     <div class="container">
         <h3> <u> Oficinas confirmadas</u></h3>
         <a class="anchor" id="oficinas_interneith"></a>
