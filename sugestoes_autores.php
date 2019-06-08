@@ -7,7 +7,9 @@
    artigos para publica&ccedil;&atilde;o e apresenta&ccedil;&atilde;o na ERRC/WRSeg 2019. Cada sugestão é acompanhada de referências que podem ajudar na sua concretização.
    </p>
    <p>
-   A primeira sugestão é <b>planejar</b> o que será escrito antes de começar a escrever. 
+  
+   
+   A primeira sugestão é <a href="https://images.app.goo.gl/LTKeqk9XYN4YXEDx7"><b>planejar</b></a> o que será escrito antes de começar a escrever. 
    </p>
    <ul class="lista">
       <li class="text-justify">Dicas gerais são apresentadas em <a href="http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/10/ogres2.pdf">&ldquo;Ogres, Villagers, & the Art of Writing&rdquo;</a>, escrito por S. Keshav.
@@ -102,9 +104,9 @@
       </li>
 
       <li class="text-justify">
-      Faça um checklist sobre a formatação do artigo. Use um corretor ortográfico para evitar erros básicos, como uso da v&iacute;rgula, crase e concord&acirc;ncia nominal. Em seguida, verifique se todos elementos auxiliares, como figuras, tabelas, equações, são referenciados no texto e de maneira adequada. Para cada citação, verifique: se (i) ela é pertinente para trabalho, (ii) se ela é coerente com o artigo referenciado e não é uma referência indireta, e (iii) aponta para o artigo correto. Verifique se todas as referências seguem mesmo padrão, por exemplo, quanto ao grau de detalhes. 
+      Faça um checklist sobre a formatação do artigo. Use um corretor ortográfico para evitar erros básicos, como <a href="https://ciberduvidas.iscte-iul.pt/artigos/rubricas/idioma/a-virgula-em-4-regras-simples/3191">uso da vírgula</a>, crase e concord&acirc;ncia nominal. Em seguida, verifique se todos elementos auxiliares, como figuras, tabelas, equações, são referenciados no texto e de maneira adequada. Para cada citação, verifique: se (i) ela é pertinente para trabalho, (ii) se ela é coerente com o artigo referenciado e não é uma referência indireta, e (iii) aponta para o artigo correto. Verifique se todas as referências seguem mesmo padrão, por exemplo, quanto ao grau de detalhes. 
       </li>
-
+      
       <li class="text-justify">
       Por fim, imprima duas vias do artigo, uma colorida e outra preto e branco, e procure detectar possíveis problemas de impressão.
       </li>
