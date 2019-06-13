@@ -104,7 +104,7 @@
     </div> <!--FIM-CONTAINER ACESSO -->
 
     
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3462.587342665628!2d-55.77078578492336!3d-29.78957158197562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95aab98a8f097415%3A0xba478dd53e4e9407!2sUniversidade+Federal+do+Pampa+-+Campus+Alegrete!5e0!3m2!1spt-BR!2sbr!4v1548173740800" width="90%" height="400" frameborder="0" style="border:0" allowfullscreen align="center">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3462.587342665628!2d-55.77078578492336!3d-29.78957158197562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95aab98a8f097415%3A0xba478dd53e4e9407!2sUniversidade+Federal+do+Pampa+-+Campus+Alegrete!5e0!3m2!1spt-BR!2sbr!4v1548173740800" width="80%" height="400" frameborder="0" style="border:0" align="center" allowfullscreen>
       </iframe>
       <br><br><br><br>
       <div class="container" >
