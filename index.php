@@ -12,7 +12,7 @@
         <source srcset="img/errc-2019_banner_margem_fundo_1440.png" media="(max-width: 1440px)">
         <source srcset="img/errc-2019_banner_margem_fundo_2880.png" media="(max-width: 2880px)">
         <source srcset="img/errc-2019_banner_margem_fundo_6300.png" media="(min-width: 6300px)">
-        <img src="img/2019_banner_margem_fundo_720.png" width="80%" alt="ERRC">
+        <img src="img/2019_banner_margem_fundo_720.png" width="90%" alt="ERRC">
     </picture>
 </div>
 <br>
