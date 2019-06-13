@@ -40,7 +40,7 @@
       <div class="carousel-inner">
 
         <div class="item active">
-          <img style="width: 90%;" src="img/foto_local_02.jpg" alt="Chicago"><br>
+          <img style="width: 80%;" src="img/foto_local_02.jpg" alt="Chicago"><br>
           <div class="carousel-caption">
               Negrinho Triunfante, de Vasco Prado, no Parque Rui Ramos
               <br>
@@ -49,7 +49,7 @@
         </div>
 
         <div class="item">
-          <img style="width: 90%;" src="img/foto_local_01.jpg" alt="Campus Alegrete"><br>
+          <img style="width: 80%;" src="img/foto_local_01.jpg" alt="Campus Alegrete"><br>
        
           <div class="carousel-caption">
             Vista para o Campus Alegrete da Unipampa
@@ -59,7 +59,7 @@
         </div>
 
         <div class="item">
-          <img style="width: 90%;" src="img/foto_local_03.jpg" alt="Praça"><br>
+          <img style="width: 80%;" src="img/foto_local_03.jpg" alt="Praça"><br>
 
           <div class="carousel-caption">
             
@@ -71,7 +71,7 @@
         </div><!-- fim item -->
 
         <div class="item">
-          <img style="width: 90%;" src="img/foto_local_04.jpg" alt="Maria Fumaça"><br>
+          <img style="width: 80%;" src="img/foto_local_04.jpg" alt="Maria Fumaça"><br>
 
           <div class="carousel-caption">
       
