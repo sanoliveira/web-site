@@ -27,6 +27,7 @@
     <br>
     </div >
 
+    <div class="container" align="center" >
     <div id="myCarousel" class="carousel slide" data-ride="carousel" align="center">
       <!-- Indicators -->
       <ol class="carousel-indicators">
@@ -94,6 +95,7 @@
         <span class="sr-only">Próximo</span>
       </a>
     </div><!-- fim myCarousel -->
+    </div>
 
     <div class="container" >
       <h4>Acesso</h4>
