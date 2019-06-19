@@ -41,8 +41,9 @@
     <!-----FONT------->
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
-    <!-- Loader source: https://github.com/raphaelfabeni/css-loader -->
+    <!-- Loader source: https://github.com/raphaelfabeni/css-loader 
     <link rel="stylesheet" href="css/css-loader.css">
+    -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -54,9 +55,10 @@
  
 
  <body>
-  <!-- Loader -->
+  <!-- Loader OFF
   <div class="loader loader-default is-active"></div>
-
+  -->
+     
    <!-- Fixed navbar -->
    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse grande">
       <div class="container">
