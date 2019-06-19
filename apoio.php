@@ -92,6 +92,12 @@
                 <a href="http://www.conesul.net" target="_blank" title="RedeConesul Telecom">
                     <img class="patrocinadora-ouro" alt="RedeConesul Telecom" src="img/logo_inst_patrocinadora/conesul-marca-errc-01.png">
                 </a>
+            <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">
+                    <img class="patrocinadora-ouro" alt="Interneith" src="img/logo_inst_patrocinadora/interneith.png">
+            </a>
+            <a href="https://www.avato.com.br/" target="_blank" title="Ávato">
+                    <img class="patrocinadora-ouro" alt="Ávato" src="img/logo_inst_patrocinadora/avato_logo_AZ.png">
+            </a>
             
             <h4>Patrocínio Prata</h4>
             <a href="https://www.facebook.com/acessoalegrete/" target="_blank" title="Acesso Informática">
@@ -110,9 +116,6 @@
             </a>
 
             <h4>Apoio</h4>
-            <a href="https://www.interneith.com.br/" target="_blank" title="Interneith">
-                    <img class="apoiadora" alt="Interneith" src="img/logo_inst_patrocinadora/interneith.png">
-            </a>
             
             <img class="apoiadora" alt="Raptor" src="img/logo_inst_patrocinadora/Raptor-logo.jpeg">
             

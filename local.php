@@ -27,7 +27,8 @@
     <br>
     </div >
 
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div class="container" align="center" >
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" align="center">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -94,6 +95,7 @@
         <span class="sr-only">Próximo</span>
       </a>
     </div><!-- fim myCarousel -->
+    </div>
 
     <div class="container" >
       <h4>Acesso</h4>
@@ -103,11 +105,10 @@
       </p>
     </div> <!--FIM-CONTAINER ACESSO -->
 
-    
+      <div class="container" align="center" >
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3462.587342665628!2d-55.77078578492336!3d-29.78957158197562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95aab98a8f097415%3A0xba478dd53e4e9407!2sUniversidade+Federal+do+Pampa+-+Campus+Alegrete!5e0!3m2!1spt-BR!2sbr!4v1548173740800" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen>
       </iframe>
       <br><br><br><br>
-      <div class="container" >
     </div> <!--FIM-CONTAINER GMAPS -->
     
     <a class="anchor" id="caravanas"></a>
