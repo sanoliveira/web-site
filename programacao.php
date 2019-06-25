@@ -36,7 +36,7 @@
 
         <br>
         <a class="anchor" id="palestras_tiago"></a>
-        <h3> IPv6: conceitos, desafios e vantagens para Internet das coisas (IoT(por Tiago Sanchotene)</h3>
+        <h3> IPv6: conceitos, desafios e vantagens para a Internet das coisas (por Tiago Sanchotene)</h3>
         <p>
         <b>Descrição:</b> A disponibilidade de IPv4 está com os dias contados. Com o surgimento e rápido crescimento da Internet das coisas (IoT), a tendência é a disponibilidade de IPv4 acabar ainda mais cedo. IPv6 é a alternativa existente para resolver o problema da disponibilidade de endereços IP. A palestra irá apresentar os principais conceitos de IPv6 e tentar responder perguntas como: (a) Qual é o status da implementação do IPv6 no Brasil? (b) Quais são os desafios para a utilização de IPv6 em IoT? (c) Quais são as vantagens de utilização de IPv6 em equipamentos da Internet das coisas?
         </p>
