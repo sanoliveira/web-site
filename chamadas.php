@@ -120,7 +120,7 @@
         <h4>Datas Importantes (<font color="red"> <b>** NOVAS DATAS **</b> </font>)</h4>
         <br>
         <ul class="lista">
-            <li>20/julho/2019: data limite para submiss&atilde;o de propostas</li>
+            <li><font color="red"><b>20/julho/2019</b></font>: data limite para submiss&atilde;o de propostas</li>
             <li>03/agosto/2019: notificação aos autores</li>
             <li>16-19/setembro/2019: realização do evento</li>
         </ul><!-- fim lista datas -->
