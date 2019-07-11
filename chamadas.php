@@ -117,11 +117,11 @@
         <br>
         
         <!-- INICIO DATAS IMPORTANTES -->
-        <h4>Datas Importantes</h4>
+        <h4>Datas Importantes (<b>NOVAS DATAS</b>)</h4>
         <br>
         <ul class="lista">
-            <li>08/julho/2019: data limite para submiss&atilde;o de propostas</li>
-            <li>22/julho/2019: notificação aos autores</li>
+            <li>20/julho/2019: data limite para submiss&atilde;o de propostas</li>
+            <li>03/agosto/2019: notificação aos autores</li>
             <li>16-19/setembro/2019: realização do evento</li>
         </ul><!-- fim lista datas -->
         <!-- FIM DATAS IMPORTANTES -->
