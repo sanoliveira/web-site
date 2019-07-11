@@ -78,7 +78,7 @@
         <br>
         
         
-        <a class="anchor" id="minicursos_trend"></a>
+        <a class="anchor" id="minicursos_fibre"></a>
         <h3> Workshop Testbed Fibre: Usando Testbeds para pesquisa e aprendizado em redes de computadores (oferecido por <a href="https://www.fibre.org.br/" target="_blank" title="Trend Micro">FIBRE</a>)</h3>
         <p><b>Data:</b> 18/09/2019</p>
         <p>
