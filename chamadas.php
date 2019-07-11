@@ -117,7 +117,7 @@
         <br>
         
         <!-- INICIO DATAS IMPORTANTES -->
-        <h4>Datas Importantes (<b>NOVAS DATAS</b>)</h4>
+        <h4>Datas Importantes (<font color="red"> <b>** NOVAS DATAS **</b> </font>)</h4>
         <br>
         <ul class="lista">
             <li>20/julho/2019: data limite para submiss&atilde;o de propostas</li>

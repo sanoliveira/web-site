@@ -1,5 +1,5 @@
 <!-- INICIO DATAS IMPORTANTES -->
-    <h4>Datas Importantes (<b>NOVAS DATAS</b>)</h4>
+    <h4>Datas Importantes (<font color="red"> <b>** NOVAS DATAS **</b> </font>)</h4>
     <br>
     <ul class="lista">
         <li><b>20/julho/2019</b>: data <b>limite</b> para registro de trabalho</li>
