@@ -76,6 +76,31 @@
        
         <br>
         <br>
+        
+        
+        <a class="anchor" id="minicursos_trend"></a>
+        <h3> Workshop Testbed Fibre: Usando Testbeds para pesquisa e aprendizado em redes de computadores (oferecido por <a href="https://www.fibre.org.br/" target="_blank" title="Trend Micro">FIBRE</a>)</h3>
+        <p><b>Data:</b> 18/09/2019</p>
+        <p>
+            <b>Descrição:</b> O testbed FIBRE  (Future Internet Brazilian environment for Experimentation) é uma infraestrutura voltada para realização de pesquisas no campo de Internet do Futuro, tais como novas arquiteturas de redes de computadores e experimentação com redes de sensores. O testbed é aberto para a utilização por estudantes, professores e pesquisadores que desejem testar novas arquiteturas, protocolos e aplicações. Diferente de simuladores, o FIBRE expõe o usuário a um ambiente de experimentação de larga escala, baseado em dispositivos físicos (como switches e servidores), onde problemas observados no "mundo real", como limitações de hardware, latência, perda de pacotes, entre outros, podem ser experimentados.  </p>
+        
+         <p>
+            Este workshop tem por objetivo apresentar o testbed FIBRE, sua arquitetura e potencial para o uso nas áreas de ensino e pesquisa. O workshop está dividido em 3 sessões, sendo a primeira uma introdução ao testbed e ao portal de experimentação. Já a segunda sessão está reservada para apresentar casos de uso do testbed para ensino e pesquisa. Por fim, na terceira sessão será realizada uma demonstração do FIBRE acompanhada de atividades hands-on.
+        </p>
+        <p><b>Público-alvo:</b></p>
+        <ul>
+            <li>Professores, pesquisadores e alunos de cursos de Redes de Computadores e sistemas distribuídos (nível técnico, graduação ou pós-graduação).</li>
+        </ul><!-- fim lista -->
+        
+        <p><b>Requisitos técnicos:</b> </p>
+        <ul>
+            <li>Para participar das atividades de hands-on é necessário um Computador/Notebook com acesso à Internet. </li>
+        </ul><!-- fim lista --> 
+        
+        </p>
+        <br>
+        <br>
+        
     </div>
 </div><!--         FIM CONTEUDO PROGRAMACAO      -->
 

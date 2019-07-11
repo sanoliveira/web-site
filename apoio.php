@@ -37,6 +37,9 @@
                 </div>
 
                 <div class="col-md-12 text-center">
+                    <a href="https://www.rnp.br/" target="_blank" title="Rede Nacional de Ensino e Pesquisa">
+                        <img class="colaboradora" alt="Rede Nacional de Ensino e Pesquisa" src="img/logo_inst_colaboradora/rnp.png">
+                    </a>
                     
                     <a href="https://www.unijui.edu.br/" target="_blank" title="Universidade Regional do Noroeste do Estado do Rio Grande do Sul">
                         <img class="colaboradora" alt="Universidade Regional do Noroeste do Estado do Rio Grande do Sul" src="img/logo_inst_colaboradora/Unijui.png">
