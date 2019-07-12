@@ -16,6 +16,7 @@
 <li>Cristiano Both (UNISINOS)</li>
 <li>Cristina Nunes (PUC-RS)</li>
 <li>Dalvan Griebler (SETREM)</li>
+<li>Deivid Rodrigues (Interneith)</li>
 <li>Diego Kreutz (UNIPAMPA)</li>
 <li>Diogo Menezes Ferrazani Mattos (UFF)</li>
 <li>Djamel Sadok (UFPE)</li>
@@ -36,8 +37,6 @@
 <li>Glederson Santos (IFSul)</li>
 <li>Guilherme Koslowski (UDESC)</li>
 <li>Guilherme Sperb Machado (UZH)</li>
-<li>Guilherme da Cunha Rodrigues (UFRGS)</li>
-<li>Jeferson Campos Nobre (UNISINOS)</li>
 <li>João Ceron (Universidade de Twente)</li>
 <li>Juliano Wickboldt (UFRGS)</li>
 <li>Leandro Bertholdo (UFRGS)</li>
@@ -58,7 +57,6 @@
 <li>Matias Schimuneck (UFRGS)</li>
 <li>Pedro Marcos (FURG)</li>
 <li>Pedro Sá da Costa (Copelabs/PT)</li>
-<li>Rafael Aschoff (IFPE)</li>
 <li>Rafael Bastos (UFPEL)</li>
 <li>Rafael Esteves (IFRS)</li>
 <li>Rafael Kunst (UNISINOS)</li>
@@ -78,9 +76,9 @@
 <li>Roger Immich (IC/UNICAMP)</li>
 <li>Rogério Turchetti (UFSM)</li>
 <li>Simone Ceolin (UFSM)</li>
+<li>Simone Ceolin (UFSM)</li>
 <li>Tiago Ferreto (PUC-RS)</li>
 <li>Tiago Sanchotente (Raptor)</li>
 <li>Valter Roesler (UFRGS)</li>
 <li>Vinicius Vielmo Cogo (ULisboa)</li>
 <li>Vinícius Guimarães (IFSUL)</li>
-<li>Walter Priesnitz Filho (CTISM)</li>
