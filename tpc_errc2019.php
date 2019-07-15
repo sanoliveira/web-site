@@ -53,7 +53,6 @@
 <li>Marco Antonio Torrez Rojas (IFSC)</li>
 <li>Marco Aurélio Spohn (UFFS)</li>
 <li>Marco Trentin (UPF)</li>
-<li>Marinho Barcellos (UFRGS)</li>
 <li>Matias Schimuneck (UFRGS)</li>
 <li>Pedro Marcos (FURG)</li>
 <li>Pedro Sá da Costa (Copelabs/PT)</li>
