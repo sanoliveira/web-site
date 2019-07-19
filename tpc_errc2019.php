@@ -4,6 +4,7 @@
 <li>Anderson Monteiro da Rocha (IFFarroupilha)</li>
 <li>Andrea Charao (UFSM)</li>
 <li>André Riker (UFPA)</li>
+<li>Antonio Candia (UFSM)</li>
 <li>Arthur Lorenzon (UNIPAMPA)</li>
 <li>Bruno Dalmazo (UFRGS)</li>
 <li>Bruno Vizzotto (UNIPAMPA)</li>
@@ -15,6 +16,7 @@
 <li>Claudio Schepke (UNIPAMPA)</li>
 <li>Cristiano Both (UNISINOS)</li>
 <li>Cristina Nunes (PUC-RS)</li>
+<li>César Loureiro (IFRS-Porto Alegre)</li>
 <li>Dalvan Griebler (SETREM)</li>
 <li>Deivid Rodrigues (Interneith)</li>
 <li>Diego Kreutz (UNIPAMPA)</li>
@@ -74,7 +76,6 @@
 <li>Rodrigo Ruas Oliveira (UFRGS)</li>
 <li>Roger Immich (IC/UNICAMP)</li>
 <li>Rogério Turchetti (UFSM)</li>
-<li>Simone Ceolin (UFSM)</li>
 <li>Simone Ceolin (UFSM)</li>
 <li>Tiago Ferreto (PUC-RS)</li>
 <li>Tiago Sanchotente (Raptor)</li>
