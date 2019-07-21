@@ -2,9 +2,9 @@
     <h4>Datas Importantes (<font color="red"> <b>** NOVAS DATAS **</b> </font>)</h4>
     <br>
     <ul class="lista">
-        <li><font color="red"><b>28/julho/2019</b></font>: data <b>limite</b> para registro de trabalho</li>
+        <li><font color="red"><b>28/julho/2019</b></font>: data <b>limite (hard)</b> para registro de trabalho</li>
 
-        <li><font color="red"><b>28/julho/2019</b></font>: data <b>limite</b> para submiss&atilde;o dos trabalhos</li>
+        <li><font color="red"><b>28/julho/2019</b></font>: data <b>limite (hard)</b> para submiss&atilde;o dos trabalhos</li>
 
         <li>16/agosto/2019: notifica&ccedil;&atilde;o aos autores</li>
 
