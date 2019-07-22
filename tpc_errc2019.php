@@ -74,7 +74,6 @@
 <li>Rodrigo Calheiros (Western Sydney University)</li>
 <li>Rodrigo Mansilha (UNIPAMPA)</li>
 <li>Rodrigo Righi (UNISINOS)</li>
-<li>Rodrigo Ruas Oliveira (UFRGS)</li>
 <li>Roger Immich (IC/UNICAMP)</li>
 <li>Rogério Turchetti (UFSM)</li>
 <li>Simone Ceolin (UFSM)</li>
