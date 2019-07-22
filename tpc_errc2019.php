@@ -49,6 +49,7 @@
 <li>Luciano Ignaczak (UNISINOS)</li>
 <li>Luciano Paschoal Gaspary (UFRGS)</li>
 <li>Lucio Prade (UNISINOS)</li>
+<li>Luis Augusto Dias Knob (IFRS-Sertão)</li>
 <li>Magnum Foletto (Àvato)</li>
 <li>Marcelo da Silva Conterato (PUCRS)</li>
 <li>Marcia Pasin (UFSM)</li>
