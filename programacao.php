@@ -46,6 +46,17 @@
         </p>
 
         <br>
+        <a class="anchor" id="palestras_william"></a>
+        <h3> Como funciona a internet que eu uso? (por William Magerl)</h3>
+        <p><b>Data:</b> a ser definida</p>
+        <p>
+        <b>Descrição:</b> A internet do nosso dia a dia não é baseada somente na resolução de nomes (DNS) e acesso ao conteúdo pelo endereço IP. Sua  rede social e seus dados podem estar a milhares de quilômetros da sua casa. Mas como esse acesso é feito? Essa palestra tem o intuito de mostrar como a internet funciona e está distribuída.  ISP's, IX, BGP: Todos esses tópicos tem uma grande influência na sua experiência de navegação. Vamos explora-los juntos.
+        </p>
+        <p>
+        <b>Minibio:</b> Analista de redes de computadores no Ponto de Presença da RNP no Rio Grande de Sul (PoP-RS/RNP), responsável pela rede MetroPOA. Graduado em redes de computadores pela Univates. Certificação CCNA e JNCIA.
+        </p>
+
+        <br>
     </div>
 </div>
  
