@@ -1,7 +1,5 @@
 <li>Adenauer Yamin (UFPEL)</li>
-<li>Adriano Fiorese (UDESC)</li>
 <li>Alberto Schaeffer-Filho (UFRGS)</li>
-<li>Anderson Monteiro da Rocha (IFFarroupilha)</li>
 <li>Andrea Charao (UFSM)</li>
 <li>André Riker (UFPA)</li>
 <li>Antonio Candia (UFSM)</li>
@@ -9,7 +7,6 @@
 <li>Bruno Dalmazo (UFRGS)</li>
 <li>Bruno Vizzotto (UNIPAMPA)</li>
 <li>Carlos Raniery Paula dos Santos (UFSM)</li>
-<li>Carlos Schaeffer (UPF)</li>
 <li>Carlos Vinícius Rasch Alves (SENAC-RS)</li>
 <li>Charles Christian Miers (UDESC)</li>
 <li>Clarissa Marquezan (Huawei)</li>
@@ -18,28 +15,22 @@
 <li>Cristina Nunes (PUC-RS)</li>
 <li>César Loureiro (IFRS-Porto Alegre)</li>
 <li>Dalvan Griebler (SETREM)</li>
-<li>Deivid Rodrigues (Interneith)</li>
 <li>Diego Kreutz (UNIPAMPA)</li>
 <li>Diogo Menezes Ferrazani Mattos (UFF)</li>
 <li>Djamel Sadok (UFPE)</li>
 <li>Douglas Macedo (UFSC)</li>
 <li>Edison Pignaton De Freitas (UFRGS)</li>
-<li>Edson Padoin (UNIJUI)</li>
-<li>Eduardo Back (IENH)</li>
 <li>Eduardo Moroñas Monks (SENAC-RS/UFPEL)</li>
 <li>Erico Amaral (UNIPAMPA)</li>
 <li>Ewerton Salvador (UFPB)</li>
-<li>Fauzi Shubeita (SETREM)</li>
 <li>Felipe Nunes (AMF)</li>
 <li>Fábio Rossi (PUC-RS)</li>
 <li>Gerson Batistti (UNIJUI)</li>
 <li>Gerson Soares (UNIMI)</li>
 <li>Giani Petri (UFSM)</li>
-<li>Giovane Moura (SIDN)</li>
 <li>Glederson Santos (IFSul)</li>
 <li>Guilherme Koslowski (UDESC)</li>
 <li>Guilherme Sperb Machado (UZH)</li>
-<li>João Ceron (Universidade de Twente)</li>
 <li>Juliano Wickboldt (UFRGS)</li>
 <li>Leandro Bertholdo (UFRGS)</li>
 <li>Leonardo Pinho (UNIPAMPA)</li>
@@ -50,19 +41,15 @@
 <li>Luciano Paschoal Gaspary (UFRGS)</li>
 <li>Lucio Prade (UNISINOS)</li>
 <li>Luis Augusto Dias Knob (IFRS-Sertão)</li>
-<li>Magnum Foletto (Àvato)</li>
-<li>Marcelo da Silva Conterato (PUCRS)</li>
 <li>Marcia Pasin (UFSM)</li>
 <li>Marco Antonio Torrez Rojas (IFSC)</li>
 <li>Marco Aurélio Spohn (UFFS)</li>
-<li>Marco Trentin (UPF)</li>
 <li>Matias Schimuneck (UFRGS)</li>
 <li>Pedro Marcos (FURG)</li>
 <li>Pedro Sá da Costa (Copelabs/PT)</li>
 <li>Rafael Bastos (UFPEL)</li>
 <li>Rafael Esteves (IFRS)</li>
 <li>Rafael Kunst (UNISINOS)</li>
-<li>Rafael Teodósio Pereira (CTISM/UFSM)</li>
 <li>Raul Ceretta Nunes (UFSM)</li>
 <li>Regio Michelin (IFRS)</li>
 <li>Reinaldo Gomes (UFCG)</li>
@@ -78,7 +65,6 @@
 <li>Rogério Turchetti (UFSM)</li>
 <li>Simone Ceolin (UFSM)</li>
 <li>Tiago Ferreto (PUC-RS)</li>
-<li>Tiago Sanchotente (Raptor)</li>
 <li>Valter Roesler (UFRGS)</li>
 <li>Vinicius Vielmo Cogo (ULisboa)</li>
 <li>Vinícius Guimarães (IFSUL)</li>
