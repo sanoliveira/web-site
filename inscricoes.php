@@ -21,7 +21,9 @@
               <li>Pagamento da inscrição poderá ser realizado por  meio de boleto bancário, cartão de crédito VISA, débito em conta do Banco do Brasil ou nota de empenho, através do portal.</li>
               <li>Caravanas de Estudantes: há uma promoção  especial para estudantes nesta página.</li>
             
-                <li>A taxa de Inscrição  cobre a participação nas sessões técnicas, palestras, minicursos, material da Escola e coffee-breaks.</li>
+            <li>A taxa de Inscrição  cobre a participação nas sessões técnicas, palestras, minicursos, material da Escola e coffee-breaks.</li>
+                
+            <li>O pagamento das inscrições poderá ser realizado por boleto bancário, cartão de crédito, nota de empenho, faturamento e débito (Banco do Brasil). O pagamento por boleto e débito (Banco do Brasil) só será possível até dia 11/09/2019, após esse período será pagar por cartão de crédito, nota de empenho e faturamento ou em espécie durante o evento.</li>
                 
                  
               </ul>
