@@ -8,7 +8,7 @@
 
 <div class="container-fluid">
     <div class="container">
-        <h3>Comit&ecirc; de Programa (em forma&ccedil;&atilde;o)</h3>
+        <h3>Comit&ecirc; de Programa</h3>
         <ul class="lista">
             <?php include 'tpc_wrseg2019.php';?>
         </ul>
