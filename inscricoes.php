@@ -102,9 +102,10 @@
     </div> 
 </div>  <!-- FIM CONTEUDO GERAL -->
 
+<a class="anchor" id="caravanas"></a>
 <div class="container-fluid bg-success"> <!-- CONTEUDO CARAVANAS -->
     <div class="container">
-      <h3><a name="caravana"></a>Descontos para Caravanas</h3>
+      <h3>Descontos para Caravanas</h3>
       <p>A organização do ERRC concederá descontos especiais para  caravanas de estudantes. A cada <font color="red"><b>oito (8)</b></font> estudantes inscritos e pagos, será  concedida uma nova inscrição de estudante gratuita. </p>
      
       <p>Os estudantes que forem participar da caravana devem preencher o formulário de inscrição on-line, confirmar e pagar suas inscrições. Os inscritos que terão o benefício da gratuidade também devem preencher o  formulário de inscrição, porém não devem efetuar o pagamento.<br>
