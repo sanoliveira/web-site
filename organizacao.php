@@ -101,9 +101,10 @@
 <div id="comite-de-programa"></div>   
 <div class="container-fluid bg-success">
     <div class="container">
-        <h3>Comitê de Programa (em formação)</h3>
+        <h3>Comitê de Programa</h3>
         
-        <div class="lista-em-colunas">
+       <!--  <div class="lista-em-colunas"> -->
+        <div class="col-sm-6">
             <?php include 'tpc_errc2019.php';?>
         </div>
         

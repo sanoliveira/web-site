@@ -41,6 +41,7 @@
 <li>Luciano Paschoal Gaspary (UFRGS)</li>
 <li>Lucio Prade (UNISINOS)</li>
 <li>Luis Augusto Dias Knob (IFRS-Sertão)</li>
+<li>Marcelo Luizelli (UNIPAMPA)</li>
 <li>Marcia Pasin (UFSM)</li>
 <li>Marco Antonio Torrez Rojas (IFSC)</li>
 <li>Marco Aurélio Spohn (UFFS)</li>
