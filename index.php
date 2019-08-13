@@ -50,6 +50,7 @@
                 <h4>Novidades</h4>
                 <br>
                 <ul class="lista">
+                    <li>06/agosto/2019: <a href="inscricoes.php">Inscrições abertas!</a></li>
                     <li>27/maio/2019: <a href="programacao.php?#minicursos_trend">Minicurso da Trend Micro</a> confirmado!</li>
                     <li>01/feveiro/2019: site no ar!</li>
                     <li>20/setembro/2018: anúncio da ERRC em Alegrete!</li>
