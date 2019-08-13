@@ -114,7 +114,8 @@
         <p>
         Completadas as inscrições, o coordenador da caravana deverá  enviar para <a href="mailto:errc2019@unipampa.edu.br">errc2019@unipampa.edu.br</a> uma mensagem com o  assunto &ldquo;Caravana [nome da sua instituição]&ldquo;, contendo no corpo da mensagem a  relação com os nomes dos estudantes que fazem parte do grupo e indicando o(s)  nome(s) do(s) estudante(s) com direito a gratuidade.
         </p>
-
+        
+        <p><a href="local.php?#caravanas">Mais informações aqui!</a></p>
     </div>
 </div> <!-- FIM CONTEUDO CARAVANAS -->
      
