@@ -15,6 +15,7 @@
 <li>Cristina Nunes (PUC-RS)</li>
 <li>César Loureiro (IFRS-Porto Alegre)</li>
 <li>Dalvan Griebler (SETREM)</li>
+<li>Dartagnan Dias de Farias (SENAC-RS)</li>
 <li>Diego Kreutz (UNIPAMPA)</li>
 <li>Diogo Menezes Ferrazani Mattos (UFF)</li>
 <li>Djamel Sadok (UFPE)</li>
