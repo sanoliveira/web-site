@@ -74,19 +74,25 @@
 <b>Registro de eventos de alocação de contêineres em Blockchain</b>
 <i>Marco Marques, Charles Miers (Universidade do Estado de Santa Catarina - UDESC)</i>
 <br>
+<br>
 <b>Uma Investigação sob a Percepção dos Usuários no Desempenho da Rede no Instituto Federal Catarinense - Campus Avançado Sombrio</b>
 <i>Diuliana de Matos da Rosa, Liliana Campos Colares, Matheus Lorenzato Braga, Victor Martins de Sousa (Instituto Federal Catarinense - Campus Avançado Sombrio)</i>
+<br>
 <br>
 <b>Avaliação de Desempenho de Heavy Hitters utilizando P4 e XDP</b>
 <i>Douglas Machado, Ariel Góes de Castro, Francisco Vogt, Marcelo Caggiani Luizelli (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>
+<br>
 <b>Composição Eficiente de Encadeamento de Funções de Serviços</b>
 <i>Igor Capeletti (Universidade Federal do Pampa - UNIPAMPA), Fabio Rossi (Instituto Federal Farroupilha - Campus Alegrete), Marcelo Caggiani Luizelli (Universidade Federal do Pampa - UNIPAMPA)</i>
+<br>
 <br>
 <b>Rumo à visibilidade total da rede: uma estratégia adaptativa para coordenadar a coleta de dados de telemetria in-band</b>
 <i>Rumenigue Hohemberger, Fabio Rossi (Instituto Federal Farroupilha - Campus Alegrete), Marcelo Caggiani Luizelli (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>
+<br>
 <b>Rumo á Delegação Escalável e Segura de Gerenciamento de LANs para ISPs</b>
 <i>Daniel Temp, Rodrigo Mansilha, (Universidade Federal do Pampa - UNIPAMPA), Deivid Rodrigues (Interneith), Diego Kreutz (Universidade Federal do Pampa - UNIPAMPA)</i>
+<br>
 <br>
 </p>
