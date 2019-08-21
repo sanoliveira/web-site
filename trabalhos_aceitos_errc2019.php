@@ -8,7 +8,7 @@
 <br>
 <b>Análise do Desempenho de Heurísticas na Coleta de Informações de Telemetria In-Band</b>
 <br>
-<i>Ariel Góes de Castro, Francisco Vogt, Victor Hugo Lopes, Sérgio Rossi da Silva, Arthur Lorenzon (Universidade Federal do Pampa), Fabio Rossi (Instituto Federal Farroupilha), Marcelo Caggiani Luizelli (Universidade Federal do Pampa)</i>
+<i>Ariel Góes de Castro, Francisco Vogt, Victor Hugo Lopes, Sérgio Rossi da Silva, Arthur Lorenzon (Universidade Federal do Pampa), Fabio Rossi (Instituto Federal Farroupilha), Marcelo Caggiani Luizelli (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>
 <br>
 <b>Análise do Desempenho de VPNs nas Camadas de Rede e Enlace</b>
@@ -18,7 +18,7 @@
 <br>
 <b>Avaliação do uso de Smart Contracts para Sistema de Saúde Colaborativa</b>
 <br>
-<i>Vinícius Branco, Bruno Lippert, Henry Nunes (PUCRS), Roben Lunardi (Instituto Federal do Rio Grande do Sul - IFRS), Avelino Zorzo(PUCRS)</i>
+<i>Vinícius Branco, Bruno Lippert, Henry Nunes (PUCRS), Roben Lunardi (Instituto Federal do Rio Grande do Sul - IFRS), Avelino Zorzo (PUCRS)</i>
 <br>
 <br>
 <b>Definindo um Protocolo de Autenticação Utilizando Bluetooth Low Energy para Dispositivos no Conceito de IoT</b>
@@ -53,7 +53,7 @@
 <br>
 <b>Plataforma e-consumo: Monitoramento Inteligente do Consumo de Energia Elétrica em Residências</b>
 <br>
-<i>Larissa Del Rio, Andre Eichner, Tiago Antônio Rizzetti (Universidade Federal de Santa Maria)</i>
+<i>Larissa Del Rio, Andre Eichner, Tiago Antônio Rizzetti (Universidade Federal de Santa Maria - UFSM)</i>
 <br>
 <br>
 <b>Projeto redes: implementação de uma MANET para a conexão de dispositivos IoT utilizando protocolo OLSR</b>
@@ -83,7 +83,7 @@
 <br>
 <b>Zabbix Monitoring Tool Optimization at Hospital Universitário de Santa Maria</b>
 <br>
-<i>Vinícius Röpke, Matheus Guarienti, Tiago Antonio Rizzetti (Universidade Federal de Santa Maria)</i>
+<i>Vinícius Röpke, Matheus Guarienti, Tiago Antonio Rizzetti (Universidade Federal de Santa Maria - UFSM)</i>
 <br>
 <br>
 </p>
@@ -126,17 +126,17 @@
 <br>
 <b>Avaliação do uso de Smart Contracts para Sistema de Saúde Colaborativa</b>
 <br>
-<i>Vinícius Branco, Bruno Lippert, Henry Nunes (PUCRS), Roben Lunardi (Instituto Federal do Rio Grande do Sul - IFRS), Avelino Zorzo(PUCRS)</i>
+<i>Vinícius Branco, Bruno Lippert, Henry Nunes (PUCRS), Roben Lunardi (Instituto Federal do Rio Grande do Sul - IFRS), Avelino Zorzo (PUCRS)</i>
 <br>
 <br>
 <b>Análise do Desempenho de Heurísticas na Coleta de Informações de Telemetria In-Band</b>
 <br>
-<i>Ariel Góes de Castro, Francisco Vogt, Victor Hugo Lopes, Sérgio Rossi da Silva, Arthur Lorenzon (Universidade Federal do Pampa), Fabio Rossi (Instituto Federal Farroupilha), Marcelo Caggiani Luizelli (Universidade Federal do Pampa)</i>
+<i>Ariel Góes de Castro, Francisco Vogt, Victor Hugo Lopes, Sérgio Rossi da Silva, Arthur Lorenzon (Universidade Federal do Pampa), Fabio Rossi (Instituto Federal Farroupilha), Marcelo Caggiani Luizelli (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>
 <br>
 <b>Plataforma e-consumo: Monitoramento Inteligente do Consumo de Energia Elétrica em Residências</b>
 <br>
-<i>Larissa Del Rio, Andre Eichner, Tiago Antônio Rizzetti (Universidade Federal de Santa Maria)</i>
+<i>Larissa Del Rio, Andre Eichner, Tiago Antônio Rizzetti (Universidade Federal de Santa Maria - UFSM)</i>
 <br>
 <br>
 </p>
