@@ -1,5 +1,6 @@
 <h4>LISTA PROVISÓRIA DOS PAPERS ACEITOS</h4>
 <p>
+<br>
 <b>Segurança na camada de enlace</b>
 <br>
 <i>Felipe Franz (Universidade Tecnológica Federal do Paraná)</i>
@@ -88,6 +89,7 @@
 </p>
 <h4>LISTA PROVISÓRIA DOS RESUMOS ESTENDIDOS ACEITOS</h4>
 <p>
+<br>
 <b>Registro de eventos de alocação de contêineres em Blockchain</b>
 <br>
 <i>Marco Marques, Charles Miers (Universidade do Estado de Santa Catarina - UDESC)</i>
