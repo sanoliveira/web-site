@@ -110,7 +110,7 @@
 <i>Rumenigue Hohemberger, Fabio Rossi (Instituto Federal Farroupilha - Campus Alegrete), Marcelo Caggiani Luizelli (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>
 <br>
-<b>Rumo á Delegação Escalável e Segura de Gerenciamento de LANs para ISPs</b>
+<b>Rumo à Delegação Escalável e Segura de Gerenciamento de LANs para ISPs</b>
 <br>
 <i>Daniel Temp, Rodrigo Mansilha, (Universidade Federal do Pampa - UNIPAMPA), Deivid Rodrigues (Interneith), Diego Kreutz (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>
