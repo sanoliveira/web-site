@@ -40,7 +40,7 @@
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
 
-<div class="container-fluid">
+<div class="container-fluid bg-success">
     <div class="container">
 
 <?php
@@ -50,7 +50,7 @@
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
 
-<div class="container-fluid bg-success">
+<div class="container-fluid">
     <div class="container">
         <h3>Tópicos de interesse (lista não exaustiva)</h3>
         
@@ -96,7 +96,7 @@
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
 
-<div class="container-fluid">
+<div class="container-fluid bg-success">
     <div class="container">
         <h3>Submiss&atilde;o de Trabalhos</h3>
         <p>
@@ -119,13 +119,13 @@
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
 
-<div class="container-fluid bg-success">
+<div class="container-fluid">
     <div class="container">
         <?php include 'sugestoes_autores.php';?>
     </div> <!-- fim container --> 
 </div> <!-- fim container fluid --> 
 
-<div class="container-fluid ">
+<div class="container-fluid bg-success">
     <div class="container">
         <h3>Comit&ecirc; de Programa</h3>
         <ul class="lista">
