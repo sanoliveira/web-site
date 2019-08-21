@@ -81,17 +81,17 @@
 <h4>MELHORES PAPERS DO WRSeg 2019</h4>
 <p>
 <br>
-<b>Os meus dados de fato vazaram? Uma análise de serviços que monitoram vazamentos de dados na Internet</b>
+<b>Os meus dados de fato vazaram? Uma análise de serviços que monitoram vazamentos de dados na Internet [média geal no JEMS: 9.2]</b>
 <br>
 <i>Ariel Góes de Castro, Felipe Quirino, Francisco Vogt, Diego Kreutz, João Otávio Chervinski (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>
 <br>
-<b>SAAS: Uma Solução de Autenticação para Aplicativos de Smartphones</b>
+<b>SAAS: Uma Solução de Autenticação para Aplicativos de Smartphones [média geral no JEMS: 8.9]</b>
 <br>
 <i>Rafael Fernandes, Giulliano Paz, Diego Kreutz, Rodrigo Mansilha (Universidade Federal do Pampa - UNIPAMPA), Roger Immich (Universidade Federal do Rio Grande do Norte - UFRN)</i>
 <br>
 <br>
-<b>Pesquisa experimental sobre Ataques Cibernéticos em serviços de infraestruturas de nuvens públicas baseadas em soluções Microsoft Azure</b>
+<b>Pesquisa experimental sobre Ataques Cibernéticos em serviços de infraestruturas de nuvens públicas baseadas em soluções Microsoft Azure [média geral no JEMS: 8.7]</b>
 <br>
 <i>Mateus Santos, Daniel Marcon (Universidade do Vale do Rio dos Sinos - UNISINOS)</i>
 <br>

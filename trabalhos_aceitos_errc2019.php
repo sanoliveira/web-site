@@ -124,17 +124,17 @@
 <h4>MELHORES PAPERS DA ERRC 2019</h4>
 <p>
 <br>
-<b>Avaliação do uso de Smart Contracts para Sistema de Saúde Colaborativa</b>
+<b>Avaliação do uso de Smart Contracts para Sistema de Saúde Colaborativa [média geral no JEMS: 8.7]</b>
 <br>
 <i>Vinícius Branco, Bruno Lippert, Henry Nunes (PUCRS), Roben Lunardi (Instituto Federal do Rio Grande do Sul - IFRS), Avelino Zorzo (PUCRS)</i>
 <br>
 <br>
-<b>Análise do Desempenho de Heurísticas na Coleta de Informações de Telemetria In-Band</b>
+<b>Análise do Desempenho de Heurísticas na Coleta de Informações de Telemetria In-Band [média geral no JEMS: 8.6]</b>
 <br>
 <i>Ariel Góes de Castro, Francisco Vogt, Victor Hugo Lopes, Sérgio Rossi da Silva, Arthur Lorenzon (Universidade Federal do Pampa), Fabio Rossi (Instituto Federal Farroupilha), Marcelo Caggiani Luizelli (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>
 <br>
-<b>Plataforma e-consumo: Monitoramento Inteligente do Consumo de Energia Elétrica em Residências</b>
+<b>Plataforma e-consumo: Monitoramento Inteligente do Consumo de Energia Elétrica em Residências [média geral no JEMS: 8.1]</b>
 <br>
 <i>Larissa Del Rio, Andre Eichner, Tiago Antônio Rizzetti (Universidade Federal de Santa Maria - UFSM)</i>
 <br>
