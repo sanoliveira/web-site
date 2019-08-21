@@ -34,6 +34,16 @@
     <div class="container">
 
 <?php
+    require_once('trabalhos_aceitos_wrseg2019.php');
+?>
+
+    </div> <!-- fim container --> 
+</div> <!-- fim container fluid --> 
+
+<div class="container-fluid">
+    <div class="container">
+
+<?php
     require_once('chamada_de_trabalhos.php');
 ?>
 
