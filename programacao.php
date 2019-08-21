@@ -8,10 +8,7 @@
         <!-- INICIO CONTEUDO PROGRAMACAO      -->
         <br><br><br>
         <h3>Sessões Técnicas</h3>
-
-        <p>
-            Em breve ser&atilde;o publicadas informa&ccedil;&otilde;es sobre a programa&ccedil;&atilde;o do evento.
-        </p>
+            <?php include 'trabalhos_aceitos_errc2019.php';?>
         <br><br>
     </div>
 </div><!--         FIM CONTEUDO PROGRAMACAO      -->
