@@ -121,7 +121,7 @@
 <br>
 <br>
 </p>
-<h4>MELHORES PAPERS</h4>
+<h4>MELHORES PAPERS DA ERRC 2019</h4>
 <p>
 <br>
 <b>Avaliação do uso de Smart Contracts para Sistema de Saúde Colaborativa</b>
