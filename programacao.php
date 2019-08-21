@@ -6,7 +6,7 @@
 <div class="container-fluid">
     <div class="container">
         <!-- INICIO CONTEUDO PROGRAMACAO      -->
-        <br><br><br>
+        <br><br><br><br>
         <h3>Sessões Técnicas</h3>
             <?php include 'trabalhos_aceitos_errc2019.php';?>
         <br><br>
