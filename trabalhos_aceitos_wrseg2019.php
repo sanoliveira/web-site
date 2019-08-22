@@ -38,7 +38,7 @@
 <i>Jean Garcia, Lucas Dias, Tiago Antônio Rizzetti (Universidade Federal de Santa Maria - UFSM)</i>
 <br>
 <br>
-<b>Uma Primeira Analise do Ecosistema HTTPS no Brasil</b>
+<b>Uma Primeira Análise do Ecosistema HTTPS no Brasil</b>
 <br>
 <i>Thiago Escarrone, Diego Kreutz, Maurício Fiorenza (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>
