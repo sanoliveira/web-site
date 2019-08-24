@@ -130,7 +130,7 @@
         
         <h4>Cronograma</h4>
         <ul>
-        <li>Envio da relação dos integrantes e agendamento de horários de chegada e partida dos grupos: 29/08/2019</li>
+        <li>Envio da relação dos integrantes e agendamento de horários de chegada e partida dos grupos: 03/09/2019</li>
         <li>Recepção das caravanas: 16/09/2019</li>
         </ul>
         
